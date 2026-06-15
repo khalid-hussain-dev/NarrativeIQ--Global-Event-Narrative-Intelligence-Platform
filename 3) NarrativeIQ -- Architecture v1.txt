@@ -1,0 +1,342 @@
+NarrativeIQ Architecture v1
+
+Think of it as 6 layers.
+
+┌────────────────────────────┐
+│     DATA SOURCES           │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│     DATA INGESTION         │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│      ETL PIPELINE          │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│      DATA WAREHOUSE        │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│   INTELLIGENCE ENGINE      │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│ DASHBOARD & VISUALIZATION  │
+└────────────────────────────┘
+Layer 1 — Data Sources
+
+This is where things become interesting.
+
+We don't want a CSV-only project.
+
+We want multiple information streams.
+
+Source A
+
+News Articles
+
+Fields:
+
+title
+source
+author
+publication date
+article content
+Source B
+
+Social Media Posts
+
+Fields:
+
+platform
+username
+timestamp
+content
+likes
+shares
+Source C
+
+Discussion Forums
+
+Fields:
+
+thread
+comment
+timestamp
+votes
+Source D
+
+Historical Event Datasets
+
+Used for training and demonstrations.
+
+Layer 2 — Data Ingestion
+
+The Collector Layer.
+
+Responsible for:
+
+Fetching data
+Deduplication
+Validation
+Queueing
+Components
+News Collector
+
+Collects articles.
+
+Social Collector
+
+Collects social discussions.
+
+Event Collector
+
+Collects event metadata.
+
+Output:
+
+Raw Data Lake
+Layer 3 — ETL Pipeline
+
+This is where your DW&BD marks come from.
+
+Extract
+
+Acquire raw data.
+
+Transform
+
+Clean:
+
+URLs
+Emojis
+HTML
+Spam
+
+Normalize:
+
+Date formats
+User references
+Platforms
+Enrich
+
+Apply NLP.
+
+Extract:
+
+Topics
+Entities
+Keywords
+
+Example:
+
+OpenAI launches GPT-X
+
+Entities:
+
+OpenAI
+GPT-X
+AI
+Sentiment Engine
+
+Assign:
+
+Positive
+Neutral
+Negative
+
+and sentiment score.
+
+Load
+
+Load processed data into warehouse.
+
+Layer 4 — Data Warehouse
+
+This is the heart of the project.
+
+Dimension Tables
+Dim_Date
+day
+week
+month
+year
+Dim_Source
+source_id
+source_name
+source_type
+Dim_Event
+event_id
+event_name
+category
+Dim_Entity
+entity_id
+entity_name
+entity_type
+
+Examples:
+
+OpenAI
+Pakistan
+World Cup
+Tesla
+Dim_Topic
+
+Examples:
+
+Politics
+Sports
+Technology
+Finance
+Dim_Sentiment
+Positive
+Neutral
+Negative
+Fact Tables
+Fact_Content
+
+Stores every processed content item.
+
+Measures:
+
+likes
+shares
+comments
+engagement score
+Fact_Sentiment
+
+Measures:
+
+sentiment score
+polarity
+Fact_Trend
+
+Measures:
+
+topic frequency
+growth rate
+popularity score
+Fact_Entity_Mention
+
+Tracks:
+
+Entity
+Mention Count
+Time
+Source
+
+This is where Star Schema becomes beautiful.
+
+Layer 5 — Intelligence Engine
+
+This is the part that makes the project exhibition-worthy.
+
+Not just analytics.
+
+Intelligence.
+
+Module 1
+
+Narrative Evolution Engine
+
+Tracks:
+
+Topic
+↓
+Growth
+↓
+Peak
+↓
+Decline
+Module 2
+
+Sentiment Evolution Engine
+
+Tracks:
+
+How people felt
+over time
+Module 3
+
+Influence Detection
+
+Find:
+
+influential users
+influential sources
+Module 4
+
+Emerging Topic Detection
+
+Detect:
+
+Topic suddenly growing
+
+before it becomes mainstream.
+
+Module 5
+
+Event Timeline Reconstruction
+
+Automatically generate:
+
+Day 1
+Day 2
+Day 3
+...
+
+timeline of event evolution.
+
+Layer 6 — Intelligence Dashboard
+
+This is where judges spend most of their time.
+
+Global Event Monitor
+
+Shows:
+
+active events
+sentiment
+growth
+Narrative Evolution View
+
+Interactive timeline.
+
+Sentiment Heatmap
+
+Visual sentiment shifts.
+
+Entity Intelligence View
+
+Shows:
+
+most discussed entities
+growth trends
+Influence Network Graph
+
+Relationships between:
+
+entities
+topics
+sources
+Why I Like This Architecture
+
+Because every major component directly maps to DW&BD concepts:
+
+DW&BD Concept	Where Used
+Data Profiling	ETL
+Data Cleaning	ETL
+Warehousing	Star Schema
+Materialized Views	Trend Aggregation
+SCD	Entity History
+Aggregation	Analytics Layer
+Pandas	Processing Layer
+BI Queries	Dashboard
+Big Data	Multi-source ingestion

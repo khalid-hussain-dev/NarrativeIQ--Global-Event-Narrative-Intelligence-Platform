@@ -1,0 +1,715 @@
+date,event_id,event_name,topic,topic_category,volume,sentiment_score,growth_rate,influence_score,narrative_strength,lifecycle_stage
+2023-01-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,35,0.176,40.0,9.8,1,Emerging
+2023-01-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,200,0.241,38.89,16.75,3.85,Emerging
+2023-01-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,290,0.212,39.42,19.48,3.72,Emerging
+2023-01-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,244,-0.107,39.43,9.89,3.81,Emerging
+2023-01-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,314,0.013,38.94,16.11,3.78,Emerging
+2023-02-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,621,0.282,1674.29,99,17.25,Emerging
+2023-02-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,210,0.277,5.0,13.71,4.04,Emerging
+2023-02-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,313,0.167,7.93,8.97,4.01,Emerging
+2023-02-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,256,0.072,4.92,14.05,4.0,Emerging
+2023-02-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,319,0.17,1.59,13.35,3.84,Emerging
+2023-03-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1286,0.353,107.09,49.14,35.72,Emerging
+2023-03-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,216,0.312,2.86,13.44,4.15,Emerging
+2023-03-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,326,0.281,4.15,6.13,4.18,Emerging
+2023-03-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,257,-0.021,0.39,15.21,4.02,Emerging
+2023-03-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,336,0.149,5.33,11.47,4.05,Emerging
+2023-04-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1942,0.269,51.01,52.52,53.94,Emerging
+2023-04-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,227,0.264,5.09,8.83,4.37,Emerging
+2023-04-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,320,0.284,-1.84,10.83,4.1,Emerging
+2023-04-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,262,0.141,1.95,9.68,4.09,Emerging
+2023-04-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,347,0.181,3.27,12.19,4.18,Emerging
+2023-05-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,2544,0.399,31.0,60.23,70.67,Emerging
+2023-05-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,215,0.279,-5.29,14.35,4.13,Emerging
+2023-05-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,343,0.303,7.19,11.95,4.4,Emerging
+2023-05-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,277,0.179,5.73,13.99,4.33,Emerging
+2023-05-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,348,0.294,0.29,13.02,4.19,Emerging
+2023-06-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,3060,0.363,20.28,71.88,85.0,Emerging
+2023-06-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,221,0.418,2.79,6.54,4.25,Emerging
+2023-06-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,322,0.254,-6.12,13.29,4.13,Emerging
+2023-06-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,275,0.088,-0.72,6.09,4.3,Emerging
+2023-06-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,368,0.187,5.75,12.83,4.43,Emerging
+2023-07-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,3246,0.355,6.08,77.05,90.17,Growing
+2023-07-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,226,0.406,2.26,6.34,4.35,Emerging
+2023-07-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,319,0.295,-0.93,10.43,4.09,Emerging
+2023-07-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,266,0.226,-3.27,13.86,4.16,Emerging
+2023-07-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,344,0.247,-6.52,6.44,4.14,Emerging
+2023-08-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,3511,0.323,8.16,84.7,97.53,Growing
+2023-08-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,210,0.355,-7.08,12.47,4.04,Emerging
+2023-08-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,307,0.398,-3.76,15.43,3.94,Emerging
+2023-08-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,271,0.132,1.88,5.57,4.23,Emerging
+2023-08-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,330,0.227,-4.07,12.73,3.98,Emerging
+2023-09-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,3510,0.317,-0.03,87.73,97.5,Growing
+2023-09-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,197,0.3,-6.19,9.89,3.79,Emerging
+2023-09-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,316,0.295,2.93,12.11,4.05,Emerging
+2023-09-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,245,0.111,-9.59,10.01,3.83,Emerging
+2023-09-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,319,0.192,-3.33,13.94,3.84,Emerging
+2023-10-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,3407,0.442,-2.93,92.14,94.64,Growing
+2023-10-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,199,0.407,1.02,6.2,3.83,Emerging
+2023-10-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,298,0.347,-5.7,15.65,3.82,Emerging
+2023-10-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,240,0.185,-2.04,13.79,3.75,Emerging
+2023-10-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,311,0.187,-2.51,6.68,3.75,Emerging
+2023-11-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,3105,0.412,-8.86,92.06,86.25,Growing
+2023-11-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,35,0.363,-82.41,20.84,1,Emerging
+2023-11-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,279,0.224,-6.38,8.96,3.58,Emerging
+2023-11-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,216,0.113,-10.0,9.82,3.38,Emerging
+2023-11-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,289,0.267,-7.07,10.03,3.48,Emerging
+2023-12-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,2842,0.374,-8.47,80.72,78.94,Peak
+2023-12-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,690,0.245,1871.43,99,13.27,Emerging
+2023-12-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,249,0.2,-10.75,9.99,3.19,Emerging
+2023-12-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,213,0.088,-1.39,14.13,3.33,Emerging
+2023-12-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,273,0.214,-5.54,13.31,3.29,Emerging
+2024-01-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,2366,0.316,-16.75,75.03,65.72,Peak
+2024-01-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1315,0.207,90.58,44.28,25.29,Emerging
+2024-01-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,238,0.189,-4.42,12.33,3.05,Emerging
+2024-01-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,215,-0.032,0.94,7.56,3.36,Emerging
+2024-01-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,250,0.063,-8.42,6.61,3.01,Emerging
+2024-02-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,2041,0.269,-13.74,75.78,56.69,Peak
+2024-02-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1839,0.125,39.85,50.92,35.37,Emerging
+2024-02-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,234,0.072,-1.68,10.44,3.0,Emerging
+2024-02-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,203,-0.003,-5.58,10.79,3.17,Emerging
+2024-02-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,269,0.066,7.6,10.9,3.24,Emerging
+2024-03-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1724,0.165,-15.53,59.0,47.89,Peak
+2024-03-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,2264,0.125,23.11,60.06,43.54,Emerging
+2024-03-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,243,0.128,3.85,9.11,3.12,Emerging
+2024-03-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,192,-0.024,-5.42,13.0,3.0,Emerging
+2024-03-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,251,-0.029,-6.69,10.94,3.02,Emerging
+2024-04-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1421,0.215,-17.58,49.63,39.47,Declining
+2024-04-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,3042,0.078,34.36,63.98,58.5,Emerging
+2024-04-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,252,0.026,3.7,7.1,3.23,Emerging
+2024-04-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,196,-0.125,2.08,14.82,3.06,Emerging
+2024-04-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,266,-0.072,5.98,11.31,3.2,Emerging
+2024-05-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1002,0.104,-29.49,41.12,27.83,Declining
+2024-05-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,3587,-0.001,17.92,73.21,68.98,Growing
+2024-05-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,242,-0.034,-3.97,15.22,3.1,Emerging
+2024-05-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,200,-0.111,2.04,6.54,3.12,Emerging
+2024-05-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,259,0.012,-2.63,10.92,3.12,Emerging
+2024-06-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,528,0.125,-47.31,26.86,14.67,Declining
+2024-06-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,4186,0.071,16.7,79.44,80.5,Growing
+2024-06-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,283,0.004,16.94,11.27,3.63,Emerging
+2024-06-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,223,-0.129,11.5,13.59,3.48,Emerging
+2024-06-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,277,-0.022,6.95,12.42,3.34,Emerging
+2024-07-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,35,0.133,-93.37,16.82,1,Declining
+2024-07-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,4674,0.034,11.66,83.11,89.88,Growing
+2024-07-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,295,-0.08,4.24,11.23,3.78,Emerging
+2024-07-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,239,-0.217,7.17,8.42,3.73,Emerging
+2024-07-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,309,-0.104,11.55,11.94,3.72,Emerging
+2024-08-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1090,-0.0,3014.29,99,30.28,Archived
+2024-08-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,4841,-0.021,3.57,88.1,93.1,Growing
+2024-08-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,298,-0.047,1.02,13.09,3.82,Emerging
+2024-08-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,236,-0.247,-1.26,13.67,3.69,Emerging
+2024-08-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,320,-0.183,3.56,12.64,3.86,Emerging
+2024-09-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1079,0.071,-1.01,26.62,29.97,Archived
+2024-09-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,5178,0.028,6.96,88.15,99.58,Growing
+2024-09-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,35,-0.05,-88.26,13.47,1,Emerging
+2024-09-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,269,-0.199,13.98,15.92,4.2,Emerging
+2024-09-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,345,-0.178,7.81,11.42,4.16,Emerging
+2024-10-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,1032,-0.013,-4.36,34.29,28.67,Archived
+2024-10-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,5429,-0.067,4.85,91.08,100,Growing
+2024-10-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,1376,0.006,3831.43,99,17.64,Emerging
+2024-10-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,275,-0.125,2.23,7.45,4.3,Emerging
+2024-10-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,349,-0.182,1.16,10.93,4.2,Emerging
+2024-11-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,954,0.082,-7.56,30.49,26.5,Archived
+2024-11-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,5383,-0.02,-0.85,89.71,100,Peak
+2024-11-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,2756,-0.082,100.29,49.01,35.33,Emerging
+2024-11-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,274,-0.177,-0.36,14.91,4.28,Emerging
+2024-11-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,368,-0.148,5.44,15.03,4.43,Emerging
+2024-12-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,935,0.159,-1.99,25.52,25.97,Archived
+2024-12-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,4971,0.054,-7.65,85.26,95.6,Peak
+2024-12-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,4321,0.031,56.79,50.62,55.4,Emerging
+2024-12-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,278,-0.082,1.46,8.87,4.34,Emerging
+2024-12-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,365,-0.116,-0.82,10.39,4.4,Emerging
+2025-01-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,818,0.18,-12.51,30.22,22.72,Archived
+2025-01-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,4523,0.073,-9.01,71.79,86.98,Peak
+2025-01-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,5457,0.011,26.29,59.24,69.96,Emerging
+2025-01-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,35,-0.119,-87.41,15.19,1,Emerging
+2025-01-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,359,0.049,-1.64,14.1,4.33,Emerging
+2025-02-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,754,0.115,-7.82,22.59,20.94,Archived
+2025-02-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,3793,0.087,-16.14,62.42,72.94,Peak
+2025-02-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,6349,0.077,16.35,68.03,81.4,Emerging
+2025-02-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,978,-0.034,2694.29,99,15.28,Emerging
+2025-02-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,352,-0.02,-1.95,11.41,4.24,Emerging
+2025-03-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,652,0.151,-13.53,24.88,18.11,Archived
+2025-03-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,2978,0.157,-21.49,53.11,57.27,Declining
+2025-03-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,6910,0.177,8.84,79.38,88.59,Growing
+2025-03-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,1714,-0.053,75.26,42.96,26.78,Emerging
+2025-03-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,328,0.072,-6.82,14.73,3.95,Emerging
+2025-04-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,567,0.325,-13.04,24.52,15.75,Archived
+2025-04-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,2128,0.189,-28.54,48.79,40.92,Declining
+2025-04-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,7077,0.156,2.42,85.32,90.73,Growing
+2025-04-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,2547,-0.078,48.6,51.32,39.8,Emerging
+2025-04-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,307,0.118,-6.4,14.39,3.7,Emerging
+2025-05-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,516,0.257,-8.99,23.9,14.33,Archived
+2025-05-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1482,0.186,-30.36,34.4,28.5,Declining
+2025-05-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,6813,0.204,-3.73,85.13,87.35,Growing
+2025-05-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,2935,0.084,15.23,57.47,45.86,Emerging
+2025-05-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,296,0.141,-3.58,9.34,3.57,Emerging
+2025-06-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,467,0.302,-9.5,18.74,12.97,Archived
+2025-06-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,695,0.215,-53.1,25.44,13.37,Declining
+2025-06-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,6928,0.211,1.69,84.3,88.82,Growing
+2025-06-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,3558,0.117,21.23,65.48,55.59,Emerging
+2025-06-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,280,0.244,-5.41,15.87,3.37,Emerging
+2025-07-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,413,0.314,-11.56,15.44,11.47,Archived
+2025-07-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,35,0.339,-94.96,17.54,1,Declining
+2025-07-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,6414,0.217,-7.42,84.25,82.23,Growing
+2025-07-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,3995,0.051,12.28,66.66,62.42,Emerging
+2025-07-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,273,0.267,-2.5,7.33,3.29,Emerging
+2025-08-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,349,0.341,-15.5,17.51,9.69,Archived
+2025-08-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1286,0.32,3574.29,99,24.73,Archived
+2025-08-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,5976,0.298,-6.83,84.92,76.62,Peak
+2025-08-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,4202,0.055,5.18,78.04,65.66,Growing
+2025-08-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,253,0.276,-7.33,7.91,3.05,Emerging
+2025-09-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,332,0.451,-4.87,21.28,9.22,Archived
+2025-09-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1175,0.423,-8.63,30.74,22.6,Archived
+2025-09-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,5179,0.251,-13.34,82.49,66.4,Peak
+2025-09-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,4395,0.147,4.59,83.42,68.67,Growing
+2025-09-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,258,0.321,1.98,13.5,3.11,Emerging
+2025-10-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,305,0.343,-8.13,19.36,8.47,Archived
+2025-10-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1081,0.351,-8.0,25.92,20.79,Archived
+2025-10-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,4729,0.395,-8.69,67.22,60.63,Peak
+2025-10-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,5081,0.19,15.61,87.9,79.39,Growing
+2025-10-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,263,0.199,1.94,5.86,3.17,Emerging
+2025-11-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,283,0.347,-7.21,11.98,7.86,Archived
+2025-11-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1088,0.429,0.65,23.68,20.92,Archived
+2025-11-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,3923,0.373,-17.04,65.94,50.29,Peak
+2025-11-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,4904,0.174,-3.48,84.21,76.62,Growing
+2025-11-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,35,0.18,-86.69,15.6,1,Emerging
+2025-12-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,321,0.328,13.43,15.54,8.92,Archived
+2025-12-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1022,0.387,-6.07,24.09,19.65,Archived
+2025-12-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,3171,0.35,-19.17,49.06,40.65,Declining
+2025-12-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,5617,0.11,14.54,91.85,87.77,Growing
+2025-12-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,1186,0.175,3288.57,99,14.29,Emerging
+2026-01-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,315,0.281,-1.87,14.42,8.75,Archived
+2026-01-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1040,0.316,1.76,28.95,20.0,Archived
+2026-01-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,2471,0.316,-22.08,38.48,31.68,Declining
+2026-01-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,5517,0.052,-1.78,91.85,86.2,Growing
+2026-01-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,2618,0.132,120.74,45.87,31.54,Emerging
+2026-02-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,330,0.317,4.76,12.92,9.17,Archived
+2026-02-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1087,0.32,4.52,26.88,20.9,Archived
+2026-02-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,1301,0.319,-47.35,23.14,16.68,Declining
+2026-02-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,5920,0.066,7.3,84.92,92.5,Peak
+2026-02-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,3995,0.231,52.6,50.47,48.13,Emerging
+2026-03-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,365,0.312,10.61,20.56,10.14,Archived
+2026-03-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,1036,0.251,-4.69,20.35,19.92,Archived
+2026-03-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,35,0.234,-97.31,12.87,1,Declining
+2026-03-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,5889,0.08,-0.52,80.56,92.02,Peak
+2026-03-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,5470,0.161,36.92,61.68,65.9,Emerging
+2026-04-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,376,0.27,3.01,16.56,10.44,Archived
+2026-04-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,984,0.255,-5.02,19.1,18.92,Archived
+2026-04-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,2553,0.138,7194.29,99,32.73,Archived
+2026-04-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,5438,0.055,-7.66,78.72,84.97,Peak
+2026-04-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,6666,0.065,21.86,72.75,80.31,Emerging
+2026-05-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,399,0.187,6.12,16.47,11.08,Archived
+2026-05-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,989,0.21,0.51,23.79,19.02,Archived
+2026-05-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,2441,0.053,-4.39,31.68,31.29,Archived
+2026-05-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,5067,-0.062,-6.82,65.64,79.17,Peak
+2026-05-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,7864,0.042,17.97,80.21,94.75,Growing
+2026-06-01,ai-revolution,Artificial Intelligence Revolution,AI Assistants,Technology,381,0.18,-4.51,19.48,10.58,Archived
+2026-06-01,ai-revolution,Artificial Intelligence Revolution,Multimodal AI,Technology,888,0.081,-10.21,22.32,17.08,Archived
+2026-06-01,ai-revolution,Artificial Intelligence Revolution,AI Agents,Technology,2204,0.059,-9.71,30.22,28.26,Archived
+2026-06-01,ai-revolution,Artificial Intelligence Revolution,AI Governance,Policy,4410,-0.055,-12.97,66.95,68.91,Peak
+2026-06-01,ai-revolution,Artificial Intelligence Revolution,Autonomous AI Systems,Technology,8036,-0.01,2.19,84.24,96.82,Growing
+2023-01-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,162,0.125,39.66,13.16,3.77,Emerging
+2023-01-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,183,-0.087,39.69,13.25,3.52,Emerging
+2023-01-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,272,0.174,39.49,9.76,3.58,Emerging
+2023-01-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,130,0.081,39.78,11.01,3.61,Emerging
+2023-02-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,165,0.2,1.85,9.14,3.84,Emerging
+2023-02-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,209,0.043,14.21,9.62,4.02,Emerging
+2023-02-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,299,0.308,9.93,8.71,3.93,Emerging
+2023-02-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,140,0.065,7.69,14.64,3.89,Emerging
+2023-03-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,170,0.256,3.03,10.53,3.95,Emerging
+2023-03-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,211,0.057,0.96,13.84,4.06,Emerging
+2023-03-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,312,0.294,4.35,5.97,4.11,Emerging
+2023-03-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,145,0.149,3.57,12.35,4.03,Emerging
+2023-04-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,179,0.239,5.29,6.07,4.16,Emerging
+2023-04-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,228,0.052,8.06,14.31,4.38,Emerging
+2023-04-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,310,0.333,-0.64,14.87,4.08,Emerging
+2023-04-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,153,0.174,5.52,8.16,4.25,Emerging
+2023-05-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,189,0.36,5.59,13.73,4.4,Emerging
+2023-05-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,219,0.171,-3.95,5.73,4.21,Emerging
+2023-05-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,319,0.376,2.9,7.38,4.2,Emerging
+2023-05-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,157,0.283,2.61,8.16,4.36,Emerging
+2023-06-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,186,0.366,-1.59,9.01,4.33,Emerging
+2023-06-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,218,0.152,-0.46,9.58,4.19,Emerging
+2023-06-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,334,0.451,4.7,15.75,4.39,Emerging
+2023-06-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,159,0.21,1.27,9.72,4.42,Emerging
+2023-07-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,35,0.381,-81.18,15.74,1,Emerging
+2023-07-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,225,0.067,3.21,10.15,4.33,Emerging
+2023-07-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,311,0.392,-6.89,10.35,4.09,Emerging
+2023-07-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,155,0.295,-2.52,12.21,4.31,Emerging
+2023-08-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,1157,0.444,3205.71,99,26.91,Emerging
+2023-08-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,220,0.119,-2.22,8.73,4.23,Emerging
+2023-08-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,325,0.428,4.5,7.19,4.28,Emerging
+2023-08-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,146,0.199,-5.81,8.31,4.06,Emerging
+2023-09-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,2043,0.307,76.58,55.74,47.51,Emerging
+2023-09-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,213,0.088,-3.18,12.38,4.1,Emerging
+2023-09-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,304,0.354,-6.46,14.53,4.0,Emerging
+2023-09-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,140,0.29,-4.11,9.25,3.89,Emerging
+2023-10-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,2694,0.291,31.86,66.3,62.65,Emerging
+2023-10-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,188,0.095,-11.74,7.24,3.62,Emerging
+2023-10-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,292,0.361,-3.95,5.72,3.84,Emerging
+2023-10-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,135,0.256,-3.57,8.54,3.75,Emerging
+2023-11-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,3171,0.388,17.71,84.19,73.74,Growing
+2023-11-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,177,0.075,-5.85,7.61,3.4,Emerging
+2023-11-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,272,0.343,-6.85,11.84,3.58,Emerging
+2023-11-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,124,0.208,-8.15,14.35,3.44,Emerging
+2023-12-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,3527,0.287,11.23,90.71,82.02,Growing
+2023-12-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,35,-0.021,-80.23,19.51,1,Emerging
+2023-12-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,260,0.351,-4.41,7.32,3.42,Emerging
+2023-12-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,117,0.191,-5.65,7.16,3.25,Emerging
+2024-01-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,3621,0.249,2.67,85.3,84.21,Growing
+2024-01-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,890,0.057,2442.86,99,17.12,Emerging
+2024-01-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,254,0.365,-2.31,14.09,3.34,Emerging
+2024-01-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,117,0.08,0.0,8.39,3.25,Emerging
+2024-02-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,3128,0.259,-13.62,85.93,72.74,Peak
+2024-02-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,1701,-0.033,91.12,56.53,32.71,Emerging
+2024-02-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,237,0.259,-6.69,6.05,3.12,Emerging
+2024-02-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,108,0.048,-7.69,9.01,3.0,Emerging
+2024-03-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,2820,0.163,-9.85,81.22,65.58,Peak
+2024-03-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,2501,-0.132,47.03,58.43,48.1,Emerging
+2024-03-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,35,0.135,-85.23,17.1,1,Emerging
+2024-03-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,106,0.014,-1.85,14.15,2.94,Emerging
+2024-04-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,2445,0.13,-13.3,64.56,56.86,Peak
+2024-04-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,3145,-0.11,25.75,70.7,60.48,Emerging
+2024-04-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,2236,0.24,6288.57,99,29.42,Emerging
+2024-04-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,116,0.039,9.43,7.61,3.22,Emerging
+2024-05-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,1731,0.069,-29.2,52.09,40.26,Declining
+2024-05-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,3799,-0.235,20.79,85.53,73.06,Growing
+2024-05-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,4279,0.181,91.37,74.59,56.3,Emerging
+2024-05-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,118,0.015,1.72,12.26,3.28,Emerging
+2024-06-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,935,0.032,-45.98,36.0,21.74,Declining
+2024-06-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,4480,-0.205,17.93,85.54,86.15,Growing
+2024-06-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,6329,0.094,47.91,87.95,83.28,Growing
+2024-06-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,125,-0.013,5.93,15.04,3.47,Emerging
+2024-07-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,35,0.052,-96.26,16.15,1,Declining
+2024-07-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,4777,-0.227,6.63,87.46,91.87,Growing
+2024-07-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,7134,0.156,12.72,88.75,93.87,Growing
+2024-07-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,35,-0.108,-72.0,19.22,1,Emerging
+2024-08-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,1225,-0.035,3400.0,99,28.49,Archived
+2024-08-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,4950,-0.235,3.62,86.55,95.19,Growing
+2024-08-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,6886,0.071,-3.48,85.01,90.61,Peak
+2024-08-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,694,-0.091,1882.86,99,19.28,Emerging
+2024-09-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,1204,0.064,-1.71,33.57,28.0,Archived
+2024-09-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,4809,-0.151,-2.85,80.86,92.48,Peak
+2024-09-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,5566,0.118,-19.17,63.36,73.24,Peak
+2024-09-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,1428,-0.198,105.76,47.17,39.67,Emerging
+2024-10-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,1102,0.04,-8.47,23.59,25.63,Archived
+2024-10-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,4097,-0.169,-14.81,71.17,78.79,Peak
+2024-10-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,3043,0.108,-45.33,42.45,40.04,Declining
+2024-10-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,2172,-0.11,52.1,53.66,60.33,Emerging
+2024-11-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,1032,0.009,-6.35,21.98,24.0,Archived
+2024-11-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,3485,-0.267,-14.94,59.07,67.02,Declining
+2024-11-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,35,0.125,-98.85,21.5,1,Declining
+2024-11-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,2668,-0.135,22.84,66.7,74.11,Emerging
+2024-12-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,889,0.016,-13.86,23.3,20.67,Archived
+2024-12-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,2344,-0.202,-32.74,49.71,45.08,Declining
+2024-12-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,2317,0.142,6520.0,99,30.49,Archived
+2024-12-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,3244,-0.145,21.59,80.02,90.11,Growing
+2025-01-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,758,0.043,-14.74,20.13,17.63,Archived
+2025-01-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,1215,-0.169,-48.17,26.32,23.37,Declining
+2025-01-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,1992,0.143,-14.03,33.31,26.21,Archived
+2025-01-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,3629,-0.076,11.87,85.52,100,Growing
+2025-02-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,664,0.099,-12.4,22.91,15.44,Archived
+2025-02-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,35,-0.111,-97.12,18.48,1,Declining
+2025-02-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,1545,0.228,-22.44,30.45,20.33,Archived
+2025-02-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,3801,0.037,4.74,86.85,100,Growing
+2025-03-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,609,0.211,-8.28,14.3,14.16,Archived
+2025-03-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,1628,-0.005,4551.43,99,31.31,Archived
+2025-03-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,1246,0.221,-19.35,26.29,16.39,Archived
+2025-03-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,3615,0.084,-4.89,87.03,100,Growing
+2025-04-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,482,0.224,-20.85,18.84,11.21,Archived
+2025-04-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,1392,-0.099,-14.5,34.11,26.77,Archived
+2025-04-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,1034,0.292,-17.01,18.68,13.61,Archived
+2025-04-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,3413,0.043,-5.59,86.29,94.81,Growing
+2025-05-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,420,0.266,-12.86,21.3,9.77,Archived
+2025-05-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,1122,0.019,-19.4,31.53,21.58,Archived
+2025-05-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,805,0.228,-22.15,18.23,10.59,Archived
+2025-05-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,3094,0.074,-9.35,80.03,85.94,Peak
+2025-06-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,364,0.259,-13.33,18.33,8.47,Archived
+2025-06-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,984,0.119,-12.3,26.89,18.92,Archived
+2025-06-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,689,0.356,-14.41,20.06,9.07,Archived
+2025-06-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,2426,0.225,-21.59,74.26,67.39,Peak
+2025-07-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,338,0.316,-7.14,16.29,7.86,Archived
+2025-07-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,832,0.126,-15.45,22.79,16.0,Archived
+2025-07-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,594,0.38,-13.79,12.2,7.82,Archived
+2025-07-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,2101,0.135,-13.4,69.5,58.36,Peak
+2025-08-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,336,0.384,-0.59,14.47,7.81,Archived
+2025-08-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,792,0.107,-4.81,20.62,15.23,Archived
+2025-08-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,617,0.331,3.87,17.48,8.12,Archived
+2025-08-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,1642,0.195,-21.85,55.09,45.61,Declining
+2025-09-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,336,0.319,0.0,19.42,7.81,Archived
+2025-09-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,662,0.178,-16.41,19.55,12.73,Archived
+2025-09-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,593,0.357,-3.89,14.96,7.8,Archived
+2025-09-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,1092,0.284,-33.5,37.81,30.33,Declining
+2025-10-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,333,0.351,-0.89,15.25,7.74,Archived
+2025-10-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,656,0.064,-0.91,15.23,12.62,Archived
+2025-10-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,615,0.47,3.71,12.83,8.09,Archived
+2025-10-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,530,0.281,-51.47,26.15,14.72,Declining
+2025-11-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,358,0.35,7.51,15.06,8.33,Archived
+2025-11-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,598,0.045,-8.84,15.81,11.5,Archived
+2025-11-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,622,0.396,1.14,17.3,8.18,Archived
+2025-11-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,35,0.243,-93.4,17.73,1,Declining
+2025-12-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,358,0.41,0.0,14.79,8.33,Archived
+2025-12-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,549,0.126,-8.19,17.09,10.56,Archived
+2025-12-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,655,0.33,5.31,13.3,8.62,Archived
+2025-12-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,909,0.223,2497.14,99,25.25,Archived
+2026-01-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,401,0.333,12.01,11.65,9.33,Archived
+2026-01-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,525,0.074,-4.37,18.65,10.1,Archived
+2026-01-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,662,0.407,1.07,13.51,8.71,Archived
+2026-01-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,918,0.163,0.99,30.82,25.5,Archived
+2026-02-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,424,0.318,5.74,13.22,9.86,Archived
+2026-02-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,514,0.037,-2.1,20.26,9.88,Archived
+2026-02-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,712,0.326,7.55,14.98,9.37,Archived
+2026-02-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,902,0.156,-1.74,25.7,25.06,Archived
+2026-03-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,447,0.321,5.42,18.11,10.4,Archived
+2026-03-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,536,-0.033,4.28,16.13,10.31,Archived
+2026-03-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,764,0.376,7.3,11.51,10.05,Archived
+2026-03-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,895,0.161,-0.78,28.69,24.86,Archived
+2026-04-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,434,0.251,-2.91,14.1,10.09,Archived
+2026-04-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,535,-0.096,-0.19,16.34,10.29,Archived
+2026-04-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,794,0.334,3.93,13.44,10.45,Archived
+2026-04-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,853,0.058,-4.69,24.76,23.69,Archived
+2026-05-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,473,0.122,8.99,15.39,11.0,Archived
+2026-05-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,568,-0.083,6.17,19.57,10.92,Archived
+2026-05-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,843,0.215,6.17,18.22,11.09,Archived
+2026-05-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,809,0.022,-5.16,22.14,22.47,Archived
+2026-06-01,cricket-world-cup,Cricket World Cup,Tournament Build Up,Sports,448,0.112,-5.29,18.77,10.42,Archived
+2026-06-01,cricket-world-cup,Cricket World Cup,Pakistan Squad Debate,Sports,557,-0.04,-1.94,11.97,10.71,Archived
+2026-06-01,cricket-world-cup,Cricket World Cup,Final Match Fever,Sports,806,0.172,-4.39,16.42,10.61,Archived
+2026-06-01,cricket-world-cup,Cricket World Cup,Broadcast Rights,Business,724,0.024,-10.51,20.17,20.11,Archived
+2023-01-01,global-elections,Global Elections,Election Security,Politics,214,-0.05,38.96,13.76,3.69,Emerging
+2023-01-01,global-elections,Global Elections,Youth Voter Turnout,Politics,153,0.164,39.09,19.05,3.73,Emerging
+2023-01-01,global-elections,Global Elections,Misinformation Monitoring,Policy,232,-0.221,38.92,18.22,3.68,Emerging
+2023-01-01,global-elections,Global Elections,Coalition Negotiations,Politics,202,0.004,39.31,17.11,3.74,Emerging
+2023-02-01,global-elections,Global Elections,Election Security,Politics,219,-0.088,2.34,11.59,3.78,Emerging
+2023-02-01,global-elections,Global Elections,Youth Voter Turnout,Politics,155,0.156,1.31,9.95,3.78,Emerging
+2023-02-01,global-elections,Global Elections,Misinformation Monitoring,Policy,249,-0.08,7.33,13.46,3.95,Emerging
+2023-02-01,global-elections,Global Elections,Coalition Negotiations,Politics,204,-0.033,0.99,12.03,3.78,Emerging
+2023-03-01,global-elections,Global Elections,Election Security,Politics,239,0.031,9.13,8.26,4.12,Emerging
+2023-03-01,global-elections,Global Elections,Youth Voter Turnout,Politics,160,0.114,3.23,9.13,3.9,Emerging
+2023-03-01,global-elections,Global Elections,Misinformation Monitoring,Policy,249,-0.151,0.0,13.94,3.95,Emerging
+2023-03-01,global-elections,Global Elections,Coalition Negotiations,Politics,229,0.123,12.25,12.7,4.24,Emerging
+2023-04-01,global-elections,Global Elections,Election Security,Politics,240,0.011,0.42,13.02,4.14,Emerging
+2023-04-01,global-elections,Global Elections,Youth Voter Turnout,Politics,171,0.282,6.88,10.81,4.17,Emerging
+2023-04-01,global-elections,Global Elections,Misinformation Monitoring,Policy,273,-0.071,9.64,11.71,4.33,Emerging
+2023-04-01,global-elections,Global Elections,Coalition Negotiations,Politics,229,0.116,0.0,12.25,4.24,Emerging
+2023-05-01,global-elections,Global Elections,Election Security,Politics,250,-0.0,4.17,11.66,4.31,Emerging
+2023-05-01,global-elections,Global Elections,Youth Voter Turnout,Politics,178,0.274,4.09,8.98,4.34,Emerging
+2023-05-01,global-elections,Global Elections,Misinformation Monitoring,Policy,272,-0.075,-0.37,10.03,4.32,Emerging
+2023-05-01,global-elections,Global Elections,Coalition Negotiations,Politics,226,0.112,-1.31,6.49,4.19,Emerging
+2023-06-01,global-elections,Global Elections,Election Security,Politics,250,0.028,0.0,11.03,4.31,Emerging
+2023-06-01,global-elections,Global Elections,Youth Voter Turnout,Politics,170,0.324,-4.49,15.08,4.15,Emerging
+2023-06-01,global-elections,Global Elections,Misinformation Monitoring,Policy,260,-0.022,-4.41,14.9,4.13,Emerging
+2023-06-01,global-elections,Global Elections,Coalition Negotiations,Politics,240,0.164,6.19,12.95,4.44,Emerging
+2023-07-01,global-elections,Global Elections,Election Security,Politics,253,0.036,1.2,6.2,4.36,Emerging
+2023-07-01,global-elections,Global Elections,Youth Voter Turnout,Politics,174,0.237,2.35,7.48,4.24,Emerging
+2023-07-01,global-elections,Global Elections,Misinformation Monitoring,Policy,259,0.027,-0.38,13.49,4.11,Emerging
+2023-07-01,global-elections,Global Elections,Coalition Negotiations,Politics,231,0.144,-3.75,14.97,4.28,Emerging
+2023-08-01,global-elections,Global Elections,Election Security,Politics,236,-0.002,-6.72,6.02,4.07,Emerging
+2023-08-01,global-elections,Global Elections,Youth Voter Turnout,Politics,166,0.295,-4.6,10.55,4.05,Emerging
+2023-08-01,global-elections,Global Elections,Misinformation Monitoring,Policy,267,0.016,3.09,8.48,4.24,Emerging
+2023-08-01,global-elections,Global Elections,Coalition Negotiations,Politics,225,0.19,-2.6,12.3,4.17,Emerging
+2023-09-01,global-elections,Global Elections,Election Security,Politics,35,0.107,-85.17,15.32,1,Emerging
+2023-09-01,global-elections,Global Elections,Youth Voter Turnout,Politics,159,0.259,-4.22,12.31,3.88,Emerging
+2023-09-01,global-elections,Global Elections,Misinformation Monitoring,Policy,251,-0.003,-5.99,8.4,3.98,Emerging
+2023-09-01,global-elections,Global Elections,Coalition Negotiations,Politics,220,0.141,-2.22,9.23,4.07,Emerging
+2023-10-01,global-elections,Global Elections,Election Security,Politics,705,0.084,1914.29,99,12.16,Emerging
+2023-10-01,global-elections,Global Elections,Youth Voter Turnout,Politics,149,0.254,-6.29,15.33,3.63,Emerging
+2023-10-01,global-elections,Global Elections,Misinformation Monitoring,Policy,232,-0.08,-7.57,6.93,3.68,Emerging
+2023-10-01,global-elections,Global Elections,Coalition Negotiations,Politics,203,0.052,-7.73,13.42,3.76,Emerging
+2023-11-01,global-elections,Global Elections,Election Security,Politics,1327,-0.06,88.23,42.9,22.88,Emerging
+2023-11-01,global-elections,Global Elections,Youth Voter Turnout,Politics,140,0.156,-6.04,12.35,3.41,Emerging
+2023-11-01,global-elections,Global Elections,Misinformation Monitoring,Policy,215,0.008,-7.33,14.55,3.41,Emerging
+2023-11-01,global-elections,Global Elections,Coalition Negotiations,Politics,197,0.065,-2.96,8.32,3.65,Emerging
+2023-12-01,global-elections,Global Elections,Election Security,Politics,1921,-0.012,44.76,47.33,33.12,Emerging
+2023-12-01,global-elections,Global Elections,Youth Voter Turnout,Politics,133,0.252,-5.0,12.24,3.24,Emerging
+2023-12-01,global-elections,Global Elections,Misinformation Monitoring,Policy,208,-0.136,-3.26,8.12,3.3,Emerging
+2023-12-01,global-elections,Global Elections,Coalition Negotiations,Politics,173,0.119,-12.18,15.95,3.2,Emerging
+2024-01-01,global-elections,Global Elections,Election Security,Politics,2421,0.008,26.03,52.35,41.74,Emerging
+2024-01-01,global-elections,Global Elections,Youth Voter Turnout,Politics,35,0.127,-73.68,11.29,1,Emerging
+2024-01-01,global-elections,Global Elections,Misinformation Monitoring,Policy,204,-0.159,-1.92,12.71,3.24,Emerging
+2024-01-01,global-elections,Global Elections,Coalition Negotiations,Politics,170,0.069,-1.73,13.37,3.15,Emerging
+2024-02-01,global-elections,Global Elections,Election Security,Politics,2592,-0.054,7.06,61.42,44.69,Emerging
+2024-02-01,global-elections,Global Elections,Youth Voter Turnout,Politics,457,0.182,1205.71,99,11.15,Emerging
+2024-02-01,global-elections,Global Elections,Misinformation Monitoring,Policy,185,-0.247,-9.31,15.79,2.94,Emerging
+2024-02-01,global-elections,Global Elections,Coalition Negotiations,Politics,167,0.021,-1.76,11.2,3.09,Emerging
+2024-03-01,global-elections,Global Elections,Election Security,Politics,3121,-0.085,20.41,70.12,53.81,Emerging
+2024-03-01,global-elections,Global Elections,Youth Voter Turnout,Politics,890,0.02,94.75,39.58,21.71,Emerging
+2024-03-01,global-elections,Global Elections,Misinformation Monitoring,Policy,194,-0.257,4.86,11.69,3.08,Emerging
+2024-03-01,global-elections,Global Elections,Coalition Negotiations,Politics,167,-0.113,0.0,14.05,3.09,Emerging
+2024-04-01,global-elections,Global Elections,Election Security,Politics,3579,-0.232,14.67,70.43,61.71,Emerging
+2024-04-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1283,0.043,44.16,49.63,31.29,Emerging
+2024-04-01,global-elections,Global Elections,Misinformation Monitoring,Policy,195,-0.32,0.52,9.73,3.1,Emerging
+2024-04-01,global-elections,Global Elections,Coalition Negotiations,Politics,161,-0.162,-3.59,13.24,2.98,Emerging
+2024-05-01,global-elections,Global Elections,Election Security,Politics,4233,-0.243,18.27,83.72,72.98,Growing
+2024-05-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1828,0.013,42.48,59.47,44.59,Emerging
+2024-05-01,global-elections,Global Elections,Misinformation Monitoring,Policy,35,-0.259,-82.05,17.31,1,Emerging
+2024-05-01,global-elections,Global Elections,Coalition Negotiations,Politics,179,-0.073,11.18,14.41,3.31,Emerging
+2024-06-01,global-elections,Global Elections,Election Security,Politics,4719,-0.276,11.48,81.96,81.36,Growing
+2024-06-01,global-elections,Global Elections,Youth Voter Turnout,Politics,2225,-0.032,21.72,65.33,54.27,Emerging
+2024-06-01,global-elections,Global Elections,Misinformation Monitoring,Policy,825,-0.3,2257.14,99,13.1,Emerging
+2024-06-01,global-elections,Global Elections,Coalition Negotiations,Politics,183,-0.204,2.23,15.43,3.39,Emerging
+2024-07-01,global-elections,Global Elections,Election Security,Politics,5204,-0.304,10.28,90.28,89.72,Growing
+2024-07-01,global-elections,Global Elections,Youth Voter Turnout,Politics,2799,-0.068,25.8,72.66,68.27,Emerging
+2024-07-01,global-elections,Global Elections,Misinformation Monitoring,Policy,1713,-0.293,107.64,46.86,27.19,Emerging
+2024-07-01,global-elections,Global Elections,Coalition Negotiations,Politics,194,-0.134,6.01,9.91,3.59,Emerging
+2024-08-01,global-elections,Global Elections,Election Security,Politics,5423,-0.326,4.21,89.81,93.5,Growing
+2024-08-01,global-elections,Global Elections,Youth Voter Turnout,Politics,3221,-0.093,15.08,78.34,78.56,Growing
+2024-08-01,global-elections,Global Elections,Misinformation Monitoring,Policy,2866,-0.381,67.31,49.63,45.49,Emerging
+2024-08-01,global-elections,Global Elections,Coalition Negotiations,Politics,216,-0.227,11.34,16.41,4.0,Emerging
+2024-09-01,global-elections,Global Elections,Election Security,Politics,6116,-0.325,12.78,89.9,100,Growing
+2024-09-01,global-elections,Global Elections,Youth Voter Turnout,Politics,3830,-0.038,18.91,82.3,93.41,Growing
+2024-09-01,global-elections,Global Elections,Misinformation Monitoring,Policy,3767,-0.39,31.44,58.67,59.79,Emerging
+2024-09-01,global-elections,Global Elections,Coalition Negotiations,Politics,211,-0.273,-2.31,12.67,3.91,Emerging
+2024-10-01,global-elections,Global Elections,Election Security,Politics,5784,-0.323,-5.43,89.41,99.72,Growing
+2024-10-01,global-elections,Global Elections,Youth Voter Turnout,Politics,3999,-0.095,4.41,85.44,97.54,Growing
+2024-10-01,global-elections,Global Elections,Misinformation Monitoring,Policy,4575,-0.339,21.45,63.46,72.62,Emerging
+2024-10-01,global-elections,Global Elections,Coalition Negotiations,Politics,228,-0.132,8.06,7.58,4.22,Emerging
+2024-11-01,global-elections,Global Elections,Election Security,Politics,5927,-0.219,2.47,89.53,100,Peak
+2024-11-01,global-elections,Global Elections,Youth Voter Turnout,Politics,4466,-0.022,11.68,88.02,100,Growing
+2024-11-01,global-elections,Global Elections,Misinformation Monitoring,Policy,5544,-0.346,21.18,74.6,88.0,Growing
+2024-11-01,global-elections,Global Elections,Coalition Negotiations,Politics,238,-0.216,4.39,15.74,4.41,Emerging
+2024-12-01,global-elections,Global Elections,Election Security,Politics,5877,-0.328,-0.84,84.35,100,Peak
+2024-12-01,global-elections,Global Elections,Youth Voter Turnout,Politics,4496,-0.11,0.67,86.36,100,Growing
+2024-12-01,global-elections,Global Elections,Misinformation Monitoring,Policy,5817,-0.377,4.92,80.75,92.33,Growing
+2024-12-01,global-elections,Global Elections,Coalition Negotiations,Politics,224,-0.118,-5.88,14.28,4.15,Emerging
+2025-01-01,global-elections,Global Elections,Election Security,Politics,5300,-0.164,-9.82,83.78,91.38,Peak
+2025-01-01,global-elections,Global Elections,Youth Voter Turnout,Politics,4274,0.064,-4.94,84.1,100,Growing
+2025-01-01,global-elections,Global Elections,Misinformation Monitoring,Policy,6208,-0.327,6.72,84.27,98.54,Growing
+2025-01-01,global-elections,Global Elections,Coalition Negotiations,Politics,35,-0.117,-84.38,13.07,1,Emerging
+2025-02-01,global-elections,Global Elections,Election Security,Politics,4698,-0.248,-11.36,77.32,81.0,Peak
+2025-02-01,global-elections,Global Elections,Youth Voter Turnout,Politics,4135,0.106,-3.25,87.26,100,Peak
+2025-02-01,global-elections,Global Elections,Misinformation Monitoring,Policy,6639,-0.279,6.94,84.84,100,Growing
+2025-02-01,global-elections,Global Elections,Coalition Negotiations,Politics,1065,-0.133,2942.86,99,19.72,Emerging
+2025-03-01,global-elections,Global Elections,Election Security,Politics,4030,-0.088,-14.22,69.89,69.48,Peak
+2025-03-01,global-elections,Global Elections,Youth Voter Turnout,Politics,3674,0.143,-11.15,82.11,89.61,Peak
+2025-03-01,global-elections,Global Elections,Misinformation Monitoring,Policy,5971,-0.27,-10.06,94.35,94.78,Growing
+2025-03-01,global-elections,Global Elections,Coalition Negotiations,Politics,2069,-0.096,94.27,53.04,38.31,Emerging
+2025-04-01,global-elections,Global Elections,Election Security,Politics,3436,-0.067,-14.74,57.22,59.24,Declining
+2025-04-01,global-elections,Global Elections,Youth Voter Turnout,Politics,3362,0.16,-8.49,73.77,82.0,Peak
+2025-04-01,global-elections,Global Elections,Misinformation Monitoring,Policy,6026,-0.215,0.92,85.45,95.65,Growing
+2025-04-01,global-elections,Global Elections,Coalition Negotiations,Politics,2836,0.003,37.07,56.69,52.52,Emerging
+2025-05-01,global-elections,Global Elections,Election Security,Politics,2455,0.026,-28.55,51.66,42.33,Declining
+2025-05-01,global-elections,Global Elections,Youth Voter Turnout,Politics,2676,0.199,-20.4,75.25,65.27,Peak
+2025-05-01,global-elections,Global Elections,Misinformation Monitoring,Policy,5227,-0.082,-13.26,84.98,82.97,Peak
+2025-05-01,global-elections,Global Elections,Coalition Negotiations,Politics,3570,0.035,25.88,64.78,66.11,Emerging
+2025-06-01,global-elections,Global Elections,Election Security,Politics,1830,-0.023,-25.46,43.77,31.55,Declining
+2025-06-01,global-elections,Global Elections,Youth Voter Turnout,Politics,2317,0.207,-13.42,58.62,56.51,Peak
+2025-06-01,global-elections,Global Elections,Misinformation Monitoring,Policy,4735,-0.119,-9.41,84.95,75.16,Peak
+2025-06-01,global-elections,Global Elections,Coalition Negotiations,Politics,3870,0.052,8.4,72.49,71.67,Growing
+2025-07-01,global-elections,Global Elections,Election Security,Politics,1174,0.086,-35.85,35.75,20.24,Declining
+2025-07-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1881,0.256,-18.82,54.27,45.88,Declining
+2025-07-01,global-elections,Global Elections,Misinformation Monitoring,Policy,4158,0.012,-12.19,78.8,66.0,Peak
+2025-07-01,global-elections,Global Elections,Coalition Negotiations,Politics,3801,0.073,-1.78,87.44,70.39,Growing
+2025-08-01,global-elections,Global Elections,Election Security,Politics,589,0.087,-49.83,19.05,10.16,Declining
+2025-08-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1315,0.183,-30.09,45.52,32.07,Declining
+2025-08-01,global-elections,Global Elections,Misinformation Monitoring,Policy,3561,0.056,-14.36,62.53,56.52,Peak
+2025-08-01,global-elections,Global Elections,Coalition Negotiations,Politics,3977,0.103,4.63,84.34,73.65,Growing
+2025-09-01,global-elections,Global Elections,Election Security,Politics,35,0.124,-94.06,22.1,1,Declining
+2025-09-01,global-elections,Global Elections,Youth Voter Turnout,Politics,903,0.355,-31.33,31.53,22.02,Declining
+2025-09-01,global-elections,Global Elections,Misinformation Monitoring,Policy,2734,0.025,-23.22,56.29,43.4,Declining
+2025-09-01,global-elections,Global Elections,Coalition Negotiations,Politics,4047,0.089,1.76,92.23,74.94,Growing
+2025-10-01,global-elections,Global Elections,Election Security,Politics,1536,0.04,4288.57,99,26.48,Declining
+2025-10-01,global-elections,Global Elections,Youth Voter Turnout,Politics,467,0.355,-48.28,24.06,11.39,Declining
+2025-10-01,global-elections,Global Elections,Misinformation Monitoring,Policy,2268,-0.031,-17.04,50.85,36.0,Declining
+2025-10-01,global-elections,Global Elections,Coalition Negotiations,Politics,4052,0.213,0.12,84.18,75.04,Growing
+2025-11-01,global-elections,Global Elections,Election Security,Politics,1479,-0.0,-3.71,30.97,25.5,Archived
+2025-11-01,global-elections,Global Elections,Youth Voter Turnout,Politics,35,0.294,-92.51,20.51,1,Declining
+2025-11-01,global-elections,Global Elections,Misinformation Monitoring,Policy,1590,-0.034,-29.89,30.9,25.24,Declining
+2025-11-01,global-elections,Global Elections,Coalition Negotiations,Politics,3836,0.111,-5.33,84.05,71.04,Peak
+2025-12-01,global-elections,Global Elections,Election Security,Politics,1353,0.089,-8.52,28.56,23.33,Archived
+2025-12-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1080,0.183,2985.71,99,26.34,Declining
+2025-12-01,global-elections,Global Elections,Misinformation Monitoring,Policy,882,-0.034,-44.53,21.17,14.0,Declining
+2025-12-01,global-elections,Global Elections,Coalition Negotiations,Politics,3787,0.145,-1.28,77.92,70.13,Peak
+2026-01-01,global-elections,Global Elections,Election Security,Politics,1434,0.085,5.99,31.59,24.72,Archived
+2026-01-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1146,0.224,6.11,29.46,27.95,Archived
+2026-01-01,global-elections,Global Elections,Misinformation Monitoring,Policy,35,-0.034,-96.03,15.72,1,Declining
+2026-01-01,global-elections,Global Elections,Coalition Negotiations,Politics,3438,0.054,-9.22,63.09,63.67,Peak
+2026-02-01,global-elections,Global Elections,Election Security,Politics,1478,-0.021,3.07,29.61,25.48,Archived
+2026-02-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1057,0.214,-7.77,35.66,25.78,Archived
+2026-02-01,global-elections,Global Elections,Misinformation Monitoring,Policy,1829,-0.0,5125.71,99,29.03,Archived
+2026-02-01,global-elections,Global Elections,Coalition Negotiations,Politics,2891,0.03,-15.91,51.96,53.54,Declining
+2026-03-01,global-elections,Global Elections,Election Security,Politics,1379,-0.025,-6.7,31.85,23.78,Archived
+2026-03-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1123,0.191,6.24,27.07,27.39,Archived
+2026-03-01,global-elections,Global Elections,Misinformation Monitoring,Policy,1836,-0.166,0.38,34.98,29.14,Archived
+2026-03-01,global-elections,Global Elections,Coalition Negotiations,Politics,2158,0.031,-25.35,39.64,39.96,Declining
+2026-04-01,global-elections,Global Elections,Election Security,Politics,1369,-0.135,-0.73,27.43,23.6,Archived
+2026-04-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1087,0.057,-3.21,23.36,26.51,Archived
+2026-04-01,global-elections,Global Elections,Misinformation Monitoring,Policy,1896,-0.135,3.27,25.87,30.1,Archived
+2026-04-01,global-elections,Global Elections,Coalition Negotiations,Politics,1072,0.027,-50.32,24.59,19.85,Declining
+2026-05-01,global-elections,Global Elections,Election Security,Politics,1323,-0.209,-3.36,26.5,22.81,Archived
+2026-05-01,global-elections,Global Elections,Youth Voter Turnout,Politics,1016,0.141,-6.53,27.19,24.78,Archived
+2026-05-01,global-elections,Global Elections,Misinformation Monitoring,Policy,1761,-0.207,-7.12,24.16,27.95,Archived
+2026-05-01,global-elections,Global Elections,Coalition Negotiations,Politics,35,-0.081,-96.74,19.41,1,Declining
+2026-06-01,global-elections,Global Elections,Election Security,Politics,1232,-0.107,-6.88,26.06,21.24,Archived
+2026-06-01,global-elections,Global Elections,Youth Voter Turnout,Politics,984,0.088,-3.15,25.52,24.0,Archived
+2026-06-01,global-elections,Global Elections,Misinformation Monitoring,Policy,1662,-0.28,-5.62,30.47,26.38,Archived
+2026-06-01,global-elections,Global Elections,Coalition Negotiations,Politics,1781,-0.04,4988.57,99,32.98,Archived
+2023-01-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,170,-0.126,39.34,10.55,3.7,Emerging
+2023-01-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,143,0.001,40.2,15.41,3.67,Emerging
+2023-01-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,229,-0.079,39.63,14.54,3.69,Emerging
+2023-01-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,128,0.071,39.13,15.81,3.56,Emerging
+2023-02-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,174,0.028,2.35,15.04,3.78,Emerging
+2023-02-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,145,0.011,1.4,7.29,3.72,Emerging
+2023-02-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,231,0.04,0.87,8.38,3.73,Emerging
+2023-02-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,142,0.04,10.94,8.85,3.94,Emerging
+2023-03-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,35,0.078,-79.89,11.33,1,Emerging
+2023-03-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,165,0.116,13.79,14.42,4.23,Emerging
+2023-03-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,255,0.068,10.39,9.63,4.11,Emerging
+2023-03-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,147,0.152,3.52,7.73,4.08,Emerging
+2023-04-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,931,0.008,2560.0,99,20.24,Emerging
+2023-04-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,159,0.215,-3.64,7.36,4.08,Emerging
+2023-04-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,259,0.112,1.57,14.2,4.18,Emerging
+2023-04-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,152,0.218,3.4,8.58,4.22,Emerging
+2023-05-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1817,-0.006,95.17,43.87,39.5,Emerging
+2023-05-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,167,0.126,5.03,10.54,4.28,Emerging
+2023-05-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,263,0.169,1.54,5.97,4.24,Emerging
+2023-05-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,153,0.186,0.66,10.28,4.25,Emerging
+2023-06-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,2685,0.11,47.77,61.76,58.37,Emerging
+2023-06-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,35,0.135,-79.04,16.6,1,Emerging
+2023-06-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,266,0.122,1.14,6.51,4.29,Emerging
+2023-06-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,157,0.284,2.61,9.43,4.36,Emerging
+2023-07-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,3453,0.058,28.6,73.01,75.07,Emerging
+2023-07-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,620,0.276,1671.43,99,15.9,Emerging
+2023-07-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,265,0.217,-0.38,5.5,4.27,Emerging
+2023-07-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,157,0.27,0.0,6.45,4.36,Emerging
+2023-08-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,3913,0.04,13.32,74.51,85.07,Growing
+2023-08-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,1286,0.19,107.42,48.3,32.97,Emerging
+2023-08-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,248,0.231,-6.42,12.52,4.0,Emerging
+2023-08-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,150,0.267,-4.46,12.4,4.17,Emerging
+2023-09-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,3981,0.032,1.74,81.2,86.54,Growing
+2023-09-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,1727,0.205,34.29,45.86,44.28,Emerging
+2023-09-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,235,0.151,-5.24,9.26,3.79,Emerging
+2023-09-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,137,0.161,-8.67,9.88,3.81,Emerging
+2023-10-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,4135,0.085,3.87,84.25,89.89,Growing
+2023-10-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2135,0.22,23.62,53.31,54.74,Emerging
+2023-10-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,226,0.142,-3.83,6.9,3.65,Emerging
+2023-10-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,131,0.275,-4.38,14.96,3.64,Emerging
+2023-11-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,4211,0.029,1.84,88.4,91.54,Growing
+2023-11-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2351,0.203,10.12,61.93,60.28,Emerging
+2023-11-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,224,0.096,-0.88,8.52,3.61,Emerging
+2023-11-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,123,0.177,-6.11,14.28,3.42,Emerging
+2023-12-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,3620,-0.036,-14.03,88.53,78.7,Growing
+2023-12-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2666,0.169,13.4,75.27,68.36,Growing
+2023-12-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,215,0.086,-4.02,5.8,3.47,Emerging
+2023-12-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,116,0.213,-5.69,8.15,3.22,Emerging
+2024-01-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,3390,-0.013,-6.35,83.57,73.7,Peak
+2024-01-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2752,0.115,3.23,79.45,70.56,Growing
+2024-01-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,198,0.011,-7.91,16.15,3.19,Emerging
+2024-01-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,116,0.072,0.0,10.03,3.22,Emerging
+2024-02-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,2916,-0.054,-13.98,72.34,63.39,Peak
+2024-02-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2849,-0.007,3.52,82.45,73.05,Growing
+2024-02-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,35,-0.053,-82.32,11.21,1,Emerging
+2024-02-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,118,0.135,1.72,10.35,3.28,Emerging
+2024-03-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,2470,-0.109,-15.29,68.47,53.7,Peak
+2024-03-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2955,-0.069,3.72,90.83,75.77,Growing
+2024-03-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,555,-0.007,1485.71,99,8.95,Emerging
+2024-03-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,111,0.012,-5.93,7.16,3.08,Emerging
+2024-04-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,2061,-0.086,-16.56,56.89,44.8,Declining
+2024-04-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2919,-0.034,-1.22,90.42,74.85,Growing
+2024-04-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,1088,-0.162,96.04,33.17,17.55,Emerging
+2024-04-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,109,-0.066,-1.8,12.25,3.03,Emerging
+2024-05-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1483,-0.238,-28.04,42.45,32.24,Declining
+2024-05-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,3079,-0.113,5.48,85.41,78.95,Growing
+2024-05-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,1770,-0.061,62.68,41.54,28.55,Emerging
+2024-05-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,117,-0.049,7.34,9.63,3.25,Emerging
+2024-06-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,759,-0.157,-48.82,26.14,16.5,Declining
+2024-06-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,3121,-0.084,1.36,80.29,80.03,Peak
+2024-06-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,2432,-0.226,37.4,44.01,39.23,Emerging
+2024-06-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,124,-0.122,5.98,13.38,3.44,Emerging
+2024-07-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,35,-0.271,-95.39,19.72,1,Declining
+2024-07-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,3058,-0.121,-2.02,83.23,78.41,Peak
+2024-07-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,3065,-0.238,26.03,51.88,49.44,Emerging
+2024-07-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,127,-0.193,2.42,8.01,3.53,Emerging
+2024-08-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1337,-0.266,3720.0,99,29.07,Archived
+2024-08-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,3023,-0.138,-1.14,75.03,77.51,Peak
+2024-08-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,3765,-0.166,22.84,61.47,60.73,Emerging
+2024-08-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,138,-0.082,8.66,8.63,3.83,Emerging
+2024-09-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1338,-0.201,0.07,30.22,29.09,Archived
+2024-09-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2666,-0.085,-11.81,69.42,68.36,Peak
+2024-09-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,4459,-0.143,18.43,70.04,71.92,Emerging
+2024-09-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,151,-0.148,9.42,14.39,4.19,Emerging
+2024-10-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1289,-0.252,-3.66,24.47,28.02,Archived
+2024-10-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,2345,-0.131,-12.04,57.47,60.13,Declining
+2024-10-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,5160,-0.232,15.72,68.62,83.23,Emerging
+2024-10-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,156,-0.149,3.31,15.13,4.33,Emerging
+2024-11-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1183,-0.263,-8.22,32.37,25.72,Archived
+2024-11-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,1866,-0.146,-20.43,46.24,47.85,Declining
+2024-11-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,5818,-0.21,12.75,81.44,93.84,Growing
+2024-11-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,158,-0.183,1.28,10.19,4.39,Emerging
+2024-12-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1136,-0.277,-3.97,28.36,24.7,Archived
+2024-12-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,1306,-0.077,-30.01,31.48,33.49,Declining
+2024-12-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,6092,-0.119,4.71,86.37,98.26,Growing
+2024-12-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,152,-0.111,-3.8,11.64,4.22,Emerging
+2025-01-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,1003,-0.113,-11.71,22.15,21.8,Archived
+2025-01-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,651,-0.137,-50.15,28.01,16.69,Declining
+2025-01-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,6425,-0.173,5.47,81.39,100,Growing
+2025-01-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,35,-0.112,-76.97,12.8,1,Emerging
+2025-02-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,876,-0.1,-12.66,20.41,19.04,Archived
+2025-02-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,35,-0.101,-94.62,21.13,1,Declining
+2025-02-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,6392,-0.081,-0.51,88.29,100,Growing
+2025-02-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,556,-0.021,1488.57,99,15.44,Emerging
+2025-03-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,776,-0.079,-11.42,22.23,16.87,Archived
+2025-03-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,1279,0.003,3554.29,99,32.79,Archived
+2025-03-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,6260,-0.038,-2.07,92.93,100,Growing
+2025-03-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,1058,0.069,90.29,41.91,29.39,Emerging
+2025-04-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,657,-0.113,-15.34,24.58,14.28,Archived
+2025-04-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,1142,0.03,-10.71,27.9,29.28,Archived
+2025-04-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,5797,-0.037,-7.4,89.78,93.5,Growing
+2025-04-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,1514,0.06,43.1,52.78,42.06,Emerging
+2025-05-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,622,0.021,-5.33,20.2,13.52,Archived
+2025-05-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,953,0.064,-16.55,33.37,24.44,Archived
+2025-05-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,5281,0.059,-8.9,88.32,85.18,Growing
+2025-05-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,1852,0.183,22.32,55.29,51.44,Emerging
+2025-06-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,503,0.094,-19.13,19.51,10.93,Archived
+2025-06-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,879,0.076,-7.76,28.31,22.54,Archived
+2025-06-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,5359,0.154,1.48,91.02,86.44,Growing
+2025-06-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2127,0.229,14.85,69.93,59.08,Emerging
+2025-07-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,457,0.111,-9.15,22.47,9.93,Archived
+2025-07-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,754,0.161,-14.22,24.92,19.33,Archived
+2025-07-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,4902,0.156,-8.53,85.28,79.06,Peak
+2025-07-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2311,0.174,8.65,69.88,64.19,Growing
+2025-08-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,406,0.078,-11.16,17.9,8.83,Archived
+2025-08-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,661,0.232,-12.33,27.01,16.95,Archived
+2025-08-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,4428,0.112,-9.67,82.95,71.42,Peak
+2025-08-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2575,0.207,11.42,82.29,71.53,Growing
+2025-09-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,388,0.149,-4.43,14.48,8.43,Archived
+2025-09-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,675,0.264,2.12,25.96,17.31,Archived
+2025-09-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,4235,0.209,-4.36,81.47,68.31,Peak
+2025-09-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2500,0.213,-2.91,86.88,69.44,Growing
+2025-10-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,351,0.07,-9.54,13.38,7.63,Archived
+2025-10-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,639,0.141,-5.33,26.06,16.38,Archived
+2025-10-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,3598,0.166,-15.04,74.83,58.03,Peak
+2025-10-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2770,0.153,10.8,86.05,76.94,Growing
+2025-11-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,376,0.14,7.12,17.51,8.17,Archived
+2025-11-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,566,0.257,-11.42,18.71,14.51,Archived
+2025-11-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,3715,0.158,3.25,66.55,59.92,Peak
+2025-11-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2837,0.298,2.42,87.7,78.81,Growing
+2025-12-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,378,0.137,0.53,13.69,8.22,Archived
+2025-12-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,570,0.152,0.71,18.98,14.62,Archived
+2025-12-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,3261,0.079,-12.22,64.32,52.6,Declining
+2025-12-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,3125,0.222,10.15,88.17,86.81,Growing
+2026-01-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,432,0.04,14.29,21.59,9.39,Archived
+2026-01-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,561,0.16,-1.58,18.32,14.38,Archived
+2026-01-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,2974,0.136,-8.8,48.06,47.97,Declining
+2026-01-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,3020,0.171,-3.36,88.65,83.89,Peak
+2026-02-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,430,-0.005,-0.46,14.62,9.35,Archived
+2026-02-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,574,0.149,2.32,21.05,14.72,Archived
+2026-02-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,2644,0.059,-11.1,42.6,42.65,Declining
+2026-02-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,3129,0.133,3.61,79.1,86.92,Peak
+2026-03-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,452,-0.001,5.12,12.84,9.83,Archived
+2026-03-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,544,0.154,-5.23,20.83,13.95,Archived
+2026-03-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,2133,0.016,-19.33,40.4,34.4,Declining
+2026-03-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2996,0.038,-4.25,73.38,83.22,Peak
+2026-04-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,488,-0.064,7.96,19.41,10.61,Archived
+2026-04-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,514,0.008,-5.51,21.02,13.18,Archived
+2026-04-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,1387,0.005,-34.97,25.3,22.37,Declining
+2026-04-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2721,0.101,-9.18,67.67,75.58,Peak
+2026-05-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,474,-0.018,-2.87,10.86,10.3,Archived
+2026-05-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,504,0.082,-1.95,21.47,12.92,Archived
+2026-05-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,709,-0.104,-48.88,21.48,11.44,Declining
+2026-05-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,2225,-0.016,-18.23,57.79,61.81,Declining
+2026-06-01,disaster-response,Natural Disaster Response,Flood Relief,Disaster Response,502,-0.116,5.91,16.38,10.91,Archived
+2026-06-01,disaster-response,Natural Disaster Response,Emergency Logistics,Operations,464,0.009,-7.94,17.59,11.9,Archived
+2026-06-01,disaster-response,Natural Disaster Response,Climate Risk,Environment,35,-0.081,-95.06,12.96,1,Declining
+2026-06-01,disaster-response,Natural Disaster Response,Resilience Funding,Policy,1699,-0.068,-23.64,43.59,47.19,Declining

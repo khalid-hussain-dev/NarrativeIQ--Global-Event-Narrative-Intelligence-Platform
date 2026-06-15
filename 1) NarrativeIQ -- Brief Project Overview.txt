@@ -1,0 +1,15 @@
+Project Title
+
+NarrativeIQ: Event Intelligence and Narrative Evolution Platform
+
+Project Description
+
+NarrativeIQ is an advanced Event Intelligence and Narrative Evolution Platform designed to collect, process, warehouse, analyze, and visualize large-scale public discourse data from multiple digital sources. The platform aims to transform fragmented online discussions into structured intelligence by tracking how events, narratives, public sentiment, and influential entities evolve over time.
+
+Modern events generate massive volumes of information across social media platforms, news sources, discussion forums, and online communities. While traditional analytics tools can display statistics and trends, they often fail to explain how narratives emerge, spread, transform, and eventually decline. NarrativeIQ addresses this challenge by implementing a complete Data Warehousing and Big Data architecture that continuously ingests data from multiple sources, performs automated ETL processing, and stores historical information within a dimensional warehouse model optimized for analytical workloads.
+
+The system applies advanced data processing techniques including data cleansing, sentiment analysis, entity extraction, topic classification, trend detection, and temporal aggregation. Historical snapshots are preserved to enable longitudinal analysis of events and public discourse. Users can explore how conversations evolve over days, weeks, or months, identify influential entities driving discussions, detect sentiment shifts, monitor topic emergence, and reconstruct complete narrative timelines.
+
+The platform incorporates a star-schema-based data warehouse consisting of multiple fact and dimension tables that support high-performance analytical queries. Interactive dashboards provide visual representations of topic evolution, sentiment distribution, information propagation, event timelines, and influence networks. Predictive analytics modules further estimate future narrative trajectories and identify emerging topics before they become widespread.
+
+NarrativeIQ demonstrates the practical application of Data Warehousing and Big Data concepts including ETL pipelines, dimensional modeling, materialized views, historical data management, advanced aggregation techniques, data profiling, and business intelligence reporting. The project showcases how modern organizations can transform massive volumes of unstructured public information into actionable intelligence for decision-making, research, and strategic planning.

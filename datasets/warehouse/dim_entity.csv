@@ -1,0 +1,30 @@
+entity_key,entity_name,entity_type
+1,OpenAI,Organization
+2,GPT Models,Product
+3,Microsoft,Organization
+4,AI Agents,Topic
+5,Developers,Group
+6,Regulators,Group
+7,Pakistan Cricket Board,Organization
+8,ICC,Organization
+9,Babar Azam,Person
+10,India,Location
+11,Fans,Group
+12,Election Commission,Organization
+13,Political Parties,Organization
+14,Civil Society,Organization
+15,Youth Voters,Group
+16,Fact Checkers,Group
+17,Relief Agencies,Organization
+18,Local Communities,Group
+19,Climate Scientists,Group
+20,Government Response Units,Organization
+21,Asia Pacific,Location
+22,AI Governance,Topic
+23,Autonomous AI Systems,Topic
+24,Cricket World Cup,Topic
+25,Election Security,Topic
+26,Misinformation Monitoring,Topic
+27,Flood Relief,Topic
+28,Climate Risk,Topic
+29,Resilience Funding,Topic

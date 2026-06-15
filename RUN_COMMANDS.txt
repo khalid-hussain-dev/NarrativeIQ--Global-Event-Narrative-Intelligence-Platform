@@ -1,0 +1,31 @@
+You can run the entire platform with a single command from the root directory of the project:
+
+
+
+powershell -ExecutionPolicy Bypass -File scripts/start_demo.ps1 -SeedDemoBriefs
+
+
+
+-SeedDemoBriefs: Safe exhibition flag that pre-populates PostgreSQL with a history of live-topic snapshots.
+-RefreshData: Re-generates the entire 50,000-record warehouse dataset and mart.
+-BuildFrontend: Rebuilds the frontend production bundle before starting.
+
+***********************************************************************************************************
+
+
+FastAPI Backend (Port 8000):
+powershell
+
+
+cd backend
+
+.venv\Scripts\python.exe -m uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
+
+
+Next.js Frontend (Port 3000):
+powershell
+
+
+cd frontend
+
+node node_modules/next/dist/bin/next start -H 0.0.0.0 -p 3000

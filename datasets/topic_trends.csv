@@ -1,0 +1,715 @@
+date,event_id,topic,trend_score,growth_rate,momentum
+2023-01-01,ai-revolution,AI Assistants,4.34,40.0,18.22
+2023-01-01,ai-revolution,Multimodal AI,8.75,38.89,18.35
+2023-01-01,ai-revolution,AI Agents,9.71,39.42,18.56
+2023-01-01,ai-revolution,AI Governance,6.12,39.43,18.58
+2023-01-01,ai-revolution,Autonomous AI Systems,8.47,38.94,18.35
+2023-02-01,ai-revolution,AI Assistants,48.31,1674.29,100
+2023-02-01,ai-revolution,Multimodal AI,7.71,5.0,3.14
+2023-02-01,ai-revolution,AI Agents,5.89,7.93,4.45
+2023-02-01,ai-revolution,AI Governance,7.82,4.92,3.09
+2023-02-01,ai-revolution,Autonomous AI Systems,7.45,1.59,1.56
+2023-03-01,ai-revolution,AI Assistants,40.82,107.09,56.05
+2023-03-01,ai-revolution,Multimodal AI,7.68,2.86,2.2
+2023-03-01,ai-revolution,AI Agents,4.92,4.15,2.79
+2023-03-01,ai-revolution,AI Governance,8.27,0.39,1.06
+2023-03-01,ai-revolution,Autonomous AI Systems,6.87,5.33,3.29
+2023-04-01,ai-revolution,AI Assistants,53.4,51.01,34.82
+2023-04-01,ai-revolution,Multimodal AI,6.06,5.09,3.25
+2023-04-01,ai-revolution,AI Agents,6.66,-1.84,0.07
+2023-04-01,ai-revolution,AI Governance,6.21,1.95,1.78
+2023-04-01,ai-revolution,Autonomous AI Systems,7.22,3.27,2.39
+2023-05-01,ai-revolution,AI Assistants,66.7,31.0,29.5
+2023-05-01,ai-revolution,Multimodal AI,8.01,-5.29,-1.47
+2023-05-01,ai-revolution,AI Agents,7.27,7.19,4.2
+2023-05-01,ai-revolution,AI Governance,8.0,5.73,3.53
+2023-05-01,ai-revolution,Autonomous AI Systems,7.55,0.29,1.05
+2023-06-01,ai-revolution,AI Assistants,80.01,20.28,27.83
+2023-06-01,ai-revolution,Multimodal AI,5.12,2.79,2.19
+2023-06-01,ai-revolution,AI Agents,7.61,-6.12,-1.85
+2023-06-01,ai-revolution,AI Governance,4.98,-0.72,0.62
+2023-06-01,ai-revolution,Autonomous AI Systems,7.62,5.75,3.56
+2023-07-01,ai-revolution,AI Assistants,85.18,6.08,22.57
+2023-07-01,ai-revolution,Multimodal AI,5.11,2.26,1.97
+2023-07-01,ai-revolution,AI Agents,6.5,-0.93,0.48
+2023-07-01,ai-revolution,AI Governance,7.85,-3.27,-0.56
+2023-07-01,ai-revolution,Autonomous AI Systems,5.01,-6.52,-2.02
+2023-08-01,ai-revolution,AI Assistants,92.65,8.16,25.13
+2023-08-01,ai-revolution,Multimodal AI,7.24,-7.08,-2.3
+2023-08-01,ai-revolution,AI Agents,8.31,-3.76,-0.83
+2023-08-01,ai-revolution,AI Governance,4.74,1.88,1.78
+2023-08-01,ai-revolution,Autonomous AI Systems,7.31,-4.07,-0.96
+2023-09-01,ai-revolution,AI Assistants,93.79,-0.03,21.44
+2023-09-01,ai-revolution,Multimodal AI,6.11,-6.19,-1.95
+2023-09-01,ai-revolution,AI Agents,7.11,2.93,2.21
+2023-09-01,ai-revolution,AI Governance,6.18,-9.59,-3.47
+2023-09-01,ai-revolution,Autonomous AI Systems,7.68,-3.33,-0.65
+2023-10-01,ai-revolution,AI Assistants,93.69,-2.93,19.5
+2023-10-01,ai-revolution,Multimodal AI,4.73,1.02,1.3
+2023-10-01,ai-revolution,AI Agents,8.32,-5.7,-1.72
+2023-10-01,ai-revolution,AI Governance,7.57,-2.04,-0.09
+2023-10-01,ai-revolution,Autonomous AI Systems,4.86,-2.51,-0.3
+2023-11-01,ai-revolution,AI Assistants,88.46,-8.86,14.99
+2023-11-01,ai-revolution,Multimodal AI,8.54,-82.41,-36.86
+2023-11-01,ai-revolution,AI Agents,5.62,-6.38,-2.08
+2023-11-01,ai-revolution,AI Governance,5.83,-10.0,-3.76
+2023-11-01,ai-revolution,Autonomous AI Systems,5.97,-7.07,-2.42
+2023-12-01,ai-revolution,AI Assistants,79.62,-8.47,13.56
+2023-12-01,ai-revolution,Multimodal AI,45.85,1871.43,100
+2023-12-01,ai-revolution,AI Agents,5.77,-10.75,-4.14
+2023-12-01,ai-revolution,AI Governance,7.43,-1.39,0.11
+2023-12-01,ai-revolution,Autonomous AI Systems,7.1,-5.54,-1.77
+2024-01-01,ai-revolution,AI Assistants,69.26,-16.75,6.92
+2024-01-01,ai-revolution,Multimodal AI,32.51,90.58,46.32
+2024-01-01,ai-revolution,AI Agents,6.58,-4.42,-1.32
+2024-01-01,ai-revolution,AI Governance,4.96,0.94,1.16
+2024-01-01,ai-revolution,Autonomous AI Systems,4.38,-8.42,-3.13
+2024-02-01,ai-revolution,AI Assistants,63.94,-13.74,6.29
+2024-02-01,ai-revolution,Multimodal AI,41.28,39.85,25.71
+2024-02-01,ai-revolution,AI Agents,5.83,-1.68,-0.1
+2024-02-01,ai-revolution,AI Governance,6.07,-5.58,-1.81
+2024-02-01,ai-revolution,Autonomous AI Systems,6.15,7.6,4.13
+2024-03-01,ai-revolution,AI Assistants,52.11,-15.53,3.55
+2024-03-01,ai-revolution,Multimodal AI,49.82,23.11,19.98
+2024-03-01,ai-revolution,AI Agents,5.4,3.85,2.42
+2024-03-01,ai-revolution,AI Governance,6.8,-5.42,-1.78
+2024-03-01,ai-revolution,Autonomous AI Systems,6.03,-6.69,-2.35
+2024-04-01,ai-revolution,AI Assistants,43.33,-17.58,0.77
+2024-04-01,ai-revolution,Multimodal AI,60.58,34.36,28.33
+2024-04-01,ai-revolution,AI Agents,4.7,3.7,2.38
+2024-04-01,ai-revolution,AI Governance,7.53,2.08,1.61
+2024-04-01,ai-revolution,Autonomous AI Systems,6.28,5.98,3.4
+2024-05-01,ai-revolution,AI Assistants,32.88,-29.49,-7.15
+2024-05-01,ai-revolution,Multimodal AI,70.59,17.92,23.24
+2024-05-01,ai-revolution,AI Agents,7.71,-3.97,-1.1
+2024-05-01,ai-revolution,AI Governance,4.42,2.04,1.6
+2024-05-01,ai-revolution,Autonomous AI Systems,6.08,-2.63,-0.5
+2024-06-01,ai-revolution,AI Assistants,19.3,-47.31,-18.06
+2024-06-01,ai-revolution,Multimodal AI,80.1,16.7,25.23
+2024-06-01,ai-revolution,AI Agents,6.53,16.94,8.42
+2024-06-01,ai-revolution,AI Governance,7.32,11.5,5.94
+2024-06-01,ai-revolution,Autonomous AI Systems,6.79,6.95,3.86
+2024-07-01,ai-revolution,AI Assistants,7.01,-93.37,-41.8
+2024-07-01,ai-revolution,Multimodal AI,87.31,11.66,25.02
+2024-07-01,ai-revolution,AI Agents,6.61,4.24,2.74
+2024-07-01,ai-revolution,AI Governance,5.51,7.17,4.05
+2024-07-01,ai-revolution,Autonomous AI Systems,6.84,11.55,6.02
+2024-08-01,ai-revolution,AI Assistants,56.39,3014.29,100
+2024-08-01,ai-revolution,Multimodal AI,91.2,3.57,22.09
+2024-08-01,ai-revolution,AI Agents,7.34,1.02,1.3
+2024-08-01,ai-revolution,AI Governance,7.48,-1.26,0.24
+2024-08-01,ai-revolution,Autonomous AI Systems,7.2,3.56,2.45
+2024-09-01,ai-revolution,AI Assistants,28.7,-1.01,6.14
+2024-09-01,ai-revolution,Multimodal AI,95.24,6.96,25.04
+2024-09-01,ai-revolution,AI Agents,5.74,-88.26,-39.5
+2024-09-01,ai-revolution,AI Governance,8.65,13.98,7.22
+2024-09-01,ai-revolution,Autonomous AI Systems,6.92,7.81,4.43
+2024-10-01,ai-revolution,AI Assistants,30.81,-4.36,4.35
+2024-10-01,ai-revolution,Multimodal AI,96.61,4.85,24.18
+2024-10-01,ai-revolution,AI Agents,48.56,3831.43,100
+2024-10-01,ai-revolution,AI Governance,5.5,2.23,1.95
+2024-10-01,ai-revolution,Autonomous AI Systems,6.76,1.16,1.45
+2024-11-01,ai-revolution,AI Assistants,28.02,-7.56,2.43
+2024-11-01,ai-revolution,Multimodal AI,96.09,-0.85,21.62
+2024-11-01,ai-revolution,AI Agents,40.53,100.29,52.9
+2024-11-01,ai-revolution,AI Governance,8.32,-0.36,0.78
+2024-11-01,ai-revolution,Autonomous AI Systems,8.46,5.44,3.42
+2024-12-01,ai-revolution,AI Assistants,25.8,-1.99,4.82
+2024-12-01,ai-revolution,Multimodal AI,91.67,-7.65,17.59
+2024-12-01,ai-revolution,AI Agents,53.58,56.79,37.74
+2024-12-01,ai-revolution,AI Governance,6.06,1.46,1.61
+2024-12-01,ai-revolution,Autonomous AI Systems,6.68,-0.82,0.6
+2025-01-01,ai-revolution,AI Assistants,25.57,-12.51,-0.63
+2025-01-01,ai-revolution,Multimodal AI,81.21,-9.01,15.08
+2025-01-01,ai-revolution,AI Agents,65.89,26.29,27.22
+2025-01-01,ai-revolution,AI Governance,6.39,-87.41,-39.11
+2025-01-01,ai-revolution,Autonomous AI Systems,8.04,-1.64,0.21
+2025-02-01,ai-revolution,AI Assistants,21.57,-7.82,1.09
+2025-02-01,ai-revolution,Multimodal AI,68.94,-16.14,8.78
+2025-02-01,ai-revolution,AI Agents,76.32,16.35,25.27
+2025-02-01,ai-revolution,AI Governance,47.09,2694.29,100
+2025-02-01,ai-revolution,Autonomous AI Systems,6.96,-1.95,0.06
+2025-03-01,ai-revolution,AI Assistants,20.68,-13.53,-2.1
+2025-03-01,ai-revolution,Multimodal AI,55.69,-21.49,2.93
+2025-03-01,ai-revolution,AI Agents,85.09,8.84,23.47
+2025-03-01,ai-revolution,AI Governance,32.93,75.26,39.76
+2025-03-01,ai-revolution,Autonomous AI Systems,8.05,-6.82,-2.2
+2025-04-01,ai-revolution,AI Assistants,19.08,-13.04,-2.4
+2025-04-01,ai-revolution,Multimodal AI,43.91,-28.54,-3.84
+2025-04-01,ai-revolution,AI Agents,88.67,2.42,21.05
+2025-04-01,ai-revolution,AI Governance,44.18,48.6,30.63
+2025-04-01,ai-revolution,Autonomous AI Systems,7.76,-6.4,-2.07
+2025-05-01,ai-revolution,AI Assistants,17.97,-8.99,-0.89
+2025-05-01,ai-revolution,Multimodal AI,30.74,-30.36,-7.39
+2025-05-01,ai-revolution,AI Agents,86.51,-3.73,17.54
+2025-05-01,ai-revolution,AI Governance,50.27,15.23,16.94
+2025-05-01,ai-revolution,Autonomous AI Systems,5.76,-3.58,-0.83
+2025-06-01,ai-revolution,AI Assistants,15.16,-9.5,-1.42
+2025-06-01,ai-revolution,Multimodal AI,17.96,-53.1,-20.95
+2025-06-01,ai-revolution,AI Agents,87.1,1.69,20.3
+2025-06-01,ai-revolution,AI Governance,59.35,21.23,21.78
+2025-06-01,ai-revolution,Autonomous AI Systems,8.12,-5.41,-1.69
+2025-07-01,ai-revolution,AI Assistants,12.98,-11.56,-2.68
+2025-07-01,ai-revolution,Multimodal AI,7.29,-94.96,-42.51
+2025-07-01,ai-revolution,AI Agents,83.0,-7.42,14.75
+2025-07-01,ai-revolution,AI Governance,64.03,12.28,19.26
+2025-07-01,ai-revolution,Autonomous AI Systems,4.83,-2.5,-0.4
+2025-08-01,ai-revolution,AI Assistants,12.66,-15.5,-4.84
+2025-08-01,ai-revolution,Multimodal AI,52.95,3574.29,100
+2025-08-01,ai-revolution,AI Agents,79.77,-6.83,13.78
+2025-08-01,ai-revolution,AI Governance,70.36,5.18,16.78
+2025-08-01,ai-revolution,Autonomous AI Systems,4.9,-7.33,-2.63
+2025-09-01,ai-revolution,AI Assistants,13.8,-4.87,-0.16
+2025-09-01,ai-revolution,Multimodal AI,25.69,-8.63,1.09
+2025-09-01,ai-revolution,AI Agents,72.51,-13.34,8.61
+2025-09-01,ai-revolution,AI Governance,74.28,4.59,17.17
+2025-09-01,ai-revolution,Autonomous AI Systems,7.06,1.98,1.58
+2025-10-01,ai-revolution,AI Assistants,12.61,-8.13,-1.8
+2025-10-01,ai-revolution,Multimodal AI,22.74,-8.0,0.97
+2025-10-01,ai-revolution,AI Agents,63.13,-8.69,9.43
+2025-10-01,ai-revolution,AI Governance,82.62,15.61,24.49
+2025-10-01,ai-revolution,Autonomous AI Systems,4.19,1.94,1.57
+2025-11-01,ai-revolution,AI Assistants,9.43,-7.21,-1.52
+2025-11-01,ai-revolution,Multimodal AI,21.97,0.65,4.89
+2025-11-01,ai-revolution,AI Agents,56.24,-17.04,3.4
+2025-11-01,ai-revolution,AI Governance,79.5,-3.48,15.29
+2025-11-01,ai-revolution,Autonomous AI Systems,6.55,-86.69,-38.79
+2025-12-01,ai-revolution,AI Assistants,11.44,13.43,8.01
+2025-12-01,ai-revolution,Multimodal AI,21.34,-6.07,1.59
+2025-12-01,ai-revolution,AI Agents,43.85,-19.17,0.32
+2025-12-01,ai-revolution,AI Governance,89.32,14.54,25.85
+2025-12-01,ai-revolution,Autonomous AI Systems,46.48,3288.57,100
+2026-01-01,ai-revolution,AI Assistants,10.9,-1.87,1.08
+2026-01-01,ai-revolution,Multimodal AI,23.4,1.76,5.19
+2026-01-01,ai-revolution,AI Agents,34.26,-22.08,-2.97
+2026-01-01,ai-revolution,AI Governance,88.35,-1.78,18.16
+2026-01-01,ai-revolution,Autonomous AI Systems,36.99,120.74,61.27
+2026-02-01,ai-revolution,AI Assistants,10.59,4.76,4.16
+2026-02-01,ai-revolution,Multimodal AI,23.17,4.52,6.63
+2026-02-01,ai-revolution,AI Agents,19.13,-47.35,-17.64
+2026-02-01,ai-revolution,AI Governance,89.62,7.3,23.64
+2026-02-01,ai-revolution,Autonomous AI Systems,49.02,52.6,34.26
+2026-03-01,ai-revolution,AI Assistants,14.1,10.61,7.01
+2026-03-01,ai-revolution,Multimodal AI,20.08,-4.69,2.27
+2026-03-01,ai-revolution,AI Agents,5.51,-97.31,-43.57
+2026-03-01,ai-revolution,AI Governance,87.67,-0.52,20.01
+2026-03-01,ai-revolution,Autonomous AI Systems,64.3,36.92,31.11
+2026-04-01,ai-revolution,AI Assistants,12.77,3.01,3.65
+2026-04-01,ai-revolution,Multimodal AI,18.99,-5.02,1.9
+2026-04-01,ai-revolution,AI Agents,57.91,7194.29,100
+2026-04-01,ai-revolution,AI Governance,82.59,-7.66,15.25
+2026-04-01,ai-revolution,Autonomous AI Systems,77.44,21.86,27.51
+2026-05-01,ai-revolution,AI Assistants,13.13,6.12,5.19
+2026-05-01,ai-revolution,Multimodal AI,20.83,0.51,4.41
+2026-05-01,ai-revolution,AI Agents,31.44,-4.39,4.91
+2026-05-01,ai-revolution,AI Governance,74.03,-6.82,14.35
+2026-05-01,ai-revolution,Autonomous AI Systems,89.22,17.97,28.93
+2026-06-01,ai-revolution,AI Assistants,13.96,-4.51,0.3
+2026-06-01,ai-revolution,Multimodal AI,19.07,-10.21,-0.84
+2026-06-01,ai-revolution,AI Agents,29.0,-9.71,1.85
+2026-06-01,ai-revolution,AI Governance,68.17,-12.97,9.32
+2026-06-01,ai-revolution,Autonomous AI Systems,92.04,2.19,22.29
+2023-01-01,cricket-world-cup,Tournament Build Up,7.34,39.66,18.68
+2023-01-01,cricket-world-cup,Pakistan Squad Debate,7.22,39.69,18.63
+2023-01-01,cricket-world-cup,Final Match Fever,5.93,39.49,18.56
+2023-01-01,cricket-world-cup,Broadcast Rights,6.42,39.78,18.7
+2023-02-01,cricket-world-cup,Tournament Build Up,5.85,1.85,1.68
+2023-02-01,cricket-world-cup,Pakistan Squad Debate,6.15,14.21,7.28
+2023-02-01,cricket-world-cup,Final Match Fever,5.75,9.93,5.33
+2023-02-01,cricket-world-cup,Broadcast Rights,7.97,7.69,4.32
+2023-03-01,cricket-world-cup,Tournament Build Up,6.45,3.03,2.23
+2023-03-01,cricket-world-cup,Pakistan Squad Debate,7.78,0.96,1.33
+2023-03-01,cricket-world-cup,Final Match Fever,4.82,4.35,2.86
+2023-03-01,cricket-world-cup,Broadcast Rights,7.19,3.57,2.49
+2023-04-01,cricket-world-cup,Tournament Build Up,4.89,5.29,3.3
+2023-04-01,cricket-world-cup,Pakistan Squad Debate,8.15,8.06,4.59
+2023-04-01,cricket-world-cup,Final Match Fever,8.18,-0.64,0.61
+2023-04-01,cricket-world-cup,Broadcast Rights,5.74,5.52,3.42
+2023-05-01,cricket-world-cup,Tournament Build Up,7.95,5.59,3.48
+2023-05-01,cricket-world-cup,Pakistan Squad Debate,4.79,-3.95,-0.85
+2023-05-01,cricket-world-cup,Final Match Fever,5.41,2.9,2.23
+2023-05-01,cricket-world-cup,Broadcast Rights,5.8,2.61,2.13
+2023-06-01,cricket-world-cup,Tournament Build Up,6.11,-1.59,0.24
+2023-06-01,cricket-world-cup,Pakistan Squad Debate,6.24,-0.46,0.71
+2023-06-01,cricket-world-cup,Final Match Fever,8.71,4.7,3.08
+2023-06-01,cricket-world-cup,Broadcast Rights,6.43,1.27,1.54
+2023-07-01,cricket-world-cup,Tournament Build Up,6.6,-81.18,-36.31
+2023-07-01,cricket-world-cup,Pakistan Squad Debate,6.54,3.21,2.4
+2023-07-01,cricket-world-cup,Final Match Fever,6.47,-6.89,-2.2
+2023-07-01,cricket-world-cup,Broadcast Rights,7.31,-2.52,-0.19
+2023-08-01,cricket-world-cup,Tournament Build Up,54.3,3205.71,100
+2023-08-01,cricket-world-cup,Pakistan Squad Debate,5.94,-2.22,-0.07
+2023-08-01,cricket-world-cup,Final Match Fever,5.39,4.5,2.97
+2023-08-01,cricket-world-cup,Broadcast Rights,5.68,-5.81,-1.72
+2023-09-01,cricket-world-cup,Tournament Build Up,50.64,76.58,44.91
+2023-09-01,cricket-world-cup,Pakistan Squad Debate,7.25,-3.18,-0.53
+2023-09-01,cricket-world-cup,Final Match Fever,8.0,-6.46,-2.03
+2023-09-01,cricket-world-cup,Broadcast Rights,5.93,-4.11,-0.99
+2023-10-01,cricket-world-cup,Tournament Build Up,64.04,31.86,28.12
+2023-10-01,cricket-world-cup,Pakistan Squad Debate,5.0,-11.74,-4.49
+2023-10-01,cricket-world-cup,Final Match Fever,4.55,-3.95,-0.93
+2023-10-01,cricket-world-cup,Broadcast Rights,5.57,-3.57,-0.78
+2023-11-01,cricket-world-cup,Tournament Build Up,77.71,17.71,24.19
+2023-11-01,cricket-world-cup,Pakistan Squad Debate,5.0,-5.85,-1.88
+2023-11-01,cricket-world-cup,Final Match Fever,6.72,-6.85,-2.29
+2023-11-01,cricket-world-cup,Broadcast Rights,7.59,-8.15,-2.91
+2023-12-01,cricket-world-cup,Tournament Build Up,85.32,11.23,23.1
+2023-12-01,cricket-world-cup,Pakistan Squad Debate,8.03,-80.23,-35.88
+2023-12-01,cricket-world-cup,Final Match Fever,4.9,-4.41,-1.23
+2023-12-01,cricket-world-cup,Broadcast Rights,4.74,-5.65,-1.83
+2024-01-01,cricket-world-cup,Tournament Build Up,84.62,2.67,19.73
+2024-01-01,cricket-world-cup,Pakistan Squad Debate,48.23,2442.86,100
+2024-01-01,cricket-world-cup,Final Match Fever,7.42,-2.31,-0.3
+2024-01-01,cricket-world-cup,Broadcast Rights,5.2,0.0,0.71
+2024-02-01,cricket-world-cup,Tournament Build Up,77.75,-13.62,9.87
+2024-02-01,cricket-world-cup,Pakistan Squad Debate,41.76,91.12,48.2
+2024-02-01,cricket-world-cup,Final Match Fever,4.23,-6.69,-2.32
+2024-02-01,cricket-world-cup,Broadcast Rights,5.28,-7.69,-2.8
+2024-03-01,cricket-world-cup,Tournament Build Up,71.52,-9.85,10.0
+2024-03-01,cricket-world-cup,Pakistan Squad Debate,52.03,47.03,31.75
+2024-03-01,cricket-world-cup,Final Match Fever,7.12,-85.23,-38.13
+2024-03-01,cricket-world-cup,Broadcast Rights,7.2,-1.85,-0.19
+2024-04-01,cricket-world-cup,Tournament Build Up,59.79,-13.3,6.52
+2024-04-01,cricket-world-cup,Pakistan Squad Debate,64.36,25.75,24.89
+2024-04-01,cricket-world-cup,Final Match Fever,55.86,6288.57,100
+2024-04-01,cricket-world-cup,Broadcast Rights,4.89,9.43,4.95
+2024-05-01,cricket-world-cup,Tournament Build Up,44.76,-29.2,-4.28
+2024-05-01,cricket-world-cup,Pakistan Squad Debate,77.8,20.79,25.43
+2024-05-01,cricket-world-cup,Final Match Fever,63.25,91.37,53.5
+2024-05-01,cricket-world-cup,Broadcast Rights,6.69,1.72,1.5
+2024-06-01,cricket-world-cup,Tournament Build Up,27.16,-45.98,-15.91
+2024-06-01,cricket-world-cup,Pakistan Squad Debate,85.92,17.93,27.02
+2024-06-01,cricket-world-cup,Final Match Fever,85.05,47.91,39.88
+2024-06-01,cricket-world-cup,Broadcast Rights,7.87,5.93,3.43
+2024-07-01,cricket-world-cup,Tournament Build Up,6.76,-96.26,-43.1
+2024-07-01,cricket-world-cup,Pakistan Squad Debate,90.19,6.63,23.19
+2024-07-01,cricket-world-cup,Final Match Fever,91.92,12.72,26.38
+2024-07-01,cricket-world-cup,Broadcast Rights,7.92,-72.0,-32.18
+2024-08-01,cricket-world-cup,Tournament Build Up,55.28,3400.0,100
+2024-08-01,cricket-world-cup,Pakistan Squad Debate,91.91,3.62,22.57
+2024-08-01,cricket-world-cup,Final Match Fever,88.48,-3.48,18.37
+2024-08-01,cricket-world-cup,Broadcast Rights,49.57,1882.86,100
+2024-09-01,cricket-world-cup,Tournament Build Up,30.12,-1.71,5.39
+2024-09-01,cricket-world-cup,Pakistan Squad Debate,88.06,-2.85,19.06
+2024-09-01,cricket-world-cup,Final Match Fever,69.49,-19.17,7.49
+2024-09-01,cricket-world-cup,Broadcast Rights,42.52,105.76,56.32
+2024-10-01,cricket-world-cup,Tournament Build Up,24.85,-8.47,1.83
+2024-10-01,cricket-world-cup,Pakistan Squad Debate,75.89,-14.81,10.67
+2024-10-01,cricket-world-cup,Final Match Fever,40.96,-45.33,-11.59
+2024-10-01,cricket-world-cup,Broadcast Rights,57.8,52.1,36.72
+2024-11-01,cricket-world-cup,Tournament Build Up,23.23,-6.35,2.42
+2024-11-01,cricket-world-cup,Pakistan Squad Debate,64.0,-14.94,8.02
+2024-11-01,cricket-world-cup,Final Match Fever,8.79,-98.85,-44.26
+2024-11-01,cricket-world-cup,Broadcast Rights,71.29,22.84,26.58
+2024-12-01,cricket-world-cup,Tournament Build Up,21.67,-13.86,-1.69
+2024-12-01,cricket-world-cup,Pakistan Squad Debate,46.84,-32.74,-4.82
+2024-12-01,cricket-world-cup,Final Match Fever,56.52,6520.0,100
+2024-12-01,cricket-world-cup,Broadcast Rights,86.28,21.59,29.54
+2025-01-01,cricket-world-cup,Tournament Build Up,18.58,-14.74,-2.75
+2025-01-01,cricket-world-cup,Pakistan Squad Debate,24.49,-48.17,-16.54
+2025-01-01,cricket-world-cup,Final Match Fever,28.91,-14.03,-0.55
+2025-01-01,cricket-world-cup,Broadcast Rights,94.5,11.87,27.34
+2025-02-01,cricket-world-cup,Tournament Build Up,18.28,-12.4,-2.18
+2025-02-01,cricket-world-cup,Pakistan Squad Debate,7.64,-97.12,-43.48
+2025-02-01,cricket-world-cup,Final Match Fever,24.18,-22.44,-5.63
+2025-02-01,cricket-world-cup,Broadcast Rights,95.0,4.74,24.13
+2025-03-01,cricket-world-cup,Tournament Build Up,14.21,-8.28,-0.61
+2025-03-01,cricket-world-cup,Pakistan Squad Debate,57.03,4551.43,100
+2025-03-01,cricket-world-cup,Final Match Fever,20.15,-19.35,-5.1
+2025-03-01,cricket-world-cup,Broadcast Rights,95.07,-4.89,19.8
+2025-04-01,cricket-world-cup,Tournament Build Up,14.11,-20.85,-6.92
+2025-04-01,cricket-world-cup,Pakistan Squad Debate,29.56,-14.5,-0.64
+2025-04-01,cricket-world-cup,Final Match Fever,15.54,-17.01,-4.66
+2025-04-01,cricket-world-cup,Broadcast Rights,91.57,-5.59,18.34
+2025-05-01,cricket-world-cup,Tournament Build Up,14.15,-12.86,-3.64
+2025-05-01,cricket-world-cup,Pakistan Squad Debate,25.36,-19.4,-3.98
+2025-05-01,cricket-world-cup,Final Match Fever,13.49,-22.15,-7.64
+2025-05-01,cricket-world-cup,Broadcast Rights,83.69,-9.35,14.7
+2025-06-01,cricket-world-cup,Tournament Build Up,12.22,-13.33,-4.14
+2025-06-01,cricket-world-cup,Pakistan Squad Debate,21.95,-12.3,-1.37
+2025-06-01,cricket-world-cup,Final Match Fever,13.25,-14.41,-4.49
+2025-06-01,cricket-world-cup,Broadcast Rights,70.0,-21.59,5.11
+2025-07-01,cricket-world-cup,Tournament Build Up,11.06,-7.14,-1.48
+2025-07-01,cricket-world-cup,Pakistan Squad Debate,18.58,-15.45,-3.43
+2025-07-01,cricket-world-cup,Final Match Fever,9.48,-13.79,-4.49
+2025-07-01,cricket-world-cup,Broadcast Rights,62.59,-13.4,6.81
+2025-08-01,cricket-world-cup,Tournament Build Up,10.34,-0.59,1.45
+2025-08-01,cricket-world-cup,Pakistan Squad Debate,17.28,-4.81,1.19
+2025-08-01,cricket-world-cup,Final Match Fever,11.68,3.87,3.53
+2025-08-01,cricket-world-cup,Broadcast Rights,49.21,-21.85,0.2
+2025-09-01,cricket-world-cup,Tournament Build Up,12.22,0.0,1.72
+2025-09-01,cricket-world-cup,Pakistan Squad Debate,15.32,-16.41,-4.58
+2025-09-01,cricket-world-cup,Final Match Fever,10.52,-3.89,-0.03
+2025-09-01,cricket-world-cup,Broadcast Rights,33.17,-33.5,-8.4
+2025-10-01,cricket-world-cup,Tournament Build Up,10.59,-0.89,1.3
+2025-10-01,cricket-world-cup,Pakistan Squad Debate,13.61,-0.91,2.37
+2025-10-01,cricket-world-cup,Final Match Fever,9.89,3.71,3.45
+2025-10-01,cricket-world-cup,Broadcast Rights,19.06,-51.47,-19.92
+2025-11-01,cricket-world-cup,Tournament Build Up,10.89,7.51,5.21
+2025-11-01,cricket-world-cup,Pakistan Squad Debate,13.14,-8.84,-1.45
+2025-11-01,cricket-world-cup,Final Match Fever,11.65,1.14,2.31
+2025-11-01,cricket-world-cup,Broadcast Rights,7.36,-93.4,-41.81
+2025-12-01,cricket-world-cup,Tournament Build Up,10.78,0.0,1.83
+2025-12-01,cricket-world-cup,Pakistan Squad Debate,13.04,-8.19,-1.36
+2025-12-01,cricket-world-cup,Final Match Fever,10.4,5.31,4.29
+2025-12-01,cricket-world-cup,Broadcast Rights,53.27,2497.14,100
+2026-01-01,cricket-world-cup,Tournament Build Up,10.21,12.01,7.46
+2026-01-01,cricket-world-cup,Pakistan Squad Debate,13.35,-4.37,0.26
+2026-01-01,cricket-world-cup,Final Match Fever,10.53,1.07,2.4
+2026-01-01,cricket-world-cup,Broadcast Rights,27.52,0.99,6.06
+2026-02-01,cricket-world-cup,Tournament Build Up,11.14,5.74,4.75
+2026-02-01,cricket-world-cup,Pakistan Squad Debate,13.82,-2.1,1.23
+2026-02-01,cricket-world-cup,Final Match Fever,11.5,7.55,5.46
+2026-02-01,cricket-world-cup,Broadcast Rights,25.3,-1.74,4.73
+2026-03-01,cricket-world-cup,Tournament Build Up,13.33,5.42,4.73
+2026-03-01,cricket-world-cup,Pakistan Squad Debate,12.52,4.28,4.19
+2026-03-01,cricket-world-cup,Final Match Fever,10.6,7.3,5.5
+2026-03-01,cricket-world-cup,Broadcast Rights,26.32,-0.78,5.12
+2026-04-01,cricket-world-cup,Tournament Build Up,11.61,-2.91,0.91
+2026-04-01,cricket-world-cup,Pakistan Squad Debate,12.59,-0.19,2.18
+2026-04-01,cricket-world-cup,Final Match Fever,11.59,3.93,4.07
+2026-04-01,cricket-world-cup,Broadcast Rights,24.1,-4.69,3.1
+2026-05-01,cricket-world-cup,Tournament Build Up,12.67,8.99,6.47
+2026-05-01,cricket-world-cup,Pakistan Squad Debate,14.21,6.17,5.18
+2026-05-01,cricket-world-cup,Final Match Fever,13.8,6.17,5.22
+2026-05-01,cricket-world-cup,Broadcast Rights,22.34,-5.16,2.62
+2026-06-01,cricket-world-cup,Tournament Build Up,13.59,-5.29,-0.09
+2026-06-01,cricket-world-cup,Pakistan Squad Debate,11.19,-1.94,1.48
+2026-06-01,cricket-world-cup,Final Match Fever,12.82,-4.39,0.36
+2026-06-01,cricket-world-cup,Broadcast Rights,20.13,-10.51,-0.31
+2023-01-01,global-elections,Election Security,7.52,38.96,18.34
+2023-01-01,global-elections,Youth Voter Turnout,9.55,39.09,18.41
+2023-01-01,global-elections,Misinformation Monitoring,9.21,38.92,18.32
+2023-01-01,global-elections,Coalition Negotiations,8.82,39.31,18.51
+2023-02-01,global-elections,Election Security,6.75,2.34,1.88
+2023-02-01,global-elections,Youth Voter Turnout,6.12,1.31,1.42
+2023-02-01,global-elections,Misinformation Monitoring,7.56,7.33,4.17
+2023-02-01,global-elections,Coalition Negotiations,6.91,0.99,1.28
+2023-03-01,global-elections,Election Security,5.69,9.13,5.01
+2023-03-01,global-elections,Youth Voter Turnout,5.89,3.23,2.31
+2023-03-01,global-elections,Misinformation Monitoring,7.75,0.0,0.87
+2023-03-01,global-elections,Coalition Negotiations,7.45,12.25,6.45
+2023-04-01,global-elections,Election Security,7.51,0.42,1.1
+2023-04-01,global-elections,Youth Voter Turnout,6.69,6.88,4.01
+2023-04-01,global-elections,Misinformation Monitoring,7.13,9.64,5.29
+2023-04-01,global-elections,Coalition Negotiations,7.28,0.0,0.93
+2023-05-01,global-elections,Election Security,7.1,4.17,2.82
+2023-05-01,global-elections,Youth Voter Turnout,6.1,4.09,2.8
+2023-05-01,global-elections,Misinformation Monitoring,6.49,-0.37,0.78
+2023-05-01,global-elections,Coalition Negotiations,5.06,-1.31,0.33
+2023-06-01,global-elections,Election Security,6.86,0.0,0.95
+2023-06-01,global-elections,Youth Voter Turnout,8.3,-4.49,-1.11
+2023-06-01,global-elections,Misinformation Monitoring,8.22,-4.41,-1.08
+2023-06-01,global-elections,Coalition Negotiations,7.67,6.19,3.76
+2023-07-01,global-elections,Election Security,5.06,1.2,1.5
+2023-07-01,global-elections,Youth Voter Turnout,5.47,2.35,1.99
+2023-07-01,global-elections,Misinformation Monitoring,7.67,-0.38,0.73
+2023-07-01,global-elections,Coalition Negotiations,8.34,-3.75,-0.75
+2023-08-01,global-elections,Election Security,4.81,-6.72,-2.13
+2023-08-01,global-elections,Youth Voter Turnout,6.52,-4.6,-1.18
+2023-08-01,global-elections,Misinformation Monitoring,5.85,3.09,2.32
+2023-08-01,global-elections,Coalition Negotiations,7.26,-2.6,-0.25
+2023-09-01,global-elections,Election Security,6.44,-85.17,-38.11
+2023-09-01,global-elections,Youth Voter Turnout,7.08,-4.22,-1.05
+2023-09-01,global-elections,Misinformation Monitoring,5.66,-5.99,-1.82
+2023-09-01,global-elections,Coalition Negotiations,6.03,-2.22,-0.1
+2023-10-01,global-elections,Election Security,45.16,1914.29,100
+2023-10-01,global-elections,Youth Voter Turnout,8.08,-6.29,-2.03
+2023-10-01,global-elections,Misinformation Monitoring,4.92,-7.57,-2.6
+2023-10-01,global-elections,Coalition Negotiations,7.43,-7.73,-2.65
+2023-11-01,global-elections,Election Security,30.49,88.23,44.74
+2023-11-01,global-elections,Youth Voter Turnout,6.81,-6.04,-1.97
+2023-11-01,global-elections,Misinformation Monitoring,7.64,-7.33,-2.55
+2023-11-01,global-elections,Coalition Negotiations,5.42,-2.96,-0.53
+2023-12-01,global-elections,Election Security,38.52,44.76,27.43
+2023-12-01,global-elections,Youth Voter Turnout,6.66,-5.0,-1.54
+2023-12-01,global-elections,Misinformation Monitoring,5.13,-3.26,-0.74
+2023-12-01,global-elections,Coalition Negotiations,8.04,-12.18,-4.78
+2024-01-01,global-elections,Election Security,45.77,26.03,20.9
+2024-01-01,global-elections,Youth Voter Turnout,4.91,-73.68,-32.94
+2024-01-01,global-elections,Misinformation Monitoring,6.84,-1.92,-0.15
+2024-01-01,global-elections,Coalition Negotiations,7.03,-1.73,-0.09
+2024-02-01,global-elections,Election Security,51.05,7.06,13.01
+2024-02-01,global-elections,Youth Voter Turnout,44.53,1205.71,100
+2024-02-01,global-elections,Misinformation Monitoring,7.82,-9.31,-3.54
+2024-02-01,global-elections,Coalition Negotiations,6.17,-1.76,-0.11
+2024-03-01,global-elections,Election Security,60.01,20.41,21.02
+2024-03-01,global-elections,Youth Voter Turnout,28.5,94.75,47.41
+2024-03-01,global-elections,Misinformation Monitoring,6.35,4.86,2.86
+2024-03-01,global-elections,Coalition Negotiations,7.25,0.0,0.68
+2024-04-01,global-elections,Election Security,65.02,14.67,20.18
+2024-04-01,global-elections,Youth Voter Turnout,38.26,44.16,26.76
+2024-04-01,global-elections,Misinformation Monitoring,5.62,0.52,0.92
+2024-04-01,global-elections,Coalition Negotiations,6.88,-3.59,-0.96
+2024-05-01,global-elections,Election Security,77.06,18.27,24.28
+2024-05-01,global-elections,Youth Voter Turnout,50.24,42.48,28.93
+2024-05-01,global-elections,Misinformation Monitoring,7.2,-82.05,-36.7
+2024-05-01,global-elections,Coalition Negotiations,7.53,11.18,5.76
+2024-06-01,global-elections,Election Security,81.59,11.48,23.07
+2024-06-01,global-elections,Youth Voter Turnout,58.47,21.72,21.71
+2024-06-01,global-elections,Misinformation Monitoring,45.74,2257.14,100
+2024-06-01,global-elections,Coalition Negotiations,7.97,2.23,1.75
+2024-07-01,global-elections,Election Security,89.93,10.28,24.36
+2024-07-01,global-elections,Youth Voter Turnout,69.94,25.8,26.63
+2024-07-01,global-elections,Misinformation Monitoring,34.66,107.64,54.42
+2024-07-01,global-elections,Coalition Negotiations,5.99,6.01,3.49
+2024-08-01,global-elections,Election Security,92.1,4.21,22.46
+2024-08-01,global-elections,Youth Voter Turnout,78.48,15.08,24.07
+2024-08-01,global-elections,Misinformation Monitoring,47.06,67.31,40.3
+2024-08-01,global-elections,Coalition Negotiations,8.72,11.34,5.98
+2024-09-01,global-elections,Election Security,96.16,12.78,27.75
+2024-09-01,global-elections,Youth Voter Turnout,89.19,18.91,29.06
+2024-09-01,global-elections,Misinformation Monitoring,59.36,31.44,27.3
+2024-09-01,global-elections,Coalition Negotiations,7.24,-2.31,-0.18
+2024-10-01,global-elections,Election Security,95.8,-5.43,19.49
+2024-10-01,global-elections,Youth Voter Turnout,92.94,4.41,23.44
+2024-10-01,global-elections,Misinformation Monitoring,69.14,21.45,25.63
+2024-10-01,global-elections,Coalition Negotiations,5.5,8.06,4.56
+2024-11-01,global-elections,Election Security,96.02,2.47,23.11
+2024-11-01,global-elections,Youth Voter Turnout,95.45,11.68,27.26
+2024-11-01,global-elections,Misinformation Monitoring,82.91,21.18,28.89
+2024-11-01,global-elections,Coalition Negotiations,8.72,4.39,2.95
+2024-12-01,global-elections,Election Security,94.05,-0.84,21.62
+2024-12-01,global-elections,Youth Voter Turnout,94.82,0.67,22.3
+2024-12-01,global-elections,Misinformation Monitoring,87.93,4.92,22.53
+2024-12-01,global-elections,Coalition Negotiations,8.0,-5.88,-1.73
+2025-01-01,global-elections,Election Security,88.49,-9.82,15.68
+2025-01-01,global-elections,Youth Voter Turnout,93.96,-4.94,19.78
+2025-01-01,global-elections,Misinformation Monitoring,93.12,6.72,24.7
+2025-01-01,global-elections,Coalition Negotiations,5.59,-84.38,-37.75
+2025-02-01,global-elections,Election Security,79.6,-11.36,12.71
+2025-02-01,global-elections,Youth Voter Turnout,95.16,-3.25,20.54
+2025-02-01,global-elections,Misinformation Monitoring,94.24,6.94,25.12
+2025-02-01,global-elections,Coalition Negotiations,49.85,2942.86,100
+2025-03-01,global-elections,Election Security,69.64,-14.22,8.89
+2025-03-01,global-elections,Youth Voter Turnout,86.76,-11.15,14.7
+2025-03-01,global-elections,Misinformation Monitoring,94.62,-10.06,16.32
+2025-03-01,global-elections,Coalition Negotiations,43.91,94.27,50.85
+2025-04-01,global-elections,Election Security,58.47,-14.74,6.4
+2025-04-01,global-elections,Youth Voter Turnout,78.87,-8.49,14.22
+2025-04-01,global-elections,Misinformation Monitoring,91.77,0.92,21.46
+2025-04-01,global-elections,Coalition Negotiations,54.1,37.07,28.24
+2025-05-01,global-elections,Election Security,45.88,-28.55,-3.53
+2025-05-01,global-elections,Youth Voter Turnout,69.06,-20.4,5.18
+2025-05-01,global-elections,Misinformation Monitoring,83.73,-13.26,12.29
+2025-05-01,global-elections,Coalition Negotiations,65.6,25.88,26.19
+2025-06-01,global-elections,Election Security,36.19,-25.46,-4.52
+2025-06-01,global-elections,Youth Voter Turnout,57.31,-13.42,6.39
+2025-06-01,global-elections,Misinformation Monitoring,78.88,-9.41,12.3
+2025-06-01,global-elections,Coalition Negotiations,71.98,8.4,19.55
+2025-07-01,global-elections,Election Security,26.13,-35.85,-11.68
+2025-07-01,global-elections,Youth Voter Turnout,49.07,-18.82,1.62
+2025-07-01,global-elections,Misinformation Monitoring,70.86,-12.19,9.03
+2025-07-01,global-elections,Coalition Negotiations,76.87,-1.78,14.68
+2025-08-01,global-elections,Election Security,13.54,-49.83,-20.19
+2025-08-01,global-elections,Youth Voter Turnout,37.18,-30.09,-6.49
+2025-08-01,global-elections,Misinformation Monitoring,58.8,-14.36,5.97
+2025-08-01,global-elections,Coalition Negotiations,77.71,4.63,18.29
+2025-09-01,global-elections,Election Security,9.02,-94.06,-42.11
+2025-09-01,global-elections,Youth Voter Turnout,25.63,-31.33,-9.25
+2025-09-01,global-elections,Misinformation Monitoring,48.3,-23.22,-0.9
+2025-09-01,global-elections,Coalition Negotiations,81.51,1.76,17.28
+2025-10-01,global-elections,Election Security,54.04,4288.57,100
+2025-10-01,global-elections,Youth Voter Turnout,16.2,-48.28,-19.22
+2025-10-01,global-elections,Misinformation Monitoring,41.64,-17.04,0.25
+2025-10-01,global-elections,Coalition Negotiations,78.51,0.12,16.56
+2025-11-01,global-elections,Election Security,27.58,-3.71,3.94
+2025-11-01,global-elections,Youth Voter Turnout,8.41,-92.51,-41.41
+2025-11-01,global-elections,Misinformation Monitoring,27.39,-29.89,-7.9
+2025-11-01,global-elections,Coalition Negotiations,75.98,-5.33,13.23
+2025-12-01,global-elections,Election Security,25.32,-8.52,1.3
+2025-12-01,global-elections,Youth Voter Turnout,53.95,2985.71,100
+2025-12-01,global-elections,Misinformation Monitoring,16.72,-44.53,-16.96
+2025-12-01,global-elections,Coalition Negotiations,73.09,-1.28,14.85
+2026-01-01,global-elections,Election Security,27.33,5.99,8.13
+2026-01-01,global-elections,Youth Voter Turnout,28.52,6.11,8.9
+2026-01-01,global-elections,Misinformation Monitoring,6.59,-96.03,-42.99
+2026-01-01,global-elections,Coalition Negotiations,63.45,-9.22,9.86
+2026-02-01,global-elections,Election Security,27.05,3.07,6.99
+2026-02-01,global-elections,Youth Voter Turnout,29.53,-7.77,2.18
+2026-02-01,global-elections,Misinformation Monitoring,55.62,5125.71,100
+2026-02-01,global-elections,Coalition Negotiations,52.94,-15.91,4.62
+2026-03-01,global-elections,Election Security,26.85,-6.7,2.22
+2026-03-01,global-elections,Youth Voter Turnout,27.27,6.24,8.83
+2026-03-01,global-elections,Misinformation Monitoring,31.36,0.38,6.58
+2026-03-01,global-elections,Coalition Negotiations,39.84,-25.35,-2.62
+2026-04-01,global-elections,Election Security,25.06,-0.73,4.86
+2026-04-01,global-elections,Youth Voter Turnout,25.31,-3.21,4.39
+2026-04-01,global-elections,Misinformation Monitoring,28.49,3.27,8.09
+2026-04-01,global-elections,Coalition Negotiations,21.65,-50.32,-18.28
+2026-05-01,global-elections,Election Security,24.21,-3.36,3.51
+2026-05-01,global-elections,Youth Voter Turnout,25.7,-6.53,2.51
+2026-05-01,global-elections,Misinformation Monitoring,26.51,-7.12,2.94
+2026-05-01,global-elections,Coalition Negotiations,8.0,-96.74,-43.31
+2026-06-01,global-elections,Election Security,23.07,-6.88,1.58
+2026-06-01,global-elections,Youth Voter Turnout,24.58,-3.15,3.86
+2026-06-01,global-elections,Misinformation Monitoring,27.93,-5.62,3.27
+2026-06-01,global-elections,Coalition Negotiations,58.07,4988.57,100
+2023-01-01,disaster-response,Flood Relief,6.3,39.34,18.52
+2023-01-01,disaster-response,Emergency Logistics,8.13,40.2,18.9
+2023-01-01,disaster-response,Climate Risk,7.81,39.63,18.65
+2023-01-01,disaster-response,Resilience Funding,8.21,39.13,18.39
+2023-02-01,disaster-response,Flood Relief,8.06,2.35,1.89
+2023-02-01,disaster-response,Emergency Logistics,5.08,1.4,1.45
+2023-02-01,disaster-response,Climate Risk,5.5,0.87,1.21
+2023-02-01,disaster-response,Resilience Funding,5.81,10.94,5.79
+2023-03-01,disaster-response,Flood Relief,4.93,-79.89,-35.73
+2023-03-01,disaster-response,Emergency Logistics,8.1,13.79,7.14
+2023-03-01,disaster-response,Climate Risk,6.21,10.39,5.58
+2023-03-01,disaster-response,Resilience Funding,5.47,3.52,2.48
+2023-04-01,disaster-response,Flood Relief,50.17,2560.0,100
+2023-04-01,disaster-response,Emergency Logistics,5.33,-3.64,-0.74
+2023-04-01,disaster-response,Climate Risk,7.99,1.57,1.63
+2023-04-01,disaster-response,Resilience Funding,5.88,3.4,2.46
+2023-05-01,disaster-response,Flood Relief,41.16,95.17,51.52
+2023-05-01,disaster-response,Emergency Logistics,6.66,5.03,3.21
+2023-05-01,disaster-response,Climate Risk,4.9,1.54,1.63
+2023-05-01,disaster-response,Resilience Funding,6.54,0.66,1.23
+2023-06-01,disaster-response,Flood Relief,59.66,47.77,34.34
+2023-06-01,disaster-response,Emergency Logistics,6.93,-79.04,-35.35
+2023-06-01,disaster-response,Climate Risk,5.13,1.14,1.46
+2023-06-01,disaster-response,Resilience Funding,6.29,2.61,2.13
+2023-07-01,disaster-response,Flood Relief,74.29,28.6,29.39
+2023-07-01,disaster-response,Emergency Logistics,47.48,1671.43,100
+2023-07-01,disaster-response,Climate Risk,4.74,-0.38,0.77
+2023-07-01,disaster-response,Resilience Funding,5.15,0.0,0.96
+2023-08-01,disaster-response,Flood Relief,81.06,13.32,24.71
+2023-08-01,disaster-response,Emergency Logistics,38.8,107.42,55.59
+2023-08-01,disaster-response,Climate Risk,7.24,-6.42,-2.01
+2023-08-01,disaster-response,Resilience Funding,7.3,-4.46,-1.09
+2023-09-01,disaster-response,Flood Relief,84.51,1.74,19.82
+2023-09-01,disaster-response,Emergency Logistics,44.88,34.29,25.17
+2023-09-01,disaster-response,Climate Risk,5.87,-5.24,-1.52
+2023-09-01,disaster-response,Resilience Funding,6.12,-8.67,-3.06
+2023-10-01,disaster-response,Flood Relief,87.75,3.87,21.52
+2023-10-01,disaster-response,Emergency Logistics,54.2,23.62,22.67
+2023-10-01,disaster-response,Climate Risk,4.88,-3.83,-0.92
+2023-10-01,disaster-response,Resilience Funding,7.94,-4.38,-1.17
+2023-11-01,disaster-response,Flood Relief,90.35,1.84,20.97
+2023-11-01,disaster-response,Emergency Logistics,60.91,10.12,17.82
+2023-11-01,disaster-response,Climate Risk,5.48,-0.88,0.4
+2023-11-01,disaster-response,Resilience Funding,7.55,-6.11,-2.0
+2023-12-01,disaster-response,Flood Relief,82.44,-14.03,11.0
+2023-12-01,disaster-response,Emergency Logistics,70.99,13.4,21.07
+2023-12-01,disaster-response,Climate Risk,4.36,-4.02,-1.05
+2023-12-01,disaster-response,Resilience Funding,5.09,-5.69,-1.85
+2024-01-01,disaster-response,Flood Relief,77.45,-6.35,13.36
+2024-01-01,disaster-response,Emergency Logistics,73.94,3.23,16.98
+2024-01-01,disaster-response,Climate Risk,8.11,-7.91,-2.86
+2024-01-01,disaster-response,Resilience Funding,5.81,0.0,0.71
+2024-02-01,disaster-response,Flood Relief,66.79,-13.98,7.65
+2024-02-01,disaster-response,Emergency Logistics,76.62,3.52,17.65
+2024-02-01,disaster-response,Climate Risk,4.88,-82.32,-36.82
+2024-02-01,disaster-response,Resilience Funding,5.97,1.72,1.5
+2024-03-01,disaster-response,Flood Relief,59.31,-15.29,4.93
+2024-03-01,disaster-response,Emergency Logistics,81.49,3.72,18.34
+2024-03-01,disaster-response,Climate Risk,43.17,1485.71,100
+2024-03-01,disaster-response,Resilience Funding,4.63,-5.93,-1.99
+2024-04-01,disaster-response,Flood Relief,49.39,-16.56,2.4
+2024-04-01,disaster-response,Emergency Logistics,80.77,-1.22,15.92
+2024-04-01,disaster-response,Climate Risk,23.49,96.04,47.08
+2024-04-01,disaster-response,Resilience Funding,6.53,-1.8,-0.14
+2024-05-01,disaster-response,Flood Relief,36.12,-28.04,-5.53
+2024-05-01,disaster-response,Emergency Logistics,81.4,5.48,19.84
+2024-05-01,disaster-response,Climate Risk,33.49,62.68,34.49
+2024-05-01,disaster-response,Resilience Funding,5.67,7.34,4.02
+2024-06-01,disaster-response,Flood Relief,20.16,-48.82,-18.34
+2024-06-01,disaster-response,Emergency Logistics,80.13,1.36,18.22
+2024-06-01,disaster-response,Climate Risk,41.05,37.4,25.46
+2024-06-01,disaster-response,Resilience Funding,7.22,5.98,3.45
+2024-07-01,disaster-response,Flood Relief,8.11,-95.39,-42.71
+2024-07-01,disaster-response,Emergency Logistics,80.24,-2.02,16.34
+2024-07-01,disaster-response,Climate Risk,50.37,26.03,22.59
+2024-07-01,disaster-response,Resilience Funding,5.23,2.42,1.87
+2024-08-01,disaster-response,Flood Relief,55.64,3720.0,100
+2024-08-01,disaster-response,Emergency Logistics,76.57,-1.14,16.54
+2024-08-01,disaster-response,Climate Risk,61.01,22.84,23.64
+2024-08-01,disaster-response,Resilience Funding,5.65,8.66,4.74
+2024-09-01,disaster-response,Flood Relief,29.52,0.07,6.43
+2024-09-01,disaster-response,Emergency Logistics,68.76,-11.81,9.72
+2024-09-01,disaster-response,Climate Risk,71.21,18.43,24.12
+2024-09-01,disaster-response,Resilience Funding,8.07,9.42,5.16
+2024-10-01,disaster-response,Flood Relief,26.67,-3.66,4.52
+2024-10-01,disaster-response,Emergency Logistics,59.12,-12.04,7.81
+2024-10-01,disaster-response,Climate Risk,77.68,15.72,25.38
+2024-10-01,disaster-response,Resilience Funding,8.43,3.31,2.44
+2024-11-01,disaster-response,Flood Relief,28.25,-8.22,1.96
+2024-11-01,disaster-response,Emergency Logistics,47.24,-20.43,1.33
+2024-11-01,disaster-response,Climate Risk,89.13,12.75,26.38
+2024-11-01,disaster-response,Resilience Funding,6.59,1.28,1.54
+2024-12-01,disaster-response,Flood Relief,26.09,-3.97,3.65
+2024-12-01,disaster-response,Emergency Logistics,32.73,-30.01,-6.14
+2024-12-01,disaster-response,Climate Risk,93.74,4.71,23.74
+2024-12-01,disaster-response,Resilience Funding,7.04,-3.8,-0.78
+2025-01-01,disaster-response,Flood Relief,21.93,-11.71,-0.47
+2025-01-01,disaster-response,Emergency Logistics,20.99,-50.15,-18.9
+2025-01-01,disaster-response,Climate Risk,92.93,5.47,24.46
+2025-01-01,disaster-response,Resilience Funding,5.48,-76.97,-34.42
+2025-02-01,disaster-response,Flood Relief,19.56,-12.66,-1.51
+2025-02-01,disaster-response,Emergency Logistics,8.65,-94.62,-42.36
+2025-02-01,disaster-response,Climate Risk,95.55,-0.51,21.77
+2025-02-01,disaster-response,Resilience Funding,47.19,1488.57,100
+2025-03-01,disaster-response,Flood Relief,18.91,-11.42,-1.43
+2025-03-01,disaster-response,Emergency Logistics,57.95,3554.29,100
+2025-03-01,disaster-response,Climate Risk,97.31,-2.07,21.07
+2025-03-01,disaster-response,Resilience Funding,34.15,90.29,47.1
+2025-04-01,disaster-response,Flood Relief,18.19,-15.34,-3.76
+2025-04-01,disaster-response,Emergency Logistics,28.76,-10.71,1.62
+2025-04-01,disaster-response,Climate Risk,92.09,-7.4,17.24
+2025-04-01,disaster-response,Resilience Funding,46.13,43.1,28.65
+2025-05-01,disaster-response,Flood Relief,16.06,-5.33,0.58
+2025-05-01,disaster-response,Emergency Logistics,27.83,-16.55,-2.07
+2025-05-01,disaster-response,Climate Risk,86.37,-8.9,14.73
+2025-05-01,disaster-response,Resilience Funding,52.9,22.32,21.36
+2025-06-01,disaster-response,Flood Relief,14.19,-19.13,-6.2
+2025-06-01,disaster-response,Emergency Logistics,24.73,-7.76,1.47
+2025-06-01,disaster-response,Climate Risk,88.18,1.48,19.68
+2025-06-01,disaster-response,Resilience Funding,63.2,14.85,19.68
+2025-07-01,disaster-response,Flood Relief,14.7,-9.15,-1.93
+2025-07-01,disaster-response,Emergency Logistics,21.45,-14.22,-2.15
+2025-07-01,disaster-response,Climate Risk,81.42,-8.53,13.55
+2025-07-01,disaster-response,Resilience Funding,66.35,8.65,18.01
+2025-08-01,disaster-response,Flood Relief,12.28,-11.16,-3.08
+2025-08-01,disaster-response,Emergency Logistics,20.77,-12.33,-1.82
+2025-08-01,disaster-response,Climate Risk,75.8,-9.67,11.36
+2025-08-01,disaster-response,Resilience Funding,75.62,11.42,20.88
+2025-09-01,disaster-response,Flood Relief,10.73,-4.43,-0.14
+2025-09-01,disaster-response,Emergency Logistics,20.6,2.12,4.76
+2025-09-01,disaster-response,Climate Risk,73.31,-4.36,13.07
+2025-09-01,disaster-response,Resilience Funding,76.07,-2.91,13.97
+2025-10-01,disaster-response,Flood Relief,9.82,-9.54,-2.61
+2025-10-01,disaster-response,Emergency Logistics,20.06,-5.33,1.21
+2025-10-01,disaster-response,Climate Risk,64.41,-15.04,6.0
+2025-10-01,disaster-response,Resilience Funding,80.4,10.8,21.79
+2025-11-01,disaster-response,Flood Relief,11.72,7.12,5.0
+2025-11-01,disaster-response,Emergency Logistics,16.11,-11.42,-1.95
+2025-11-01,disaster-response,Climate Risk,62.44,3.25,14.64
+2025-11-01,disaster-response,Resilience Funding,82.19,2.42,18.43
+2025-12-01,disaster-response,Flood Relief,10.3,0.53,2.05
+2025-12-01,disaster-response,Emergency Logistics,16.28,0.71,3.54
+2025-12-01,disaster-response,Climate Risk,57.05,-12.22,6.07
+2025-12-01,disaster-response,Resilience Funding,87.33,10.15,23.67
+2026-01-01,disaster-response,Flood Relief,14.03,14.29,8.5
+2026-01-01,disaster-response,Emergency Logistics,15.88,-1.58,2.45
+2026-01-01,disaster-response,Climate Risk,48.0,-8.8,6.59
+2026-01-01,disaster-response,Resilience Funding,85.7,-3.36,16.94
+2026-02-01,disaster-response,Flood Relief,11.35,-0.46,1.85
+2026-02-01,disaster-response,Emergency Logistics,17.13,2.32,4.28
+2026-02-01,disaster-response,Climate Risk,42.63,-11.1,4.39
+2026-02-01,disaster-response,Resilience Funding,83.95,3.61,20.75
+2026-03-01,disaster-response,Flood Relief,10.97,5.12,4.47
+2026-03-01,disaster-response,Emergency Logistics,16.56,-5.23,0.72
+2026-03-01,disaster-response,Climate Risk,36.68,-19.33,-1.13
+2026-03-01,disaster-response,Resilience Funding,79.48,-4.25,16.4
+2026-04-01,disaster-response,Flood Relief,13.95,7.96,5.92
+2026-04-01,disaster-response,Emergency Logistics,16.16,-5.51,0.42
+2026-04-01,disaster-response,Climate Risk,23.48,-34.97,-10.82
+2026-04-01,disaster-response,Resilience Funding,72.57,-9.18,12.5
+2026-05-01,disaster-response,Flood Relief,10.51,-2.87,0.97
+2026-05-01,disaster-response,Emergency Logistics,16.17,-1.95,1.96
+2026-05-01,disaster-response,Climate Risk,15.26,-48.88,-19.48
+2026-05-01,disaster-response,Resilience Funding,60.28,-18.23,5.39
+2026-06-01,disaster-response,Flood Relief,12.99,5.91,5.06
+2026-06-01,disaster-response,Emergency Logistics,14.06,-7.94,-0.96
+2026-06-01,disaster-response,Climate Risk,5.54,-95.06,-42.56
+2026-06-01,disaster-response,Resilience Funding,45.82,-23.64,-0.26

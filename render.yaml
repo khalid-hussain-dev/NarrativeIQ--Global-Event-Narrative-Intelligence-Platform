@@ -1,0 +1,38 @@
+# render.yaml — NarrativeIQ deployment configuration
+# Deploy at: https://render.com/
+# One-click: connect your GitHub repo and Render will auto-detect this file.
+
+services:
+  # ── FastAPI Backend ─────────────────────────────────────────────────────
+  - type: web
+    name: narrativeiq-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    plan: free
+    envVars:
+      - key: NARRATIVEIQ_DATABASE_URL
+        sync: false          # Set manually in Render dashboard from your Supabase/PG URL
+      - key: NARRATIVEIQ_ADMIN_KEY
+        generateValue: true  # Render auto-generates a secure random value
+      - key: DEEPSEEK_API_KEY
+        sync: false          # Optional — paste your DeepSeek key in dashboard
+      - key: PYTHON_VERSION
+        value: "3.11"
+
+  # ── Next.js Frontend ────────────────────────────────────────────────────
+  - type: web
+    name: narrativeiq-frontend
+    runtime: node
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    startCommand: node node_modules/next/dist/bin/next start -H 0.0.0.0 -p $PORT
+    plan: free
+    envVars:
+      - key: NEXT_PUBLIC_API_BASE_URL
+        # Replace with your actual backend URL after deploying the backend service
+        # e.g. https://narrativeiq-backend.onrender.com
+        value: https://narrativeiq-backend.onrender.com
+      - key: NODE_VERSION
+        value: "20"

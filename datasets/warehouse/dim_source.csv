@@ -1,0 +1,11 @@
+source_key,source_id,source_name,source_type,platform
+1,news_global,Global Newswire,News,Web
+2,policy_desk,Policy Desk,News,Web
+3,forum_pulse,ForumPulse,Discussion Forum,Community
+4,social_x,X Public Stream,Social,X
+5,reddit_public,Reddit Public Threads,Discussion Forum,Reddit
+6,sportswire,SportsWire,News,Web
+7,import_20260613125029_ab0123ad,Import: Test Pack,News,Import
+8,import_20260613125928_28ead1ec,Import: Test Pack,News,Import
+9,import_20260613135126_ad21a940,Import: Test Pack,News,Import
+10,import_20260613142401_402b8f3b,Import: Test Pack,News,Import

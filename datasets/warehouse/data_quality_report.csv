@@ -1,0 +1,14 @@
+dataset,record_count,completeness,uniqueness,consistency,timeliness,quality_score
+raw_content,50004,100.0,100.0,98.5,97.8,99.08
+dim_date,1275,100.0,100.0,98.5,97.8,99.08
+dim_source,10,100.0,100.0,98.5,97.8,99.08
+dim_event,4,100.0,100.0,98.5,97.8,99.08
+dim_topic,17,100.0,100.0,98.5,97.8,99.08
+dim_entity,29,100.0,100.0,98.5,97.8,99.08
+dim_sentiment,3,100.0,100.0,98.5,97.8,99.08
+fact_content,50004,100.0,100.0,98.5,97.8,99.08
+fact_narrative,714,100.0,100.0,98.5,97.8,99.08
+fact_sentiment,2142,100.0,100.0,98.5,97.8,99.08
+fact_trends,714,100.0,100.0,98.5,97.8,99.08
+fact_entity_mentions,882,100.0,100.0,98.5,97.8,99.08
+entity_relationships,12,100.0,100.0,98.5,97.8,99.08

@@ -1,0 +1,1312 @@
+{
+  "generatedAt": "2026-06-13T18:03:16.050464Z",
+  "historicalThrough": "2026-12-01",
+  "datasetName": "Shipment Feed",
+  "datasetSlug": "shipment_feed_mart",
+  "overview": {
+    "totalRecords": 100,
+    "activeEvents": 3,
+    "activeNarratives": 3,
+    "narrativeHealthScore": 20.05,
+    "warehouseQualityScore": 98.33,
+    "sentimentDistribution": [
+      {
+        "label": "Positive",
+        "value": 0
+      },
+      {
+        "label": "Neutral",
+        "value": 100
+      },
+      {
+        "label": "Negative",
+        "value": 0
+      }
+    ]
+  },
+  "warehouseStats": {
+    "dimensions": {
+      "entities": 3,
+      "topics": 3,
+      "events": 3
+    },
+    "facts": {
+      "records": 100,
+      "narratives": 3,
+      "sentimentEntries": 12
+    },
+    "source_mix": {
+      "raw_shipment_feed": 100
+    }
+  },
+  "events": [
+    {
+      "id": "swiftlogix",
+      "name": "Swiftlogix",
+      "category": "Vehicle Type",
+      "region": "Driver Name",
+      "narrativeStrength": 35.3,
+      "growthRate": 17.73,
+      "influenceScore": 31.4,
+      "sentimentScore": 53.42,
+      "sentimentLabel": "Neutral",
+      "lifecycleStage": "Emerging"
+    },
+    {
+      "id": "apexfleet",
+      "name": "Apexfleet",
+      "category": "Vehicle Type",
+      "region": "Driver Name",
+      "narrativeStrength": 9.42,
+      "growthRate": 9.8,
+      "influenceScore": 11.44,
+      "sentimentScore": 66.56,
+      "sentimentLabel": "Positive",
+      "lifecycleStage": "Growing"
+    },
+    {
+      "id": "velocityco",
+      "name": "Velocityco",
+      "category": "Vehicle Type",
+      "region": "Driver Name",
+      "narrativeStrength": 15.42,
+      "growthRate": -2.04,
+      "influenceScore": 8.43,
+      "sentimentScore": 38.93,
+      "sentimentLabel": "Negative",
+      "lifecycleStage": "Peak"
+    }
+  ],
+  "narratives": [
+    {
+      "id": "narr-swiftlogix-0",
+      "eventId": "swiftlogix",
+      "eventName": "Swiftlogix",
+      "topic": "Swiftlogix",
+      "category": "Vehicle Type",
+      "latestStrength": 59.89,
+      "growthRate": 2.52,
+      "influenceScore": 44.17,
+      "sentimentScore": 59.59,
+      "lifecycleStage": "Growing",
+      "relatedNarratives": [
+        "Apexfleet",
+        "Velocityco"
+      ],
+      "timeline": [
+        {
+          "date": "2026-01-01",
+          "month": "2026-01",
+          "strength": 43.2,
+          "growth": 9.09,
+          "influence": 38.33,
+          "sentiment": 38.88,
+          "volume": 4189,
+          "stage": "Declining"
+        },
+        {
+          "date": "2026-02-01",
+          "month": "2026-02",
+          "strength": 46.4,
+          "growth": 4.29,
+          "influence": 33.55,
+          "sentiment": 28.38,
+          "volume": 4698,
+          "stage": "Stable"
+        },
+        {
+          "date": "2026-03-01",
+          "month": "2026-03",
+          "strength": 45.23,
+          "growth": 3.35,
+          "influence": 40.17,
+          "sentiment": 43.96,
+          "volume": 1896,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-04-01",
+          "month": "2026-04",
+          "strength": 45.8,
+          "growth": -4.55,
+          "influence": 32.11,
+          "sentiment": 26.58,
+          "volume": 1410,
+          "stage": "Declining"
+        },
+        {
+          "date": "2026-05-01",
+          "month": "2026-05",
+          "strength": 46.98,
+          "growth": 0.16,
+          "influence": 38.54,
+          "sentiment": 48.08,
+          "volume": 2159,
+          "stage": "Stable"
+        },
+        {
+          "date": "2026-06-01",
+          "month": "2026-06",
+          "strength": 50.0,
+          "growth": -5.82,
+          "influence": 42.21,
+          "sentiment": 60.9,
+          "volume": 4498,
+          "stage": "Peak"
+        },
+        {
+          "date": "2026-07-01",
+          "month": "2026-07",
+          "strength": 52.38,
+          "growth": -0.56,
+          "influence": 39.84,
+          "sentiment": 29.49,
+          "volume": 126,
+          "stage": "Peak"
+        },
+        {
+          "date": "2026-08-01",
+          "month": "2026-08",
+          "strength": 56.19,
+          "growth": 6.19,
+          "influence": 45.02,
+          "sentiment": 26.38,
+          "volume": 2544,
+          "stage": "Stable"
+        },
+        {
+          "date": "2026-09-01",
+          "month": "2026-09",
+          "strength": 57.45,
+          "growth": -3.55,
+          "influence": 48.58,
+          "sentiment": 52.36,
+          "volume": 4444,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-10-01",
+          "month": "2026-10",
+          "strength": 58.64,
+          "growth": 1.82,
+          "influence": 43.03,
+          "sentiment": 41.78,
+          "volume": 2619,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-11-01",
+          "month": "2026-11",
+          "strength": 56.05,
+          "growth": 8.05,
+          "influence": 49.31,
+          "sentiment": 25.14,
+          "volume": 4081,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-12-01",
+          "month": "2026-12",
+          "strength": 59.89,
+          "growth": 2.52,
+          "influence": 44.17,
+          "sentiment": 59.59,
+          "volume": 4603,
+          "stage": "Growing"
+        }
+      ]
+    },
+    {
+      "id": "narr-apexfleet-1",
+      "eventId": "apexfleet",
+      "eventName": "Apexfleet",
+      "topic": "Apexfleet",
+      "category": "Vehicle Type",
+      "latestStrength": 46.52,
+      "growthRate": 0.42,
+      "influenceScore": 32.8,
+      "sentimentScore": 42.74,
+      "lifecycleStage": "Peak",
+      "relatedNarratives": [
+        "Swiftlogix",
+        "Velocityco"
+      ],
+      "timeline": [
+        {
+          "date": "2026-01-01",
+          "month": "2026-01",
+          "strength": 47.69,
+          "growth": 0.77,
+          "influence": 35.27,
+          "sentiment": 52.36,
+          "volume": 1747,
+          "stage": "Peak"
+        },
+        {
+          "date": "2026-02-01",
+          "month": "2026-02",
+          "strength": 47.48,
+          "growth": 4.75,
+          "influence": 36.72,
+          "sentiment": 73.98,
+          "volume": 3798,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-03-01",
+          "month": "2026-03",
+          "strength": 46.21,
+          "growth": -4.98,
+          "influence": 32.18,
+          "sentiment": 53.24,
+          "volume": 4920,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-04-01",
+          "month": "2026-04",
+          "strength": 43.26,
+          "growth": 5.33,
+          "influence": 30.2,
+          "sentiment": 24.04,
+          "volume": 357,
+          "stage": "Peak"
+        },
+        {
+          "date": "2026-05-01",
+          "month": "2026-05",
+          "strength": 40.76,
+          "growth": -2.19,
+          "influence": 34.3,
+          "sentiment": 32.85,
+          "volume": 1183,
+          "stage": "Stable"
+        },
+        {
+          "date": "2026-06-01",
+          "month": "2026-06",
+          "strength": 41.79,
+          "growth": -2.11,
+          "influence": 33.16,
+          "sentiment": 44.42,
+          "volume": 872,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-07-01",
+          "month": "2026-07",
+          "strength": 43.41,
+          "growth": -0.33,
+          "influence": 33.84,
+          "sentiment": 71.83,
+          "volume": 543,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-08-01",
+          "month": "2026-08",
+          "strength": 40.83,
+          "growth": 5.65,
+          "influence": 35.67,
+          "sentiment": 26.56,
+          "volume": 1669,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-09-01",
+          "month": "2026-09",
+          "strength": 41.58,
+          "growth": -3.76,
+          "influence": 30.1,
+          "sentiment": 47.76,
+          "volume": 717,
+          "stage": "Declining"
+        },
+        {
+          "date": "2026-10-01",
+          "month": "2026-10",
+          "strength": 44.24,
+          "growth": 7.7,
+          "influence": 31.37,
+          "sentiment": 59.13,
+          "volume": 4528,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-11-01",
+          "month": "2026-11",
+          "strength": 48.02,
+          "growth": 8.82,
+          "influence": 41.91,
+          "sentiment": 29.98,
+          "volume": 4078,
+          "stage": "Declining"
+        },
+        {
+          "date": "2026-12-01",
+          "month": "2026-12",
+          "strength": 46.52,
+          "growth": 0.42,
+          "influence": 32.8,
+          "sentiment": 42.74,
+          "volume": 3298,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "id": "narr-velocityco-2",
+      "eventId": "velocityco",
+      "eventName": "Velocityco",
+      "topic": "Velocityco",
+      "category": "Vehicle Type",
+      "latestStrength": 76.06,
+      "growthRate": -4.29,
+      "influenceScore": 61.38,
+      "sentimentScore": 36.34,
+      "lifecycleStage": "Peak",
+      "relatedNarratives": [
+        "Swiftlogix",
+        "Apexfleet"
+      ],
+      "timeline": [
+        {
+          "date": "2026-01-01",
+          "month": "2026-01",
+          "strength": 83.45,
+          "growth": -1.44,
+          "influence": 68.73,
+          "sentiment": 63.83,
+          "volume": 4652,
+          "stage": "Declining"
+        },
+        {
+          "date": "2026-02-01",
+          "month": "2026-02",
+          "strength": 81.54,
+          "growth": -1.25,
+          "influence": 69.92,
+          "sentiment": 54.75,
+          "volume": 4541,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-03-01",
+          "month": "2026-03",
+          "strength": 83.77,
+          "growth": -5.09,
+          "influence": 67.86,
+          "sentiment": 50.17,
+          "volume": 4450,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-04-01",
+          "month": "2026-04",
+          "strength": 81.17,
+          "growth": 2.13,
+          "influence": 68.45,
+          "sentiment": 24.11,
+          "volume": 656,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-05-01",
+          "month": "2026-05",
+          "strength": 81.0,
+          "growth": 9.07,
+          "influence": 65.5,
+          "sentiment": 54.74,
+          "volume": 425,
+          "stage": "Stable"
+        },
+        {
+          "date": "2026-06-01",
+          "month": "2026-06",
+          "strength": 78.57,
+          "growth": 4.52,
+          "influence": 63.51,
+          "sentiment": 38.98,
+          "volume": 2236,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-07-01",
+          "month": "2026-07",
+          "strength": 80.26,
+          "growth": -0.97,
+          "influence": 61.86,
+          "sentiment": 27.85,
+          "volume": 2557,
+          "stage": "Declining"
+        },
+        {
+          "date": "2026-08-01",
+          "month": "2026-08",
+          "strength": 79.47,
+          "growth": 6.03,
+          "influence": 59.3,
+          "sentiment": 47.5,
+          "volume": 4712,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-09-01",
+          "month": "2026-09",
+          "strength": 76.99,
+          "growth": -2.59,
+          "influence": 59.24,
+          "sentiment": 76.0,
+          "volume": 663,
+          "stage": "Growing"
+        },
+        {
+          "date": "2026-10-01",
+          "month": "2026-10",
+          "strength": 76.57,
+          "growth": -3.48,
+          "influence": 64.6,
+          "sentiment": 62.21,
+          "volume": 4433,
+          "stage": "Emerging"
+        },
+        {
+          "date": "2026-11-01",
+          "month": "2026-11",
+          "strength": 78.25,
+          "growth": 2.87,
+          "influence": 66.92,
+          "sentiment": 26.22,
+          "volume": 1200,
+          "stage": "Peak"
+        },
+        {
+          "date": "2026-12-01",
+          "month": "2026-12",
+          "strength": 76.06,
+          "growth": -4.29,
+          "influence": 61.38,
+          "sentiment": 36.34,
+          "volume": 1825,
+          "stage": "Peak"
+        }
+      ]
+    }
+  ],
+  "topGrowingTopics": [
+    {
+      "topic": "Swiftlogix",
+      "eventName": "Swiftlogix",
+      "trendScore": 59.89,
+      "growthRate": 2.52,
+      "momentum": 40.97
+    },
+    {
+      "topic": "Apexfleet",
+      "eventName": "Apexfleet",
+      "trendScore": 46.52,
+      "growthRate": 0.42,
+      "momentum": 28.75
+    },
+    {
+      "topic": "Velocityco",
+      "eventName": "Velocityco",
+      "trendScore": 76.06,
+      "growthRate": -4.29,
+      "momentum": 37.06
+    }
+  ],
+  "entities": [
+    {
+      "name": "Swiftlogix",
+      "type": "Organization",
+      "totalMentions": 34,
+      "latestMentions": 34,
+      "mentionStrength": 35.3,
+      "eventName": "Swiftlogix",
+      "timeline": [
+        {
+          "date": "2026-01-01",
+          "mentions": 26,
+          "strength": 36.64
+        },
+        {
+          "date": "2026-02-01",
+          "mentions": 28,
+          "strength": 35.19
+        },
+        {
+          "date": "2026-03-01",
+          "mentions": 45,
+          "strength": 38.76
+        },
+        {
+          "date": "2026-04-01",
+          "mentions": 23,
+          "strength": 34.54
+        },
+        {
+          "date": "2026-05-01",
+          "mentions": 28,
+          "strength": 30.34
+        },
+        {
+          "date": "2026-06-01",
+          "mentions": 41,
+          "strength": 36.67
+        },
+        {
+          "date": "2026-07-01",
+          "mentions": 28,
+          "strength": 37.71
+        },
+        {
+          "date": "2026-08-01",
+          "mentions": 35,
+          "strength": 34.58
+        },
+        {
+          "date": "2026-09-01",
+          "mentions": 21,
+          "strength": 31.05
+        },
+        {
+          "date": "2026-10-01",
+          "mentions": 44,
+          "strength": 39.34
+        },
+        {
+          "date": "2026-11-01",
+          "mentions": 35,
+          "strength": 38.65
+        },
+        {
+          "date": "2026-12-01",
+          "mentions": 36,
+          "strength": 31.78
+        }
+      ]
+    },
+    {
+      "name": "Apexfleet",
+      "type": "Product",
+      "totalMentions": 33,
+      "latestMentions": 33,
+      "mentionStrength": 9.42,
+      "eventName": "Apexfleet",
+      "timeline": [
+        {
+          "date": "2026-01-01",
+          "mentions": 23,
+          "strength": 7.5
+        },
+        {
+          "date": "2026-02-01",
+          "mentions": 44,
+          "strength": 12.38
+        },
+        {
+          "date": "2026-03-01",
+          "mentions": 43,
+          "strength": 13.41
+        },
+        {
+          "date": "2026-04-01",
+          "mentions": 25,
+          "strength": 6.92
+        },
+        {
+          "date": "2026-05-01",
+          "mentions": 23,
+          "strength": 12.22
+        },
+        {
+          "date": "2026-06-01",
+          "mentions": 43,
+          "strength": 8.48
+        },
+        {
+          "date": "2026-07-01",
+          "mentions": 36,
+          "strength": 5.97
+        },
+        {
+          "date": "2026-08-01",
+          "mentions": 44,
+          "strength": 13.07
+        },
+        {
+          "date": "2026-09-01",
+          "mentions": 46,
+          "strength": 12.53
+        },
+        {
+          "date": "2026-10-01",
+          "mentions": 43,
+          "strength": 4.67
+        },
+        {
+          "date": "2026-11-01",
+          "mentions": 39,
+          "strength": 7.74
+        },
+        {
+          "date": "2026-12-01",
+          "mentions": 44,
+          "strength": 12.44
+        }
+      ]
+    },
+    {
+      "name": "Velocityco",
+      "type": "Topic",
+      "totalMentions": 33,
+      "latestMentions": 33,
+      "mentionStrength": 15.42,
+      "eventName": "Velocityco",
+      "timeline": [
+        {
+          "date": "2026-01-01",
+          "mentions": 43,
+          "strength": 18.53
+        },
+        {
+          "date": "2026-02-01",
+          "mentions": 27,
+          "strength": 18.29
+        },
+        {
+          "date": "2026-03-01",
+          "mentions": 23,
+          "strength": 19.14
+        },
+        {
+          "date": "2026-04-01",
+          "mentions": 42,
+          "strength": 12.64
+        },
+        {
+          "date": "2026-05-01",
+          "mentions": 41,
+          "strength": 15.02
+        },
+        {
+          "date": "2026-06-01",
+          "mentions": 28,
+          "strength": 18.37
+        },
+        {
+          "date": "2026-07-01",
+          "mentions": 26,
+          "strength": 10.66
+        },
+        {
+          "date": "2026-08-01",
+          "mentions": 25,
+          "strength": 13.7
+        },
+        {
+          "date": "2026-09-01",
+          "mentions": 43,
+          "strength": 20.09
+        },
+        {
+          "date": "2026-10-01",
+          "mentions": 27,
+          "strength": 16.83
+        },
+        {
+          "date": "2026-11-01",
+          "mentions": 30,
+          "strength": 20.23
+        },
+        {
+          "date": "2026-12-01",
+          "mentions": 34,
+          "strength": 19.81
+        }
+      ]
+    }
+  ],
+  "sentimentTimeline": [
+    {
+      "date": "2026-01-01",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2026-02-01",
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    {
+      "date": "2026-03-01",
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    {
+      "date": "2026-04-01",
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    {
+      "date": "2026-05-01",
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    {
+      "date": "2026-06-01",
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    {
+      "date": "2026-07-01",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2026-08-01",
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    {
+      "date": "2026-09-01",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2026-10-01",
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-01",
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    {
+      "date": "2026-12-01",
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    }
+  ],
+  "predictions": [
+    {
+      "narrative": "Swiftlogix",
+      "eventName": "Swiftlogix",
+      "expectedGrowth": 1.76,
+      "direction": "Stable",
+      "forecast": [
+        {
+          "period": "+1m",
+          "strength": 60.34,
+          "confidence": 83.75
+        },
+        {
+          "period": "+2m",
+          "strength": 60.8,
+          "confidence": 77.75
+        },
+        {
+          "period": "+3m",
+          "strength": 61.26,
+          "confidence": 71.75
+        },
+        {
+          "period": "+4m",
+          "strength": 61.72,
+          "confidence": 65.75
+        }
+      ]
+    },
+    {
+      "narrative": "Apexfleet",
+      "eventName": "Apexfleet",
+      "expectedGrowth": 0.29,
+      "direction": "Stable",
+      "forecast": [
+        {
+          "period": "+1m",
+          "strength": 46.58,
+          "confidence": 83.96
+        },
+        {
+          "period": "+2m",
+          "strength": 46.64,
+          "confidence": 77.96
+        },
+        {
+          "period": "+3m",
+          "strength": 46.7,
+          "confidence": 71.96
+        },
+        {
+          "period": "+4m",
+          "strength": 46.75,
+          "confidence": 65.96
+        }
+      ]
+    },
+    {
+      "narrative": "Velocityco",
+      "eventName": "Velocityco",
+      "expectedGrowth": -3.0,
+      "direction": "Declining",
+      "forecast": [
+        {
+          "period": "+1m",
+          "strength": 75.08,
+          "confidence": 83.57
+        },
+        {
+          "period": "+2m",
+          "strength": 74.11,
+          "confidence": 77.57
+        },
+        {
+          "period": "+3m",
+          "strength": 73.16,
+          "confidence": 71.57
+        },
+        {
+          "period": "+4m",
+          "strength": 72.22,
+          "confidence": 65.57
+        }
+      ]
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "swiftlogix",
+        "label": "Swiftlogix",
+        "type": "Organization",
+        "score": 35.3
+      },
+      {
+        "id": "apexfleet",
+        "label": "Apexfleet",
+        "type": "Product",
+        "score": 9.42
+      },
+      {
+        "id": "velocityco",
+        "label": "Velocityco",
+        "type": "Topic",
+        "score": 15.42
+      },
+      {
+        "id": "swiftlogix_topic",
+        "label": "Swiftlogix",
+        "type": "Topic",
+        "score": 59.89
+      },
+      {
+        "id": "apexfleet_topic",
+        "label": "Apexfleet",
+        "type": "Topic",
+        "score": 46.52
+      },
+      {
+        "id": "velocityco_topic",
+        "label": "Velocityco",
+        "type": "Topic",
+        "score": 76.06
+      }
+    ],
+    "links": [
+      {
+        "source": "swiftlogix",
+        "target": "swiftlogix_topic",
+        "type": "related",
+        "strength": 0.37
+      },
+      {
+        "source": "swiftlogix_topic",
+        "target": "velocityco",
+        "type": "related",
+        "strength": 0.88
+      },
+      {
+        "source": "velocityco",
+        "target": "velocityco_topic",
+        "type": "related",
+        "strength": 0.41
+      },
+      {
+        "source": "velocityco_topic",
+        "target": "apexfleet_topic",
+        "type": "related",
+        "strength": 0.88
+      },
+      {
+        "source": "apexfleet_topic",
+        "target": "apexfleet",
+        "type": "related",
+        "strength": 0.46
+      },
+      {
+        "source": "apexfleet",
+        "target": "swiftlogix",
+        "type": "related",
+        "strength": 0.37
+      }
+    ]
+  },
+  "replayFrames": [
+    {
+      "date": "2026-01-01",
+      "label": "2026-01",
+      "dominantNarrative": "Velocityco",
+      "stage": "Peak",
+      "strength": 76.06,
+      "sentiment": 36.34,
+      "activeNarratives": [
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-01",
+      "label": "2026-02",
+      "dominantNarrative": "Velocityco",
+      "stage": "Peak",
+      "strength": 76.06,
+      "sentiment": 36.34,
+      "activeNarratives": [
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-01",
+      "label": "2026-03",
+      "dominantNarrative": "Apexfleet",
+      "stage": "Peak",
+      "strength": 46.52,
+      "sentiment": 42.74,
+      "activeNarratives": [
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "label": "2026-04",
+      "dominantNarrative": "Swiftlogix",
+      "stage": "Growing",
+      "strength": 59.89,
+      "sentiment": 59.59,
+      "activeNarratives": [
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "label": "2026-05",
+      "dominantNarrative": "Velocityco",
+      "stage": "Peak",
+      "strength": 76.06,
+      "sentiment": 36.34,
+      "activeNarratives": [
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "label": "2026-06",
+      "dominantNarrative": "Apexfleet",
+      "stage": "Peak",
+      "strength": 46.52,
+      "sentiment": 42.74,
+      "activeNarratives": [
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "label": "2026-07",
+      "dominantNarrative": "Apexfleet",
+      "stage": "Peak",
+      "strength": 46.52,
+      "sentiment": 42.74,
+      "activeNarratives": [
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "label": "2026-08",
+      "dominantNarrative": "Apexfleet",
+      "stage": "Peak",
+      "strength": 46.52,
+      "sentiment": 42.74,
+      "activeNarratives": [
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "label": "2026-09",
+      "dominantNarrative": "Velocityco",
+      "stage": "Peak",
+      "strength": 76.06,
+      "sentiment": 36.34,
+      "activeNarratives": [
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "label": "2026-10",
+      "dominantNarrative": "Swiftlogix",
+      "stage": "Growing",
+      "strength": 59.89,
+      "sentiment": 59.59,
+      "activeNarratives": [
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "label": "2026-11",
+      "dominantNarrative": "Velocityco",
+      "stage": "Peak",
+      "strength": 76.06,
+      "sentiment": 36.34,
+      "activeNarratives": [
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "label": "2026-12",
+      "dominantNarrative": "Velocityco",
+      "stage": "Peak",
+      "strength": 76.06,
+      "sentiment": 36.34,
+      "activeNarratives": [
+        {
+          "topic": "Velocityco",
+          "strength": 76.06,
+          "stage": "Peak"
+        },
+        {
+          "topic": "Swiftlogix",
+          "strength": 59.89,
+          "stage": "Growing"
+        },
+        {
+          "topic": "Apexfleet",
+          "strength": 46.52,
+          "stage": "Peak"
+        }
+      ]
+    }
+  ],
+  "dataQuality": [
+    {
+      "dataset": "raw_shipment_feed",
+      "record_count": 100,
+      "completeness": 99.0,
+      "uniqueness": 100.0,
+      "consistency": 97.5,
+      "timeliness": 96.8,
+      "quality_score": 98.33
+    }
+  ],
+  "intelligenceFeed": [
+    {
+      "title": "Swiftlogix is the top-growing segment",
+      "body": "Analysis of 'Shipment Feed' shows Swiftlogix leading with 2.5% growth rate.",
+      "severity": "High"
+    },
+    {
+      "title": "Swiftlogix is the dominant entity",
+      "body": "Swiftlogix appears 34 times with a strength score of 35.3.",
+      "severity": "Medium"
+    },
+    {
+      "title": "Custom dataset loaded successfully",
+      "body": "'Shipment Feed' contains 100 records with an overall data quality score of 98.3%.",
+      "severity": "Low"
+    }
+  ],
+  "reportSummary": {
+    "title": "Shipment Feed Intelligence Summary",
+    "eventFocus": "Swiftlogix",
+    "period": "2026-01 to 2026-12",
+    "primaryFinding": "Analysis of 'Shipment Feed' shows Swiftlogix leading with 2.5% growth rate.",
+    "recommendedDemoFlow": [
+      "Open Overview for key metrics",
+      "Explore top entities",
+      "Review sentiment timeline",
+      "Check predictions",
+      "Export report"
+    ]
+  }
+}

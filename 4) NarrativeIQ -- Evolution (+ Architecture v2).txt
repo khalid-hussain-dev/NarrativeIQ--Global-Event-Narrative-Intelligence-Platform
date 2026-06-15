@@ -1,0 +1,334 @@
+Evolution: NarrativeIQ → Global Narrative Intelligence Platform (GNIP)
+
+The difference is subtle but powerful.
+
+Version 1 (Event Intelligence)
+
+Question:
+
+What happened?
+
+Example:
+
+Cricket World Cup
+Election
+Product Launch
+
+Track:
+
+Sentiment
+Topics
+Discussion volume
+
+Good project.
+
+Version 2 (Global Narrative Intelligence Platform)
+
+Question:
+
+How does information evolve, spread, mutate, and influence public perception?
+
+Now we're entering intelligence-system territory.
+
+Imagine:
+
+Topic
+
+Artificial Intelligence
+
+The system tracks:
+
+2024
+AI assistants
+
+2025
+AI agents
+
+2026
+Autonomous AI systems
+
+2027
+AI governance
+
+The platform reconstructs narrative evolution.
+
+What Makes This Unique?
+
+Most analytics systems store:
+
+Data
+
+NarrativeIQ stores:
+
+Meaning
+
+and
+
+Evolution of meaning
+
+over time.
+
+The Core Idea
+
+Instead of treating content as individual records:
+
+Tweet
+Article
+Comment
+
+We treat them as:
+
+Narrative Fragments
+
+that contribute to larger stories.
+
+Architecture v2
+
+We add another layer.
+
+Sources
+↓
+Ingestion
+↓
+ETL
+↓
+Warehouse
+↓
+Intelligence Engine
+↓
+Narrative Knowledge Graph
+↓
+Visualization
+New Component
+Narrative Knowledge Graph
+
+This may become the most impressive feature in the exhibition.
+
+Instead of:
+
+OpenAI mentioned 500 times
+
+we store:
+
+OpenAI
+  ↔ GPT
+  ↔ AI Regulation
+  ↔ Microsoft
+  ↔ Agents
+
+Relationships become visible.
+
+The platform builds:
+
+Entity Networks
+
+Example:
+
+Tesla
+↔ Elon Musk
+↔ EV Market
+↔ China
+↔ Battery Technology
+Topic Networks
+
+Example:
+
+AI
+↔ Education
+↔ Jobs
+↔ Regulation
+↔ Startups
+
+Now judges see:
+
+A living map of information.
+
+Not a dashboard.
+
+Intelligence Modules
+1. Narrative Emergence Detection
+
+Question:
+
+What topic is becoming important?
+
+Example:
+
+AI Agents
+
+Mentioned:
+
+100
+150
+400
+900
+2500
+
+System flags:
+
+Emerging Narrative
+2. Narrative Shift Detection
+
+Question:
+
+Did public perception change?
+
+Example:
+
+Before:
+Positive
+
+After:
+Negative
+
+The platform detects transition.
+
+3. Narrative Competition
+
+This one is cool.
+
+Imagine:
+
+Electric Vehicles
+
+competing with
+
+Hydrogen Vehicles
+
+for public attention.
+
+The system compares:
+
+growth
+sentiment
+influence
+
+over time.
+
+4. Influence Analysis
+
+Not just:
+
+Who has followers?
+
+Instead:
+
+Who actually changes narratives?
+
+Big difference.
+
+5. Narrative Lifecycle Modeling
+
+Every narrative follows:
+
+Birth
+Growth
+Peak
+Decline
+Death
+
+The platform automatically identifies the stage.
+
+Warehouse Design Upgrade
+
+The original star schema remains.
+
+But we add:
+
+Fact_Narrative
+
+Measures:
+
+narrative_strength
+growth_rate
+influence_score
+Fact_Entity_Relationship
+
+Tracks:
+
+Entity A
+Entity B
+Relationship Strength
+Fact_Narrative_Trend
+
+Tracks:
+
+Topic
+Date
+Popularity
+Sentiment
+Exhibition Demo Strategy
+
+This is critical.
+
+Projects win exhibitions because of demos.
+
+Not because of architecture diagrams.
+
+Imagine the judge arrives.
+
+You select:
+
+"Artificial Intelligence"
+
+Immediately:
+
+Dashboard shows:
+
+Timeline
+Sentiment Evolution
+Entity Network
+Topic Growth
+Narrative Shifts
+Influencers
+Predictions
+
+Then you click:
+
+2024
+
+and the entire platform rewinds.
+
+Then:
+
+2025
+
+and the narrative evolves.
+
+Then:
+
+2026
+
+and new topics emerge.
+
+That's memorable.
+
+Why This Could Win
+
+Because most students present:
+
+Database
++
+Charts
+
+You would present:
+
+Historical Intelligence Infrastructure
+
+which feels much closer to something built by:
+
+Media intelligence firms
+Research organizations
+Policy institutes
+Strategic analysis teams
+
+than a typical final-year project.
+
+My recommendation is that we officially position the project as:
+
+NarrativeIQ
+Global Narrative Intelligence Platform
+
+Tagline:
+
+Transforming fragmented digital conversations into evolving intelligence.

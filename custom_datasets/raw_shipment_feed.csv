@@ -1,0 +1,101 @@
+feed_id,tracking_number,carrier_name,vehicle_type,driver_name,origin_city,destination_city,route_distance_miles,raw_dispatch_date,package_weight_lbs,shipping_fee_charged,delivery_status
+1,TRK-100101,SwiftLogix,Cargo Van,John Smith,New York,Boston,215,2026/05/10,12.5,45.50,Delivered
+2,TRK-100102,ApexFleet,Heavy Truck,Michael Brown,Boston,Chicago,980,2026/05/10,450.0,350.00,Delivered
+3,TRK-100103,VelocityCo,Motorcycle,David Jones,New York,New York,15,2026-05-11,2.1,12.00,Delivered
+4,TRK-100104,SwiftLogix,Cargo Van,Sarah Miller,Philadelphia,Baltimore,100,05-11-2026,25.0,,In Transit
+5,TRK-100105,ApexFleet,Heavy Truck,Michael Brown,Atlanta,Charlotte,245,2026.05.11,820.0,510.00,Delivered
+6,TRK-100106,VelocityCo,Cargo Van,James Wilson,Charlotte,Atlanta,245,2026/05/11,18.4,42.00,Delivered
+7,TRK-100107,SwiftLogix,Heavy Truck,Robert Davis,Miami,Atlanta,660,2026-05-12,1200.0,850.00,Delivered
+8,TRK-100108,ApexFleet,Motorcycle,Emily Taylor,Chicago,Chicago,8,05-12-2026,1.5,10.00,Delivered
+9,TRK-100109,VelocityCo,Cargo Van,James Wilson,Los Angeles,San Diego,120,2026.05.12,35.0,22.00,Delivered
+10,TRK-100110,SwiftLogix,Heavy Truck,Robert Davis,Houston,Dallas,240,2026/05/12,1500.0,,Delivered
+11,TRK-100104,SwiftLogix,Cargo Van,Sarah Miller,Philadelphia,Baltimore,100,05-11-2026,25.0,38.00,Delivered
+12,TRK-100111,ApexFleet,Cargo Van,Michael Brown,Seattle,Portland,175,2026-05-13,42.0,55.00,Delivered
+13,TRK-100112,VelocityCo,Heavy Truck,William Moore,Denver,Salt Lake City,520,2026/05/13,650.0,410.00,Delivered
+14,TRK-100113,SwiftLogix,Motorcycle,John Smith,New York,New York,22,05-13-2026,4.0,15.00,Delivered
+15,TRK-100114,ApexFleet,Heavy Truck,Christopher Anderson,St. Louis,Indianapolis,240,2026.05.13,950.0,620.00,Delivered
+16,TRK-100115,VelocityCo,Cargo Van,James Wilson,Chicago,Milwaukee,90,2026/05/13,15.8,,Delivered
+17,TRK-100116,SwiftLogix,Heavy Truck,Robert Davis,New York,Chicago,790,2026-05-14,2100.0,1450.00,In Transit
+18,TRK-100117,ApexFleet,Motorcycle,Emily Taylor,Los Angeles,Los Angeles,12,05-14-2026,0.8,9.50,Delivered
+19,TRK-100118,VelocityCo,Cargo Van,Brian Thomas,Phoenix,Tucson,115,2026.05.14,50.0,65.00,Delivered
+20,TRK-100119,SwiftLogix,Heavy Truck,John Smith,San Francisco,Los Angeles,380,2026/05/14,1800.0,1200.00,Delivered
+21,TRK-100120,ApexFleet,Cargo Van,Michael Brown,Detroit,Cleveland,170,2026-05-15,30.0,72.00,Delivered
+22,TRK-100121,VelocityCo,Heavy Truck,William Moore,Boston,New York,215,2026/05/15,1100.0,780.00,Delivered
+23,TRK-100122,SwiftLogix,Motorcycle,Sarah Miller,Miami,Miami,5,05-15-2026,1.1,10.00,Delivered
+24,TRK-100123,ApexFleet,Heavy Truck,Christopher Anderson,Dallas,Houston,240,2026.05.15,1400.0,,Delivered
+25,TRK-100124,VelocityCo,Cargo Van,James Wilson,Los Angeles,Phoenix,370,2026/05/15,22.0,52.00,Delivered
+26,TRK-100125,SwiftLogix,Heavy Truck,Robert Davis,New York,Miami,1280,2026-05-16,3200.0,2100.00,In Transit
+27,TRK-100126,ApexFleet,Motorcycle,Emily Taylor,Chicago,Chicago,19,05-16-2026,3.5,14.00,Delivered
+28,TRK-100127,VelocityCo,Cargo Van,Brian Thomas,Philadelphia,New York,95,2026.05.16,11.0,30.00,Delivered
+29,TRK-100128,SwiftLogix,Heavy Truck,John Smith,Austin,San Antonio,80,2026/05/16,780.0,490.00,Delivered
+30,TRK-100129,ApexFleet,Cargo Van,Michael Brown,Washington,Philadelphia,135,2026-05-17,45.0,95.00,Delivered
+31,TRK-100115,VelocityCo,Cargo Van,James Wilson,Chicago,Milwaukee,90,2026/05/13,15.8,32.00,Delivered
+32,TRK-100130,VelocityCo,Heavy Truck,William Moore,Salt Lake City,Las Vegas,420,2026/05/17,1650.0,1150.00,Delivered
+33,TRK-100131,SwiftLogix,Motorcycle,Sarah Miller,Los Angeles,Los Angeles,14,05-17-2026,1.9,11.50,Delivered
+34,TRK-100132,ApexFleet,Heavy Truck,Christopher Anderson,Chicago,Detroit,280,2026.05.17,1250.0,810.00,Delivered
+35,TRK-100133,VelocityCo,Cargo Van,James Wilson,Indianapolis,Chicago,180,2026/05/17,28.5,,Delivered
+36,TRK-100134,SwiftLogix,Heavy Truck,Robert Davis,New York,Cleveland,460,2026-05-18,2400.0,1600.00,Delivered
+37,TRK-100135,ApexFleet,Motorcycle,Emily Taylor,Baltimore,Washington,40,05-18-2026,2.2,12.50,Delivered
+38,TRK-100136,VelocityCo,Cargo Van,Brian Thomas,Pittsburgh,Columbus,185,2026.05.18,19.0,40.00,Delivered
+39,TRK-100137,SwiftLogix,Heavy Truck,John Smith,Houston,New Orleans,350,2026/05/18,1350.0,910.00,Delivered
+40,TRK-100138,ApexFleet,Cargo Van,Michael Brown,Nashville,Memphis,210,2026-05-19,38.0,48.00,Delivered
+41,TRK-100139,VelocityCo,Heavy Truck,William Moore,Cincinnati,Chicago,295,2026/05/19,890.0,590.00,In Transit
+42,TRK-100140,SwiftLogix,Motorcycle,Sarah Miller,Miami,Miami,30,05-19-2026,5.0,18.00,Delivered
+43,TRK-100141,ApexFleet,Heavy Truck,Christopher Anderson,Chicago,Minneapolis,410,2026.05.19,1700.0,,Delivered
+44,TRK-100142,VelocityCo,Cargo Van,James Wilson,Seattle,Spokane,280,2026/05/19,14.0,45.00,Delivered
+45,TRK-100143,SwiftLogix,Heavy Truck,Robert Davis,Los Angeles,San Francisco,380,2026-05-20,2900.0,1950.00,Delivered
+46,TRK-100144,ApexFleet,Motorcycle,Emily Taylor,Boston,Boston,4,05-20-2026,0.5,8.00,Delivered
+47,TRK-100145,VelocityCo,Cargo Van,Brian Thomas,Richmond,Norfolk,90,2026.05.20,21.5,35.00,Delivered
+48,TRK-100146,SwiftLogix,Heavy Truck,John Smith,Denver,Albuquerque,450,2026/05/20,1100.0,790.00,Delivered
+49,TRK-100147,ApexFleet,Cargo Van,Michael Brown,Philadelphia,New York,95,2026-05-21,41.0,85.00,Delivered
+50,TRK-100148,VelocityCo,Heavy Truck,William Moore,Boston,Miami,1480,2026/05/21,2200.0,1500.00,Delivered
+51,TRK-100149,SwiftLogix,Motorcycle,Sarah Miller,New York,New York,9,05-21-2026,1.7,11.00,Delivered
+52,TRK-100150,ApexFleet,Heavy Truck,Christopher Anderson,Dallas,San Antonio,270,2026.05.21,1300.0,840.00,Delivered
+53,TRK-100151,VelocityCo,Cargo Van,James Wilson,Chicago,St. Louis,300,2026/05/21,33.0,,Delivered
+54,TRK-100152,SwiftLogix,Heavy Truck,Robert Davis,New York,Buffalo,375,2026-05-22,2600.0,1700.00,In Transit
+55,TRK-100153,ApexFleet,Motorcycle,Emily Taylor,Chicago,Chicago,11,05-22-2026,2.8,13.00,Delivered
+56,TRK-100154,VelocityCo,Cargo Van,Brian Thomas,Cleveland,Detroit,170,2026.05.22,16.0,44.00,Delivered
+57,TRK-100155,SwiftLogix,Heavy Truck,John Smith,Houston,El Paso,745,2026/05/22,920.0,610.00,Delivered
+58,TRK-100156,ApexFleet,Cargo Van,Michael Brown,Washington,Richmond,110,2026-05-23,48.0,120.00,Delivered
+59,TRK-100157,VelocityCo,Heavy Truck,William Moore,Salt Lake City,Denver,520,2026/05/23,1500.0,990.00,Delivered
+60,TRK-100158,SwiftLogix,Motorcycle,Sarah Miller,Los Angeles,Los Angeles,17,05-23-2026,3.1,14.50,Delivered
+61,TRK-100159,ApexFleet,Heavy Truck,Christopher Anderson,Boston,Philadelphia,310,2026.05.23,1150.0,,Delivered
+62,TRK-100160,VelocityCo,Cargo Van,James Wilson,Phoenix,Las Vegas,300,2026/05/23,26.0,60.00,Delivered
+63,TRK-100161,SwiftLogix,Heavy Truck,Robert Davis,San Francisco,Seattle,810,2026-05-24,3100.0,2050.00,Delivered
+64,TRK-100162,ApexFleet,Motorcycle,Emily Taylor,New York,New York,6,05-24-2026,0.9,9.00,Delivered
+65,TRK-100163,VelocityCo,Cargo Van,Brian Thomas,Milwaukee,Chicago,90,2026.05.24,12.5,35.00,Delivered
+66,TRK-100164,SwiftLogix,Heavy Truck,John Smith,Jacksonville,Miami,330,2026/05/24,840.0,540.00,Delivered
+67,TRK-100165,ApexFleet,Cargo Van,Michael Brown,Atlanta,Orlando,440,2026-05-25,39.0,160.00,In Transit
+68,TRK-100166,VelocityCo,Heavy Truck,William Moore,Chicago,Indianapolis,180,2026/05/25,750.0,490.00,Delivered
+69,TRK-100167,SwiftLogix,Motorcycle,Sarah Miller,Miami,Miami,21,05-25-2026,4.2,16.00,Delivered
+70,TRK-100168,ApexFleet,Heavy Truck,Christopher Anderson,New York,Boston,215,2026.05.25,1850.0,,Delivered
+71,TRK-100123,ApexFleet,Heavy Truck,Christopher Anderson,Dallas,Houston,240,2026.05.15,1400.0,820.00,Delivered
+72,TRK-100169,VelocityCo,Cargo Van,James Wilson,Seattle,Olympia,60,2026/05/25,17.5,42.00,Delivered
+73,TRK-100170,SwiftLogix,Heavy Truck,Robert Davis,Los Angeles,Salt Lake City,690,2026-05-26,2750.0,1850.00,Delivered
+74,TRK-100171,ApexFleet,Motorcycle,Emily Taylor,Chicago,Chicago,13,05-26-2026,1.4,10.50,Delivered
+75,TRK-100172,VelocityCo,Cargo Van,Brian Thomas,Philadelphia,Washington,135,2026.05.26,29.0,75.00,Delivered
+76,TRK-100173,SwiftLogix,Heavy Truck,John Smith,San Antonio,Dallas,275,2026/05/26,990.0,630.00,Delivered
+77,TRK-100174,ApexFleet,Cargo Van,Michael Brown,Baltimore,Philadelphia,100,2026-05-27,22.0,30.00,Delivered
+78,TRK-100175,VelocityCo,Heavy Truck,William Moore,Denver,Kansas City,600,2026/05/27,1400.0,920.00,Delivered
+79,TRK-100176,SwiftLogix,Motorcycle,Sarah Miller,New York,New York,8,05-27-2026,2.0,11.00,Delivered
+80,TRK-100177,ApexFleet,Heavy Truck,Christopher Anderson,Houston,New Orleans,350,2026.05.27,1600.0,,In Transit
+81,TRK-100178,VelocityCo,Cargo Van,James Wilson,Indianapolis,Louisville,115,2026/05/27,31.0,85.00,Delivered
+82,TRK-100179,SwiftLogix,Heavy Truck,Robert Davis,New York,Boston,215,2026-05-28,2300.0,1550.00,Delivered
+83,TRK-100180,ApexFleet,Motorcycle,Emily Taylor,Chicago,Chicago,3,05-28-2026,0.4,7.50,Delivered
+84,TRK-100181,VelocityCo,Cargo Van,Brian Thomas,Detroit,Toledo,60,2026.05.28,15.0,38.00,Delivered
+85,TRK-100182,SwiftLogix,Heavy Truck,John Smith,New Orleans,Houston,350,2026/05/28,1200.0,810.00,Delivered
+86,TRK-100183,ApexFleet,Cargo Van,Michael Brown,Dallas,Austin,200,2026-05-29,46.0,110.00,Delivered
+87,TRK-100184,VelocityCo,Heavy Truck,William Moore,Phoenix,Albuquerque,420,2026/05/29,1900.0,1350.00,Delivered
+88,TRK-100185,SwiftLogix,Motorcycle,Sarah Miller,Miami,Miami,25,05-29-2026,4.8,17.00,Delivered
+89,TRK-100186,ApexFleet,Heavy Truck,Christopher Anderson,Boston,New York,215,2026.05.29,1450.0,,Delivered
+90,TRK-100187,VelocityCo,Cargo Van,James Wilson,Columbus,Cleveland,140,2026/05/29,24.5,68.00,Delivered
+91,TRK-100188,SwiftLogix,Heavy Truck,Robert Davis,New York,Atlanta,860,2026-05-30,3400.0,2250.00,In Transit
+92,TRK-100189,ApexFleet,Motorcycle,Emily Taylor,Washington,Baltimore,40,05-30-2026,1.2,12.00,Delivered
+93,TRK-100190,VelocityCo,Cargo Van,Brian Thomas,Grand Rapids,Detroit,160,2026.05.30,19.5,46.00,Delivered
+94,TRK-100191,SwiftLogix,Heavy Truck,John Smith,Houston,Austin,160,2026/05/30,810.0,520.00,Delivered
+95,TRK-100192,ApexFleet,Cargo Van,Michael Brown,Philadelphia,Pittsburgh,305,2026-05-31,37.5,88.00,Delivered
+96,TRK-100193,VelocityCo,Heavy Truck,William Moore,Salt Lake City,Boise,340,2026/05/31,1750.0,1200.00,Delivered
+97,TRK-100194,SwiftLogix,Motorcycle,Sarah Miller,New York,New York,12,05-31-2026,2.3,13.00,Delivered
+98,TRK-100195,ApexFleet,Heavy Truck,Christopher Anderson,Austin,Houston,160,2026.05.31,1550.0,990.00,Delivered
+99,TRK-100196,VelocityCo,Cargo Van,James Wilson,Chicago,Indianapolis,180,2026/05/31,27.0,,Delivered
+100,TRK-100197,SwiftLogix,Heavy Truck,Robert Davis,New York,Cleveland,460,2026-06-01,2250.0,1500.00,Delivered

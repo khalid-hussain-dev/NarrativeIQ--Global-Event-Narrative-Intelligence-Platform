@@ -1,0 +1,472 @@
+NARRATIVEIQ
+Global Event & Narrative Intelligence Platform
+1. Abstract
+
+Modern society generates enormous volumes of digital information through news platforms, social media networks, discussion forums, blogs, and public communication channels. While traditional analytics systems focus on isolated metrics such as engagement, popularity, or sentiment, they often fail to capture the evolution of narratives that shape public opinion and influence decision-making.
+
+NarrativeIQ is a Global Event and Narrative Intelligence Platform designed to transform fragmented digital information into structured intelligence. The system continuously collects data from multiple digital sources, performs large-scale data processing and enrichment, stores historical information within a dimensional data warehouse, and reconstructs the lifecycle of narratives over time.
+
+The platform enables users to identify emerging events, analyze sentiment shifts, track influential entities, detect narrative evolution patterns, and forecast future trends. Through the integration of ETL pipelines, dimensional modeling, historical warehousing, business intelligence analytics, and predictive intelligence techniques, NarrativeIQ demonstrates a comprehensive application of Data Warehousing and Big Data principles.
+
+The proposed system serves as an advanced intelligence platform capable of supporting researchers, analysts, media organizations, policy makers, and decision-makers by converting large-scale unstructured data into actionable narrative intelligence.
+
+2. Introduction
+
+The exponential growth of digital communication has fundamentally changed how information is produced, distributed, and consumed. Every day, millions of articles, posts, comments, discussions, and public reactions contribute to the formation of narratives surrounding major events.
+
+Organizations increasingly require the ability to monitor not only what is being discussed but also how discussions evolve over time. Existing analytical systems primarily provide descriptive insights such as counts, trends, and summary statistics. However, they rarely offer mechanisms for understanding narrative formation, evolution, influence, and decline.
+
+NarrativeIQ addresses this limitation by introducing a platform that combines Big Data processing techniques with Data Warehousing methodologies to create a historical intelligence system capable of reconstructing narrative evolution across multiple information sources.
+
+3. Problem Statement
+
+Digital information ecosystems generate vast amounts of heterogeneous and rapidly evolving data. News organizations, researchers, analysts, and decision-makers face significant challenges when attempting to understand:
+
+How narratives emerge and evolve.
+How public sentiment changes over time.
+Which entities influence public discourse.
+Which topics are gaining or losing relevance.
+How information spreads across digital ecosystems.
+
+Traditional analytics systems focus primarily on current metrics and isolated observations. They lack the capability to preserve historical narrative intelligence and provide long-term analytical insights regarding information evolution.
+
+Consequently, organizations struggle to identify emerging trends, predict narrative shifts, and understand the lifecycle of public discourse.
+
+4. Motivation
+
+The motivation behind NarrativeIQ originates from the growing importance of information intelligence in modern society.
+
+Major organizations increasingly depend on data-driven insights to:
+
+Monitor public perception.
+Understand information dynamics.
+Identify emerging trends.
+Assess reputational risks.
+Track topic evolution.
+Support strategic decision-making.
+
+Despite the abundance of available data, extracting meaningful intelligence remains a significant challenge. NarrativeIQ seeks to bridge this gap by creating an integrated platform capable of transforming raw information into structured narrative intelligence.
+
+5. Existing Systems and Limitations
+
+Current analytics solutions typically provide:
+
+Sentiment analysis dashboards.
+Social media monitoring tools.
+Trend analysis platforms.
+News aggregation systems.
+
+However, these systems suffer from several limitations:
+
+Limitation 1
+
+Focus primarily on descriptive analytics rather than narrative evolution.
+
+Limitation 2
+
+Limited historical intelligence capabilities.
+
+Limitation 3
+
+Lack of integrated warehousing architecture.
+
+Limitation 4
+
+Insufficient support for cross-source narrative reconstruction.
+
+Limitation 5
+
+Minimal predictive intelligence functionality.
+
+NarrativeIQ addresses these limitations through a comprehensive intelligence-driven architecture.
+
+6. Proposed Solution
+
+NarrativeIQ proposes a multi-layer intelligence platform capable of:
+
+Collecting digital information from multiple sources.
+Performing automated ETL processing.
+Enriching data using NLP techniques.
+Storing information within a dimensional warehouse.
+Reconstructing narrative lifecycles.
+Detecting emerging events.
+Tracking sentiment evolution.
+Identifying influential entities.
+Predicting future narrative trajectories.
+
+The platform transforms raw digital information into actionable intelligence.
+
+7. Project Objectives
+Primary Objectives
+Objective 1
+
+Design and implement a scalable data warehouse for historical narrative intelligence.
+
+Objective 2
+
+Develop automated ETL pipelines for data extraction, cleaning, transformation, and loading.
+
+Objective 3
+
+Track narrative evolution across time.
+
+Objective 4
+
+Analyze sentiment and topic trends.
+
+Objective 5
+
+Construct entity relationship intelligence models.
+
+Objective 6
+
+Provide interactive visualization dashboards.
+
+Objective 7
+
+Implement predictive analytics for narrative forecasting.
+
+8. Project Scope
+
+The project encompasses:
+
+Included
+Data collection
+ETL processing
+Data profiling
+Data cleaning
+Data warehousing
+Business intelligence analytics
+Narrative reconstruction
+Sentiment analysis
+Entity extraction
+Trend prediction
+Interactive dashboards
+Excluded
+Private social media data
+Real-time surveillance systems
+Government intelligence operations
+User-generated content moderation
+9. System Architecture
+
+NarrativeIQ follows an eight-layer architecture.
+
+Digital Sources
+      ↓
+Collection Layer
+      ↓
+Raw Data Lake
+      ↓
+ETL & Enrichment
+      ↓
+Enterprise Data Warehouse
+      ↓
+Narrative Intelligence Engine
+      ↓
+Predictive Analytics Engine
+      ↓
+Visualization Portal
+10. Data Collection Layer
+
+Responsible for acquiring data from:
+
+News Sources
+Headlines
+Articles
+Publishers
+Social Platforms
+Posts
+Comments
+Engagement metrics
+Discussion Platforms
+Threads
+User discussions
+Community reactions
+Event Datasets
+Historical event repositories
+Public datasets
+11. ETL Pipeline Design
+Extraction
+
+Collect data from multiple sources.
+
+Transformation
+
+Perform:
+
+Duplicate removal
+Text normalization
+URL removal
+Date standardization
+Language cleaning
+Enrichment
+
+Apply:
+
+Entity Recognition
+Topic Classification
+Sentiment Analysis
+Keyword Extraction
+Loading
+
+Store transformed data in the warehouse.
+
+12. Data Warehouse Design
+
+The warehouse follows a Star Schema architecture.
+
+Dimension Tables
+Dim_Date
+
+Stores:
+
+Day
+Week
+Month
+Quarter
+Year
+Dim_Source
+
+Stores:
+
+Source Name
+Source Type
+Platform
+Dim_Event
+
+Stores:
+
+Event Name
+Category
+Region
+Dim_Entity
+
+Stores:
+
+Person
+Organization
+Product
+Location
+Dim_Topic
+
+Stores:
+
+Topic Category
+Topic Name
+Dim_Sentiment
+
+Stores:
+
+Positive
+Neutral
+Negative
+Fact Tables
+Fact_Content
+
+Stores:
+
+Content Count
+Engagement Score
+Reach Metrics
+Fact_Entity_Mentions
+
+Stores:
+
+Mention Count
+Mention Frequency
+Fact_Sentiment
+
+Stores:
+
+Sentiment Score
+Polarity
+Fact_Narrative
+
+Stores:
+
+Narrative Strength
+Narrative Growth
+Narrative Influence
+Fact_Trends
+
+Stores:
+
+Popularity Score
+Trend Velocity
+Growth Rate
+13. Narrative Intelligence Engine
+
+The core analytical subsystem.
+
+Event Detection
+
+Identifies emerging events.
+
+Narrative Reconstruction
+
+Builds narrative timelines.
+
+Topic Evolution
+
+Tracks topic transformations.
+
+Narrative Lifecycle Analysis
+
+Classifies narratives as:
+
+Emerging
+Growing
+Peak
+Declining
+Archived
+14. Entity Intelligence Engine
+
+Analyzes:
+
+Organizations
+People
+Products
+Locations
+
+Capabilities:
+
+Relationship Discovery
+Influence Tracking
+Entity Trend Analysis
+15. Sentiment Evolution Engine
+
+Tracks:
+
+Positive trends
+Negative trends
+Volatility patterns
+
+over time.
+
+16. Predictive Analytics Module
+
+Uses historical warehouse data to forecast:
+
+Predictions
+Emerging narratives
+Future popularity
+Sentiment direction
+Topic growth rates
+17. Dashboard Modules
+Executive Dashboard
+
+High-level intelligence summary.
+
+Narrative Explorer
+
+Narrative evolution timeline.
+
+Trend Intelligence Dashboard
+
+Trending topics and events.
+
+Sentiment Intelligence Dashboard
+
+Sentiment movement analysis.
+
+Entity Intelligence Dashboard
+
+Entity relationships and influence.
+
+Predictive Intelligence Dashboard
+
+Forecasting and trend prediction.
+
+18. Functional Requirements
+
+The system shall:
+
+Collect data from multiple sources.
+Execute ETL processes.
+Store historical information.
+Track narratives.
+Perform sentiment analysis.
+Identify entities.
+Generate dashboards.
+Predict future trends.
+Support analytical queries.
+19. Non-Functional Requirements
+Performance
+
+Efficient processing of large datasets.
+
+Scalability
+
+Support future expansion.
+
+Reliability
+
+Ensure warehouse consistency.
+
+Maintainability
+
+Modular architecture.
+
+Security
+
+Role-based access control.
+
+Availability
+
+Continuous analytical access.
+
+20. Technology Stack
+Frontend
+Next.js
+TypeScript
+TailwindCSS
+Backend
+FastAPI
+Data Processing
+Python
+Pandas
+NumPy
+NLP
+spaCy
+Transformers
+Sentence Transformers
+Database
+PostgreSQL
+Visualization
+D3.js
+Recharts
+21. Innovation and Research Contribution
+
+NarrativeIQ introduces the concept of:
+
+Narrative-Centric Data Warehousing
+
+Instead of analyzing isolated records, the platform models the evolution of narratives as first-class analytical entities.
+
+This approach enables:
+
+Historical narrative intelligence
+Narrative lifecycle modeling
+Cross-source narrative reconstruction
+Predictive narrative forecasting
+22. Expected Outcomes
+
+The completed system will:
+
+Collect large-scale digital information.
+Store historical narrative intelligence.
+Detect emerging events.
+Reconstruct narrative evolution.
+Analyze public sentiment.
+Identify influential entities.
+Predict future trends.
+23. Future Enhancements
+Real-time streaming analytics
+Multilingual intelligence support
+Knowledge graph integration
+Geospatial intelligence mapping
+AI-powered narrative summarization
+Cross-platform influence tracking
+24. Conclusion
+
+NarrativeIQ represents a comprehensive application of Data Warehousing and Big Data principles for modern information intelligence. By combining ETL pipelines, dimensional modeling, historical warehousing, narrative reconstruction, sentiment analysis, predictive analytics, and interactive visualization, the platform transforms fragmented digital information into actionable intelligence. The project demonstrates how advanced data engineering and analytical techniques can be utilized to understand not only what is happening in the digital world, but how narratives emerge, evolve, influence audiences, and shape future discourse.
