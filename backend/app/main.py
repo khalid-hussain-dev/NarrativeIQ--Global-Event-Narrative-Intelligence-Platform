@@ -358,14 +358,14 @@ def read_audit_log(limit: int = 12) -> dict[str, Any]:
     return {"logPath": str(AUDIT_LOG), "entries": entries}
 
 
-@app.get("/")
+@app.get("/api")
 def root() -> dict[str, Any]:
     return {
         "name": "NarrativeIQ API",
         "status": "running",
         "message": "Use /health, /dashboard, /topic-intelligence?q=your-topic, or /docs.",
         "docs": "/docs",
-        "frontend": "http://localhost:3000",
+        "frontend": "/",
     }
 
 
@@ -1182,4 +1182,10 @@ def topic_live_mart(
     """
     return generate_live_mart_data(q.strip())
 
+from fastapi.staticfiles import StaticFiles
+
+frontend_out = PROJECT_ROOT / "frontend" / "out"
+if frontend_out.exists():
+    # Mount the static Next.js export
+    app.mount("/", StaticFiles(directory=str(frontend_out), html=True), name="frontend")
 
