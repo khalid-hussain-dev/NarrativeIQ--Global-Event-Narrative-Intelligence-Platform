@@ -201,7 +201,7 @@ def require_admin_key(x_admin_key: str = Header(default=None, alias="X-Admin-Key
     admin_key = os.getenv("NARRATIVEIQ_ADMIN_KEY")
     if not admin_key:
         return
-    if x_admin_key != admin_key:
+    if x_admin_key is None or x_admin_key.strip() != admin_key.strip():
         raise HTTPException(status_code=401, detail="Invalid admin key")
 
 
