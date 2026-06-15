@@ -2506,85 +2506,139 @@ button span {
   margin: 0;
 }
 
-/* ── Social Footer ─────────────────────────────────────────────────────── */
+/* ── Social Footer (CyberShield Style) ─────────────────────────────────── */
 .app-footer {
+  grid-column: 1 / -1;
   background: #030710;
   border-top: 1px solid #1a243a;
-  padding: 0 28px;
-  margin-left: var(--sidebar-width, 240px);
-  transition: margin-left 0.25s ease;
+  padding: 24px 32px;
+  z-index: 10;
+  margin-top: 32px;
 }
-.drawer-closed .app-footer {
-  margin-left: 0;
-}
-@media (max-width: 900px) {
-  .app-footer {
-    margin-left: 0;
-  }
-}
+
 .app-footer-inner {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 18px 0 16px;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
+  gap: 24px;
   flex-wrap: wrap;
+  max-width: 1600px;
+  margin: 0 auto;
 }
-.app-footer-brand {
-  font-size: 12px;
+
+/* Left side: Brand block */
+.footer-brand-container {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.footer-brand-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.footer-brand-logo {
+  font-size: 18px;
+}
+
+.footer-brand-name {
+  font-size: 15px;
   font-weight: 700;
-  color: var(--cyan);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  color: var(--text);
+  letter-spacing: 0.5px;
 }
+
+.footer-brand-desc {
+  font-size: 12px;
+  color: var(--muted);
+  margin: 0;
+}
+
+/* Center: Social links as premium pills */
 .app-footer-socials {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 12px;
   flex-wrap: wrap;
 }
-.footer-social-link {
+
+.footer-social-btn {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 6px 12px;
-  border-radius: 8px;
-  border: 1px solid #1e2d47;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: 1px solid #202b42;
   background: #0a1120;
-  color: #9ca8ba;
-  font-size: 12px;
+  color: var(--muted);
+  font-size: 13px;
   font-weight: 600;
   text-decoration: none;
-  transition: border-color 0.18s, color 0.18s, background 0.18s, transform 0.15s;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
-.footer-social-link:hover {
-  border-color: var(--cyan);
-  color: var(--cyan);
-  background: #0d1e35;
-  transform: translateY(-1px);
-}
-.footer-social-link svg {
+
+.footer-social-btn svg {
   flex-shrink: 0;
-  opacity: 0.8;
+  color: var(--muted);
+  transition: color 0.2s;
 }
-.footer-social-link:hover svg {
-  opacity: 1;
+
+/* Specific brand hover accent colors matching CyberShield styling */
+.footer-social-btn:hover {
+  color: var(--text);
+  border-color: var(--cyan);
+  background: #112240;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(21, 216, 255, 0.15);
 }
-.app-footer-copy {
+
+.footer-social-btn:hover svg {
+  color: var(--cyan);
+}
+
+/* Right side: Copyright & credits */
+.footer-credits-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  text-align: right;
+}
+
+.footer-designed-by {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.footer-designed-by a {
+  color: var(--cyan);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.15s;
+}
+
+.footer-designed-by a:hover {
+  text-decoration: underline;
+}
+
+.footer-copyright {
   font-size: 11px;
   color: #4a5568;
-  width: 100%;
-  text-align: center;
-  padding-top: 10px;
-  border-top: 1px solid #111825;
-  margin-top: 4px;
 }
-@media (max-width: 700px) {
+
+/* Responsive adjust */
+@media (max-width: 960px) {
   .app-footer-inner {
     flex-direction: column;
-    align-items: flex-start;
-    gap: 12px;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+  }
+  .footer-brand-container,
+  .footer-credits-container {
+    align-items: center;
+    text-align: center;
   }
 }
