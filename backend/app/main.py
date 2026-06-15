@@ -284,6 +284,15 @@ def run_database_sql(sql: str, extra_args: list[str] | None = None) -> str:
         args.extend(extra_args)
     env = os.environ.copy()
     env["PGCLIENTENCODING"] = "UTF8"
+    
+    # Extract password from database URL to set PGPASSWORD so psql on Windows connects correctly
+    from urllib.parse import urlparse
+    try:
+        parsed = urlparse(url)
+        if parsed.password:
+            env["PGPASSWORD"] = parsed.password
+    except Exception:
+        pass
 
     completed = subprocess.run(
         args,

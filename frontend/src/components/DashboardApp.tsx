@@ -2097,13 +2097,10 @@ export function DashboardApp() {
       <footer className="app-footer">
         <div className="app-footer-inner">
           {/* Left: Brand info */}
-          <div className="footer-brand-container">
-            <div className="footer-brand-title">
-              <span className="footer-brand-logo">📊</span>
-              <span className="footer-brand-name">NarrativeIQ</span>
+            <div className="footer-brand-container">
+              <Logo variant="nav" className="footer-logo" />
+              <p className="footer-brand-desc">Global Event &amp; Narrative Intelligence Platform</p>
             </div>
-            <p className="footer-brand-desc">Global Event &amp; Narrative Intelligence Platform</p>
-          </div>
 
           {/* Center: Social links as premium button pills */}
           <div className="app-footer-socials">
