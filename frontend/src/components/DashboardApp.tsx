@@ -1290,37 +1290,37 @@ export function DashboardApp() {
             <div className="topic-metric-grid">
               <article>
                 <span>Influence</span>
-                <strong>{topicBrief ? formatScore(topicBrief.influenceScore) : "--"}</strong>
+                <strong title="Influence = 22 + source_weight + reference_weight * 0.55 + news_signals * 1.25 + popularity_weight (clamped 1‑96)">{topicBrief ? formatScore(topicBrief.influenceScore) : "--"}</strong>
               </article>
               <article>
                 <span>Strength</span>
-                <strong>{topicBrief ? formatScore(topicBrief.narrativeStrength) : "--"}</strong>
+                <strong title="Strength = 24 + reference_weight + news_weight + word_count_bonus + popularity_weight (clamped 1‑96)">{topicBrief ? formatScore(topicBrief.narrativeStrength) : "--"}</strong>
               </article>
               <article>
                 <span>Sentiment</span>
-                <strong>{topicBrief?.sentimentLabel ?? "--"}</strong>
+                <strong title="sentiment_score = (positive_hits - negative_hits) / (positive_hits + negative_hits + 2)">{topicBrief?.sentimentLabel ?? "--"}</strong>
               </article>
               <article>
                 <span>Stage</span>
-                <strong>{topicBrief?.lifecycleStage ?? "--"}</strong>
+                <strong title="Stage thresholds: if news_signals ≥ 15 or reference_signals ≥ 32 → Peak; else if news_signals ≥ 5 or reference_signals ≥ 12 → Growing; else Emerging">{topicBrief?.lifecycleStage ?? "--"}</strong>
               </article>
             </div>
             <div className="topic-evidence-grid">
               <article>
                 <span>Total Signals</span>
-                <strong>{topicBrief?.evidence ? formatCompact(topicBrief.evidence.totalSignals) : "--"}</strong>
+                <strong title="Total Signals = reference_signals + news_signals">{topicBrief?.evidence ? formatCompact(topicBrief.evidence.totalSignals) : "--"}</strong>
               </article>
               <article>
                 <span>Reference</span>
-                <strong>{topicBrief?.evidence ? formatCompact(topicBrief.evidence.referenceSignals) : "--"}</strong>
+                <strong title="Reference = 1 + min(40, total_hits // 25) + min(20, word_count // 180)">{topicBrief?.evidence ? formatCompact(topicBrief.evidence.referenceSignals) : "--"}</strong>
               </article>
               <article>
                 <span>News Signals</span>
-                <strong>{topicBrief?.evidence ? formatCompact(topicBrief.evidence.newsSignals) : "--"}</strong>
+                <strong title="News Signals = article_relevance * 0.62 + article_count * 0.35 + news_source_count * 1.15">{topicBrief?.evidence ? formatCompact(topicBrief.evidence.newsSignals) : "--"}</strong>
               </article>
               <article>
                 <span>Sources</span>
-                <strong>{topicBrief?.evidence ? formatCompact(topicBrief.evidence.sourceClusters) : "--"}</strong>
+                <strong title="Sources = news_source_count + 1 (including Wikipedia)">{topicBrief?.evidence ? formatCompact(topicBrief.evidence.sourceClusters) : "--"}</strong>
               </article>
             </div>
             <div className="topic-chart">
